@@ -57,3 +57,10 @@ desktop.ini
 *service-account*.json
 *credentials*.json
 plexiform-muse-465811-b1-eaf969890e35.json
+# === secrets (never commit) ===
+plexiform-muse-465811-b1-eaf969890e35.json
+service_account_key.json
+.env
+.env.*
+*service-account*.json
+*credentials*.json
