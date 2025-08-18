@@ -1,0 +1,18 @@
+{
+  "templates": [
+    {
+      "id": "wordpress_basic",
+      "type": "wordpress",
+      "api_endpoint": "/wp-json/wp/v2/posts",
+      "auth_method": "application_password",
+      "required_fields": ["domain", "username", "password"]
+    },
+    {
+      "id": "custom_cms",
+      "type": "custom",
+      "api_endpoint": "/api/posts",
+      "auth_method": "bearer_token",
+      "required_fields": ["domain", "api_token"]
+    }
+  ]
+}

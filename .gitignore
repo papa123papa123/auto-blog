@@ -1,0 +1,53 @@
+# --- System & Environment ---
+# Environment variables (Keep these secret!)
+.env
+service_account_key.json
+
+# Python virtual environments
+/.venv/
+/venv/
+
+# --- IDE / Editor Settings ---
+# Visual Studio Code
+.vscode/
+
+# --- Generated Files & Outputs ---
+# Caches
+__pycache__/
+.pytest_cache/
+
+# Generated content by the application
+/generated_images/
+/summarized_texts/
+/collected_texts/
+
+# --- Configuration & Sensitive Docs ---
+# Config files that may contain secrets
+/config/sites_manager.json
+/config/credentials.xlsx
+
+# Document files (often contain sensitive data or are not suitable for git)
+*.docx
+*.xlsx
+*.csv
+*.html
+*.md
+*.txt
+
+# Ignore all files in the root except for specific ones
+# (Uncomment and adjust if you want to enforce a very strict file policy)
+# /*
+# !/src/
+# !/config/
+# !/prompts/
+# !main.py
+# !requirements.txt
+# !.gitignore
+
+# --- OS-specific ---
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store

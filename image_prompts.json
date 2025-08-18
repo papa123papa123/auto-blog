@@ -1,0 +1,119 @@
+{
+  "eyecatch": {
+    "prompt": {
+      "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a stylish cokage parasol,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting, vibrant colors, summery background, elegant pose, flowing fabric,  sunlight filtering through the parasol,  depth of field, bokeh, cinematic lighting,  8k resolution, award-winning photography",
+      "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+    },
+    "filename": "eyecatch.png"
+  },
+  "h3_images": [
+    {
+      "prompt": {
+        "h3_title": "日傘cokageとは？その機能と構造を徹底解剖",
+        "positive_prompt": "Close-up shot of a cokage parasol, showcasing its detailed construction and materials, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  diagrammatic elements subtly overlayed to highlight key features,  a beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, looking inquisitively at the parasol, 8k resolution, studio lighting",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_0.png",
+      "placeholder": "[h3_image_0]"
+    },
+    {
+      "prompt": {
+        "h3_title": "人気ブランドcokage日傘の歴史と背景：こだわりの技術とデザイン",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a vintage cokage parasol, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  elegant background suggesting a historical context,  detailed shots highlighting the craftsmanship,  8k resolution, cinematic lighting,  vintage color grading",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_1.png",
+      "placeholder": "[h3_image_1]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘の魅力：UVカット効果や快適な使用感、デザイン性の高さ",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression,  strolling outdoors on a sunny day under a cokage parasol, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  emphasizing the parasol's UV protection and comfortable design,  bright and airy atmosphere,  8k resolution, shallow depth of field",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_2.png",
+      "placeholder": "[h3_image_2]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘の潜在的な弱点と購入前の注意点",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, carefully examining a cokage parasol, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  focus on potential weaknesses like fabric fragility or handle strength, close-up shots,  8k resolution, neutral color palette",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_3.png",
+      "placeholder": "[h3_image_3]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘に関するよくある質問と回答集",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, sitting at a table with a cokage parasol and a notebook, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  suggestive of a FAQ section,  8k resolution, warm lighting",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_4.png",
+      "placeholder": "[h3_image_4]"
+    },
+    {
+      "prompt": {
+        "h3_title": "夏の暑さ対策に効果的な日傘の重要性：熱中症予防と快適な生活のために",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, using a cokage parasol to shield herself from the summer sun, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  showing the effectiveness of the parasol in preventing heatstroke,  8k resolution,  bright and sunny outdoor setting",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_5.png",
+      "placeholder": "[h3_image_5]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘の正しい使用方法と効果的な持ち方",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, demonstrating the correct way to hold and use a cokage parasol, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  step-by-step instructional feel,  8k resolution, clear and concise composition",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_6.png",
+      "placeholder": "[h3_image_6]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘を使う際に必要なもの：持ち運びやメンテナンスについて",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, showcasing accessories for carrying and maintaining a cokage parasol, such as a carrying case or cleaning cloth, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  8k resolution, lifestyle photography style",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_7.png",
+      "placeholder": "[h3_image_7]"
+    },
+    {
+      "prompt": {
+        "h3_title": "様々なシーン別cokage日傘活用事例：通勤、レジャー、イベントなど",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, using a cokage parasol in various scenarios, such as commuting, leisure, and events, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  diverse backgrounds and settings,  8k resolution, collage-style composition",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_8.png",
+      "placeholder": "[h3_image_8]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘を効果的に使用するコツ：日差し対策を最大限に活かす方法",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, demonstrating effective techniques for using a cokage parasol to maximize sun protection, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  showing optimal angles and positioning,  8k resolution, infographic-style elements",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_9.png",
+      "placeholder": "[h3_image_9]"
+    },
+    {
+      "prompt": {
+        "h3_title": "cokage日傘使用時の失敗例とリスク回避策：トラブルを防ぐための知識",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, demonstrating common mistakes to avoid when using a cokage parasol, and how to mitigate associated risks, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  8k resolution, illustrative style",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_10.png",
+      "placeholder": "[h3_image_10]"
+    },
+    {
+      "prompt": {
+        "h3_title": "日傘 cokage まとめ：快適な夏を過ごすための決定版ガイド",
+        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a cokage parasol, with a summery background suggesting a sense of peace and comfort, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  8k resolution,  overall summary feel,  warm and inviting atmosphere",
+        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      },
+      "filename": "h3_image_11.png",
+      "placeholder": "[h3_image_11]"
+    }
+  ]
+}
