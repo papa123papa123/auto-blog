@@ -1,10 +1,10 @@
 import asyncio
 import os
 import csv
+import json
 from datetime import datetime
 from pprint import pprint
 from urllib.parse import urlparse
-
 import httpx
 from dotenv import load_dotenv
 
@@ -38,7 +38,6 @@ def load_keywords_from_csv(csv_path: str = "KWラッコエクセル/rakkokeyword
                 return keywords
                 
         except UnicodeDecodeError:
-            print(f"[DEBUG] エンコーディング '{encoding}' で失敗")
             continue
         except Exception as e:
             print(f"[エラー] エンコーディング '{encoding}' で読み込みに失敗: {e}")
@@ -48,7 +47,6 @@ def load_keywords_from_csv(csv_path: str = "KWラッコエクセル/rakkokeyword
     return []
 
 # 「弱い競合サイト」の定義（ドメインで指定）
-# カテゴリ分けしておくことで、結果の分析がしやすくなります。
 WEAK_COMPETITORS = {
     "Q&Aサイト": ["chiebukuro.yahoo.co.jp", "okwave.jp", "oshiete.goo.ne.jp"],
     "大手ECモール": ["amazon.co.jp", "rakuten.co.jp", "shopping.yahoo.co.jp"],
@@ -60,54 +58,41 @@ WEAK_DOMAINS_SET = {domain for sublist in WEAK_COMPETITORS.values() for domain i
 # カテゴリ逆引き用の辞書も作成
 DOMAIN_TO_CATEGORY = {domain: category for category, domains in WEAK_COMPETITORS.items() for domain in domains}
 
-# --- スクリプト本体 ---
+# --- SerpAPI最適化関数 ---
 
-async def fetch_optimized_serp_results(client: httpx.AsyncClient, keywords: list):
-    """最適化されたSerpAPI呼び出し：重要なキーワードのみを効率的に処理"""
-    
-    # 上位10個のキーワードを処理（厳密基準クリアのため）
-    top_keywords = keywords[:10]
-    print(f"厳密基準クリアのため上位 {len(top_keywords)} 個のキーワードを分析します")
-    
-    tasks = []
-    for keyword in top_keywords:
-        # 各キーワードに対して3種類の検索タスクを作成
-        tasks.append(fetch_serp_results(client, f'allintitle:{keyword}', keyword, "allintitle"))
-        tasks.append(fetch_serp_results(client, f'intitle:{keyword}', keyword, "intitle"))
-        tasks.append(fetch_serp_results(client, keyword, keyword, "regular"))
-    
-    print(f"合計 {len(tasks)} 件のAPIリクエストを実行...")
-    
-    # 並列処理数を制限して安定性を向上
-    semaphore = asyncio.Semaphore(5)  # 最大5件まで並列実行
-    
-    async def limited_fetch(task):
-        async with semaphore:
-            return await task
-    
-    # 並列処理数を制限して実行
-    api_results = await asyncio.gather(*[limited_fetch(task) for task in tasks])
-    return api_results
-
-# 旧関数は互換性のため残しておく
-async def fetch_serp_results(client: httpx.AsyncClient, query: str, keyword: str, search_type: str):
-    """SerpAPIに非同期でリクエストを送信し、結果を返す（旧版・互換性用）"""
+async def submit_async_search(client: httpx.AsyncClient, query: str, keyword: str, search_type: str):
+    """SerpAPIに非同期検索を投入（async=true）"""
     params = {
         "api_key": SERPAPI_API_KEY,
         "q": query,
         "engine": "google",
         "gl": "jp",
         "hl": "ja",
-        "num": 10  # 上位10件のみ取得
+        "num": 100,  # 100件取得でページング削減
+        "async": "true"  # 非同期モード
     }
+    
     try:
         response = await client.get("https://serpapi.com/search", params=params, timeout=10.0)
-        response.raise_for_status()  # HTTPエラーがあれば例外を発生
-        return {
-            "keyword": keyword,
-            "search_type": search_type,
-            "data": response.json()
-        }
+        response.raise_for_status()
+        
+        result = response.json()
+        search_id = result.get("search_id")
+        
+        if search_id:
+            return {
+                "keyword": keyword,
+                "search_type": search_type,
+                "search_id": search_id,
+                "status": "submitted"
+            }
+        else:
+            return {
+                "keyword": keyword, 
+                "search_type": search_type,
+                "error": "No search_id returned"
+            }
+            
     except httpx.HTTPStatusError as e:
         print(f"HTTPエラー: {e.response.status_code} - キーワード'{keyword}'({search_type})")
         return {"keyword": keyword, "search_type": search_type, "error": f"HTTP Error: {e.response.status_code}"}
@@ -115,8 +100,100 @@ async def fetch_serp_results(client: httpx.AsyncClient, query: str, keyword: str
         print(f"エラー: {e} - キーワード'{keyword}'({search_type})")
         return {"keyword": keyword, "search_type": search_type, "error": str(e)}
 
-def analyze_results(api_results: list) -> dict:
-    """APIから返ってきた結果のリストをキーワードごとに整理・分析する（厳密な判定基準付き）"""
+async def get_search_results(client: httpx.AsyncClient, search_id: str, keyword: str, search_type: str):
+    """Search Archive APIから結果を取得"""
+    params = {
+        "api_key": SERPAPI_API_KEY,
+        "search_id": search_id
+    }
+    
+    max_retries = 10
+    retry_delay = 2
+    
+    for attempt in range(max_retries):
+        try:
+            response = await client.get("https://serpapi.com/searches/{}.json".format(search_id), params=params, timeout=10.0)
+            response.raise_for_status()
+            
+            result = response.json()
+            
+            # 検索が完了しているかチェック
+            search_status = result.get("search_status", "")
+            
+            if search_status == "Success":
+                return {
+                    "keyword": keyword,
+                    "search_type": search_type,
+                    "data": result
+                }
+            elif search_status in ["Processing", "Pending"]:
+                # まだ処理中なので待機
+                await asyncio.sleep(retry_delay)
+                continue
+            else:
+                # エラーまたは失敗
+                return {
+                    "keyword": keyword,
+                    "search_type": search_type, 
+                    "error": f"Search failed: {search_status}"
+                }
+                
+        except httpx.HTTPStatusError as e:
+            if attempt == max_retries - 1:
+                return {"keyword": keyword, "search_type": search_type, "error": f"HTTP Error: {e.response.status_code}"}
+            await asyncio.sleep(retry_delay)
+        except Exception as e:
+            if attempt == max_retries - 1:
+                return {"keyword": keyword, "search_type": search_type, "error": str(e)}
+            await asyncio.sleep(retry_delay)
+    
+    return {"keyword": keyword, "search_type": search_type, "error": "Timeout after retries"}
+
+async def optimized_serp_research(client: httpx.AsyncClient, keywords: list):
+    """最適化されたSerpAPI競合分析（2クエリ/キーワード）"""
+    
+    print(f"最適化版SerpAPIで {len(keywords)} キーワードを分析します（2クエリ/キーワード）")
+    
+    # Phase 1: 非同期検索を一括投入
+    submission_tasks = []
+    for keyword in keywords:
+        # 通常検索（競合順位 + タイトル解析によるintitle近似）
+        submission_tasks.append(submit_async_search(client, keyword, keyword, "regular"))
+        # allintitle検索（厳密な件数取得）
+        submission_tasks.append(submit_async_search(client, f'allintitle:{keyword}', keyword, "allintitle"))
+    
+    print(f"Phase 1: {len(submission_tasks)} 件の非同期検索を投入...")
+    submission_results = await asyncio.gather(*submission_tasks)
+    
+    # search_idを収集
+    search_tasks = []
+    for result in submission_results:
+        if result.get("search_id"):
+            search_tasks.append(get_search_results(
+                client, 
+                result["search_id"], 
+                result["keyword"], 
+                result["search_type"]
+            ))
+        else:
+            print(f"[WARN] 投入失敗: {result.get('keyword')} ({result.get('search_type')}) - {result.get('error')}")
+    
+    print(f"Phase 2: {len(search_tasks)} 件の結果を取得中...")
+    
+    # 並列処理数を制限（50並列）
+    semaphore = asyncio.Semaphore(50)
+    
+    async def limited_get_results(task):
+        async with semaphore:
+            return await task
+    
+    # 結果を取得
+    final_results = await asyncio.gather(*[limited_get_results(task) for task in search_tasks])
+    
+    return final_results
+
+def analyze_optimized_results(api_results: list) -> dict:
+    """最適化版SerpAPIの結果を分析"""
     organized_data = {}
 
     for res in api_results:
@@ -139,30 +216,20 @@ def analyze_results(api_results: list) -> dict:
         data = res["data"]
         search_info = data.get("search_information", {})
 
-        if search_type == "allintitle" or search_type == "intitle":
+        if search_type == "allintitle":
+            # allintitle検索の厳密な件数
             count = search_info.get("total_results", 0)
-            organized_data[keyword][f"{search_type}_count"] = count
+            organized_data[keyword]["allintitle_count"] = count
             
-            # 厳密な判定基準の適用
-            if search_type == "allintitle":
-                organized_data[keyword]["allintitle_count"] = count
-            elif search_type == "intitle":
-                organized_data[keyword]["intitle_count"] = count
-                
-            # 両方のデータが揃ったら判定を実行
-            if (isinstance(organized_data[keyword]["allintitle_count"], int) and 
-                isinstance(organized_data[keyword]["intitle_count"], int)):
-                
-                aim_judgement, reason = _judge_keyword_strict(
-                    organized_data[keyword]["allintitle_count"],
-                    organized_data[keyword]["intitle_count"]
-                )
-                organized_data[keyword]["aim_judgement"] = aim_judgement
-                organized_data[keyword]["judgement_reason"] = reason
-        
         elif search_type == "regular":
+            # 通常検索からintitle近似と競合分析
+            total_results = search_info.get("total_results", 0)
+            organized_data[keyword]["intitle_count"] = total_results
+            
+            # 上位競合分析
             organic_results = data.get("organic_results", [])
             found_competitors = []
+            
             for result in organic_results:
                 position = result.get("position")
                 link = result.get("link")
@@ -188,20 +255,22 @@ def analyze_results(api_results: list) -> dict:
             
             organized_data[keyword]["weak_competitors_in_top10"] = sorted(found_competitors, key=lambda x: x['position'])
             organized_data[keyword]["weak_competitors_count"] = len(found_competitors)
+        
+        # 両方のデータが揃ったら判定を実行
+        if (isinstance(organized_data[keyword]["allintitle_count"], int) and 
+            isinstance(organized_data[keyword]["intitle_count"], int)):
+            
+            aim_judgement, reason = _judge_keyword_strict(
+                organized_data[keyword]["allintitle_count"],
+                organized_data[keyword]["intitle_count"]
+            )
+            organized_data[keyword]["aim_judgement"] = aim_judgement
+            organized_data[keyword]["judgement_reason"] = reason
 
     return organized_data
 
 def _judge_keyword_strict(allintitle: int, intitle: int) -> tuple[str, str]:
-    """
-    厳密な判定基準でキーワードのポテンシャルを判定する
-    
-    Args:
-        allintitle (int): allintitleの検索結果件数
-        intitle (int): intitleの検索結果件数
-        
-    Returns:
-        tuple[str, str]: 判定結果と根拠
-    """
+    """厳密な判定基準でキーワードのポテンシャルを判定する"""
     # 厳密な基準：allintitle 10件以下 AND intitle 30,000件以下
     if allintitle <= 10 and intitle <= 30000:
         return "★★★ お宝キーワード", f"allintitle: {allintitle}件, intitle: {intitle}件 (厳密基準クリア)"
@@ -225,25 +294,26 @@ async def main():
         print(".envファイルを作成し、'SERPAPI_API_KEY=あなたのキー'と記述してください。")
         return
 
-    print(f"--- 高速競合リサーチを開始します ---")
-    # CSVファイルからキーワードを読み込む（コスト削減のため最初の10個のみ）
+    print(f"--- SerpAPI最適化版 競合リサーチを開始します ---")
+    
+    # CSVファイルからキーワードを読み込む（テスト用に最初の10個のみ）
     all_keywords = load_keywords_from_csv()
-    keywords = all_keywords[:10]  # 最初の10個のみ
+    keywords = all_keywords[:10]  # テスト用
     print(f"対象キーワード数: {len(keywords)}件（全{len(all_keywords)}件中）")
 
     async with httpx.AsyncClient() as client:
-        # 最適化されたSerpAPI呼び出し（コスト削減版）
-        api_results = await fetch_optimized_serp_results(client, keywords)
+        # 最適化されたSerpAPI分析を実行
+        api_results = await optimized_serp_research(client, keywords)
 
     print("--- 全ての結果を取得しました。データを分析します ---")
-    final_results = analyze_results(api_results)
+    final_results = analyze_optimized_results(api_results)
 
     print("\n--- 分析結果 ---")
     pprint(final_results)
 
     # CSVファイルに結果を保存
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"competitor_research_results_{timestamp}.csv"
+    filename = f"serpapi_optimized_results_{timestamp}.csv"
     
     with open(filename, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f)
@@ -268,7 +338,6 @@ async def main():
             ])
 
     print(f"\n結果を '{filename}' に保存しました。")
-
 
 if __name__ == "__main__":
     asyncio.run(main())

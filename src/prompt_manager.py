@@ -71,40 +71,30 @@ class PromptManager:
 
         prompt = f"""
 # 指示
-あなたはプロのフォトグラファー兼アートディレクターです。
-以下の記事タイトルと見出しリストに基づき、この記事に必要な**全ての画像（アイキャッチ画像1枚と、各H3見出しの画像）**を生成するための、高品質なAIプロンプトを設計してください。
+記事タイトルと見出しに基づいて、画像生成用のAIプロンプトを作成してください。
 
-# 記事情報
-## 記事タイトル
-{title}
+## 記事情報
+- タイトル: {title}
+- H3見出し: {h3_list_str}
 
-## H3見出しリスト
-{h3_list_str}
+## 作成ルール
+- アイキャッチ画像1枚と各H3見出しの画像用プロンプト
+- 各プロンプトは具体的で分かりやすい内容
+- 人物が含まれる場合は自然で親しみやすい表情
 
-# 絶対遵守のルール
-1.  **品質とスタイル:**
-    - 全ての画像は「professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting」を基本スタイルとします。
-    - 人物が描かれる場合は、必ず**「a beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression」（自然で親しみやすい表情で優しく微笑む、20代～30代の美しい日本人女性）**という要素をプロンプトの中心にしてください。
-2.  **プロンプトの内容:**
-    - 各プロンプトは、タイトルや見出しの内容を**具体的かつ直接的に表現**してください。
-    - 生成AIで直接使える、詳細な**英語のプロンプト**を作成してください。
-3.  **出力形式:**
-    - **必ず、以下のJSON形式に従って、全てのプロンプトを一つのJSONオブジェクトとして出力してください。**
-    - `eyecatch`には記事タイトルを象徴するプロンプトを、`h3_images`には各H3見出しに対応するプロンプトをリストとして格納してください。
-    - `h3_images`リストの**要素数と順序**は、提供された「H3見出しリスト」と**完全に一致**させてください。
-
-# 出力JSONフォーマット
+## 出力形式
+JSON形式で以下の構造で出力してください：
 ```json
 {{
   "eyecatch": {{
-    "positive_prompt": "（アイキャッチ用のポジティブプロンプト）",
-    "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+    "positive_prompt": "アイキャッチ用プロンプト",
+    "negative_prompt": "ugly, scary, text, watermark"
   }},
   "h3_images": [
     {{
-      "h3_title": "（1つ目のH3見出し）",
-      "positive_prompt": "（1つ目のH3見出しに対応するポジティブプロンプト）",
-      "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      "h3_title": "見出し名",
+      "positive_prompt": "画像用プロンプト",
+      "negative_prompt": "ugly, scary, text, watermark"
     }}
   ]
 }}
