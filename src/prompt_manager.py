@@ -7,11 +7,16 @@ from src.prompts_text.article_intro_prompt import create_intro_prompt
 from src.prompts_text.h2_intro_prompt import create_h2_intro_prompt
 from src.prompts_text.h3_correction_prompt import create_h3_correction_prompt
 from src.prompts_text.persona_prompt import PERSONA_PROMPT
+from src.prompts_text.summarization_prompt import create_summarization_prompt_text
 from typing import List, Dict, Any
 
 class PromptManager:
     def __init__(self):
         print("[OK] PromptManagerの初期化に成功しました。（品質向上・会話形式対応版）")
+
+    def create_summarization_prompt(self, main_keyword: str, text_to_summarize: str) -> str:
+        """抽出したテキストから構造化されたJSONデータを生成させるためのプロンプト"""
+        return create_summarization_prompt_text(main_keyword, text_to_summarize)
 
     def create_outline_prompt(self, main_keyword: str, sub_keywords: list[str]) -> str:
         """構成案を作成させるためのプロンプト"""
@@ -49,16 +54,12 @@ class PromptManager:
             style_prompt=ARTICLE_STYLE_PROMPT
         )
 
-    def create_content_prompt_for_section(self, main_keyword: str, outline: List[Dict[str, Any]], current_h3: str, current_year: int, summarized_text: str) -> str:
-        """単一のH3本文を作成させるためのプロンプト"""
+    def create_content_prompt_for_section(self, main_keyword: str, current_h3: str, relevant_info: str) -> str:
+        """【改善版】単一のH3本文を作成させるためのプロンプト"""
         return create_h3_content_prompt(
             main_keyword=main_keyword,
-            outline=outline,
             h3_to_write=current_h3,
-            persona_prompt=PERSONA_PROMPT,
-            style_prompt=ARTICLE_STYLE_PROMPT,
-            current_year=current_year,
-            summarized_text=summarized_text
+            relevant_info=relevant_info
         )
 
     def create_all_image_prompts_prompt(self, title: str, outline: List[Dict[str, Any]]) -> str:

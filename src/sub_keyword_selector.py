@@ -30,52 +30,9 @@ class SubKeywordSelector:
             print(f"    [DEBUG] 受け取ったテキスト(先頭300文字): {text[:300]}...")
             return None
 
-    def _validate_and_correct_h3s(self, main_keyword: str, article_structure: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        生成された構成案のH3見出しを検証し、ルール違反があればAIに自己修正させる。
-        """
-        max_retries = 2
-        for attempt in range(max_retries):
-            forbidden_words = re.split(r'[\s　]+', main_keyword.strip())
-            all_h3s = [h3 for h2 in article_structure.get("outline", []) for h3 in h2.get("h3", [])]
-            
-            # 最後のまとめH3以外をチェック
-            incorrect_h3s = [
-                h3 for h3 in all_h3s[:-1] 
-                if any(word in h3 for word in forbidden_words)
-            ]
-
-            if not incorrect_h3s:
-                print("    [OK] H3見出しのキーワードルールチェックをクリアしました。")
-                return article_structure # 成功
-
-            print(f"    [WARN] H3見出しに禁止キーワードが含まれています。({len(incorrect_h3s)}件)")
-            print(f"    -> 違反見出し: {', '.join(incorrect_h3s)}")
-            print(f"    -> AIに自己修正を指示します... (試行 {attempt + 1}/{max_retries})")
-
-            correction_prompt = self.prompt_manager.create_h3_correction_prompt(main_keyword, forbidden_words, incorrect_h3s)
-            response = self.gemini_generator.generate([correction_prompt], model_type="flash", timeout=180)
-            
-            if not response or response.startswith("エラー:"):
-                print(f"    [NG] AIからの修正応答エラー: {response}")
-                continue
-
-            corrected_h3_list = self._extract_json_from_text(response, is_list=True)
-
-            if corrected_h3_list and isinstance(corrected_h3_list, list) and len(corrected_h3_list) == 12:
-                print("    [OK] H3見出しの修正に成功しました。")
-                # 構成案のH3を修正後のものに差し替える
-                article_structure["outline"][0]["h3"] = corrected_h3_list[:6]
-                article_structure["outline"][1]["h3"] = corrected_h3_list[6:]
-            else:
-                print(f"    [NG] 修正されたH3リストの形式が不正です。")
-
-        print("[CRITICAL] AIによるH3見出しの自己修正がリトライ上限に達しました。処理を中断します。")
-        return None # 最終的に失敗
-
     def design_article_structure(self, main_keyword: str, suggest_list: list[str]) -> Dict[str, Any]:
         """
-        AIに記事構成案の設計を依頼し、検証と自己修正を経て、最終的なJSONを返す。
+        AIに記事構成案の設計を依頼し、一発で正しいJSONを返す。
         """
         print(f"  -> AIが「{main_keyword}」の記事構成案を設計中...")
         
@@ -83,21 +40,14 @@ class SubKeywordSelector:
         response = self.gemini_generator.generate([prompt], model_type="flash", timeout=180)
         
         if not response or response.startswith("エラー:"):
-            print(f"    [NG] Geminiからの初回応答エラー: {response}")
+            print(f"    [NG] Geminiからの応答エラー: {response}")
             return None
 
-        initial_structure = self._extract_json_from_text(response)
+        article_structure = self._extract_json_from_text(response)
         
-        if not initial_structure:
-            print("    [NG] Geminiの初回応答を解析できませんでした。")
+        if not article_structure:
+            print("    [NG] Geminiの応答を解析できませんでした。")
             return None
         
-        print("    [OK] 記事構成案の初回生成が完了。H3キーワードの検証と修正を開始します...")
-        
-        # 検証と自己修正のプロセスを呼び出す
-        final_structure = self._validate_and_correct_h3s(main_keyword, initial_structure)
-        
-        if final_structure:
-            print("    [OK] 全ての検証と修正が完了し、最終的な構成案が確定しました。")
-        
-        return final_structure
+        print("    [OK] 記事構成案の生成が完了しました。")
+        return article_structure

@@ -15,7 +15,7 @@ class StrategicKeywordFlow:
         """
         print("\n--- [新] 戦略的キーワード選定＆構成案作成フロー ---")
         
-        main_keyword = "日傘 おすすめ"
+        main_keyword = "夏 お酒 ピッタリ"
         if not auto_yes:
             main_keyword_input = input(f"分析したいメインキーワードを入力してください (デフォルト: {main_keyword}): ").strip()
             if main_keyword_input:

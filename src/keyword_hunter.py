@@ -27,43 +27,59 @@ class KeywordHunter:
         print("[OK] KeywordHunterの初期化に成功しました。（戦略的収集モード v2）")
 
     def gather_all_keywords(self, main_keyword: str) -> List[str]:
-        print(f"\n--- キーワードハンターが「{main_keyword}」の関連キーワードを網羅的に収集します ---")
+        print(f"\n--- キーワードハンターが「{main_keyword}」の関連キーワードを動的に収集します ---")
         
-        all_keywords: Set[str] = set()
+        # ステップ1: 初期シードとなるキーワードを収集
+        print("\n[ステップ1/3] 初期シードとなるキーワード（関連検索・PAA）を収集中...")
+        initial_keywords: Set[str] = set()
 
-        # 1. メインキーワードの「関連性の高い検索」から収集
-        print("\n[ステップ1/3] メインキーワードの関連検索を収集中...")
         related_searches = self.serp_analyzer.get_related_searches(main_keyword)
-        all_keywords.update(related_searches)
-        print(f"  -> {len(related_searches)}個の関連検索キーワードを追加しました。")
+        initial_keywords.update(related_searches)
+        print(f"  -> {len(related_searches)}個の「関連検索」をシードに追加しました。")
 
-        # 2. 【改善】厳選されたキーワードでの戦略的拡張（SerpAPI使用, 並列実行）
-        print("\n[ステップ2/3] 戦略的キーワード拡張を並列実行します...")
-        strategic_keywords: Set[str] = set()
-        
-        print(f"  -> {len(self.strategic_expansion_words)}個の厳選ワードを掛け合わせて並列で深掘り中...")
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_query = {executor.submit(self.serp_analyzer.get_related_searches, f"{main_keyword} {word}"): f"{main_keyword} {word}" for word in self.strategic_expansion_words}
-            for future in concurrent.futures.as_completed(future_to_query):
-                query = future_to_query[future]
-                try:
-                    expanded_keywords = future.result()
-                    if expanded_keywords:
-                        strategic_keywords.update(expanded_keywords)
-                except Exception as exc:
-                    print(f"  -> [WARN] クエリ「{query}」の拡張中にエラーが発生しました: {exc}")
-
-        all_keywords.update(strategic_keywords)
-        print(f"  -> {len(strategic_keywords)}個の戦略的キーワードを追加しました。")
-
-        # 3. 「他の人はこちらも質問 (PAA)」から収集
-        print("\n[ステップ3/3] 「他の人はこちらも質問(PAA)」を収集中...")
         related_questions = self.serp_analyzer.get_related_questions(main_keyword)
-        all_keywords.update(related_questions)
-        print(f"  -> {len(related_questions)}個のPAAキーワードを追加しました。")
+        initial_keywords.update(related_questions)
+        print(f"  -> {len(related_questions)}個の「PAA」をシードに追加しました。")
 
-        final_keyword_list = sorted(list(all_keywords))
+        if not initial_keywords:
+            print("[WARN] 初期シードとなるキーワードが見つかりませんでした。")
+            return [main_keyword]
+
+        print(f"  [OK] 合計 {len(initial_keywords)} 個のユニークなシードキーワードを確保しました。")
+
+        # ステップ2: シードキーワードを元に、関連キーワードを並列で深掘り
+        print("\n[ステップ2/3] シードキーワードを元に関連キーワードを並列で深掘りします...")
+        expanded_keywords: Set[str] = set()
+        
+        seed_keywords_to_expand = sorted(list(initial_keywords))
+        print(f"  -> {len(seed_keywords_to_expand)}個のシードを元に深掘り中...")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_seed = {executor.submit(self.serp_analyzer.get_related_searches, seed): seed for seed in seed_keywords_to_expand}
+            for future in concurrent.futures.as_completed(future_to_seed):
+                seed = future_to_seed[future]
+                try:
+                    newly_found_keywords = future.result()
+                    if newly_found_keywords:
+                        expanded_keywords.update(newly_found_keywords)
+                except Exception as exc:
+                    print(f"  -> [WARN] シード「{seed}」の拡張中にエラーが発生しました: {exc}")
+
+        print(f"  -> {len(expanded_keywords)}個の新たなキーワードを発見しました。")
+
+        # ステップ3: 全てのキーワードを統合
+        print("\n[ステップ3/3] 全てのキーワードを統合しています...")
+        final_keywords: Set[str] = set()
+        final_keywords.update(initial_keywords)
+        final_keywords.update(expanded_keywords)
+
+        final_keyword_list = sorted(list(final_keywords))
         print(f"\n--- キーワード収集完了 ---")
         print(f"合計 {len(final_keyword_list)} 個のユニークなキーワード候補を収集しました。")
+        
+        # 収集したキーワード全てをログとして出力
+        print(f"\n【収集されたキーワード一覧】")
+        for i, keyword in enumerate(final_keyword_list, 1):
+            print(f"  {i:2d}. {keyword}")
+        print(f"\n[OK] {len(final_keyword_list)}個の関連キーワード候補を収集しました。")
         
         return final_keyword_list

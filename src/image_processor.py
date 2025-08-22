@@ -6,6 +6,8 @@ from vertexai.preview.vision_models import ImageGenerationModel
 from pathlib import Path
 from typing import List
 
+from dotenv import load_dotenv
+
 # ロガーの設定
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -19,18 +21,20 @@ class ImageProcessor:
         環境変数から設定を読み込み、Vertex AIクライアントをセットアップします。
         """
         try:
+            # .envファイルの内容を強制的に読み込み、既存の環境変数を上書きする
+            load_dotenv(override=True)
+            
             # 環境変数から設定を読み込み
             project_id = os.getenv("GOOGLE_CLOUD_PROJECT_ID")
-            key_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS", "service_account_key.json")
+            key_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 
             if not project_id:
                 raise ValueError("環境変数 'GOOGLE_CLOUD_PROJECT_ID' が設定されていません。")
 
-            if not os.path.exists(key_path):
-                raise FileNotFoundError(f"認証キーファイルが見つかりません: {key_path}")
+            if not key_path or not os.path.exists(key_path):
+                raise FileNotFoundError(f"認証キーファイルが見つからないか、パスが正しくありません: {key_path}")
 
             # Vertex AIを初期化 (認証情報はライブラリが自動で環境変数から読み込む)
-            os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = key_path
             aiplatform.init(project=project_id, location="asia-northeast1")
             
             # 画像生成モデルをロード
