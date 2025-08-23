@@ -1,0 +1,27 @@
+{
+  "task": "画像プロンプト生成",
+  "timestamp": "2025-08-23T19:20:29.143032",
+  "main_keyword": "プログラミング学習",
+  "section": "全体",
+  "article_content_preview": "プログラミング学習について......",
+  "requirements": [
+    "高品質で魅力的な画像",
+    "記事の内容と関連性が高い",
+    "商用利用可能",
+    "SEO最適化（alt属性用の説明文も含む）"
+  ],
+  "image_specifications": {
+    "size": "1200x630px（SNS最適化）",
+    "style": "プロフェッショナルで魅力的",
+    "format": "PNG/JPG",
+    "purpose": "記事のヘッダー画像"
+  },
+  "output_format": "json",
+  "output_file": "images/プログラミング学習_image_prompts.json",
+  "next_steps": [
+    "1. 画像プロンプトの生成",
+    "2. alt属性の最適化",
+    "3. 画像生成サービスの選択",
+    "4. 画像の記事への挿入"
+  ]
+}

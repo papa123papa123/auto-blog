@@ -1,0 +1,23 @@
+{
+  "task": "記事作成",
+  "timestamp": "2025-08-23T19:20:29.141147",
+  "main_keyword": "プログラミング学習",
+  "target_audience": "一般",
+  "article_type": "情報提供",
+  "word_count": 2500,
+  "requirements": [
+    "SEO最適化された見出し構造",
+    "読者に価値のある実用的な内容",
+    "自然で読みやすい日本語",
+    "適切な段落分けとリスト化",
+    "メタディスクリプションの生成"
+  ],
+  "output_format": "markdown",
+  "output_file": "articles/プログラミング学習_article.md",
+  "next_steps": [
+    "1. キーワードリサーチと見出し構造の設計",
+    "2. 記事本文の作成",
+    "3. 画像プロンプトの生成",
+    "4. メタデータの最適化"
+  ]
+}

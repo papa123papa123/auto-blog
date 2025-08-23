@@ -1,0 +1,56 @@
+{
+  "task": "完全記事作成ワークフロー",
+  "timestamp": "2025-08-23T19:20:29.143547",
+  "main_keyword": "プログラミング学習",
+  "target_audience": "一般",
+  "workflow_steps": [
+    {
+      "step": 1,
+      "task": "キーワードリサーチ",
+      "description": "関連キーワード100個以上を収集",
+      "tool": "hybrid_keyword_collector.py または手動調査",
+      "output": "keywords/{main_keyword}_keywords.json"
+    },
+    {
+      "step": 2,
+      "task": "見出し構造設計",
+      "description": "H2/H3見出しの設計と最適化",
+      "tool": "エージェントの分析能力",
+      "output": "keywords/{main_keyword}_headings.json"
+    },
+    {
+      "step": 3,
+      "task": "記事本文作成",
+      "description": "2500文字程度のSEO最適化記事",
+      "tool": "エージェントの文章作成能力",
+      "output": "articles/{main_keyword}_article.md"
+    },
+    {
+      "step": 4,
+      "task": "画像プロンプト生成",
+      "description": "記事用画像のプロンプト作成",
+      "tool": "エージェントの画像分析能力",
+      "output": "images/{main_keyword}_image_prompts.json"
+    },
+    {
+      "step": 5,
+      "task": "メタデータ最適化",
+      "description": "タイトル、メタディスクリプション、タグ",
+      "tool": "エージェントのSEO知識",
+      "output": "articles/{main_keyword}_metadata.json"
+    }
+  ],
+  "requirements": [
+    "高品質な記事内容",
+    "SEO最適化",
+    "読者に価値のある情報",
+    "画像作成の準備完了"
+  ],
+  "estimated_time": "30-60分（エージェント処理時間）",
+  "next_steps": [
+    "1. 各ステップの順次実行",
+    "2. 品質チェックと調整",
+    "3. 最終ファイルの生成",
+    "4. 画像生成サービスの利用"
+  ]
+}

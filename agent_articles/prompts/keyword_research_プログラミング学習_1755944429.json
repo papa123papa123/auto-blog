@@ -1,0 +1,25 @@
+{
+  "task": "キーワードリサーチ",
+  "timestamp": "2025-08-23T19:20:29.139965",
+  "main_keyword": "プログラミング学習",
+  "collection_method": "yahoo_google_hybrid",
+  "target_count": 100,
+  "requirements": [
+    "関連性の高いキーワード100個以上",
+    "検索ボリュームの高いキーワード",
+    "長尾キーワードのバランス",
+    "競合分析の結果"
+  ],
+  "tools_available": [
+    "hybrid_keyword_collector.py - Yahoo + Googleハイブリッド収集",
+    "yahoo_keyword_collector_simple.py - Yahoo専用収集",
+    "手動での検索エンジン調査"
+  ],
+  "output_file": "keywords/プログラミング学習_keywords.json",
+  "next_steps": [
+    "1. キーワード収集の実行",
+    "2. キーワードの分類・優先度付け",
+    "3. 見出し構造の設計",
+    "4. 記事構成の決定"
+  ]
+}
