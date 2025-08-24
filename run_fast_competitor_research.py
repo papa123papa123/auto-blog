@@ -132,7 +132,7 @@ def analyze_results(api_results: list) -> dict:
             }
 
         if res.get("error") or "data" not in res:
-            print(f"[WARN] キーワード '{keyword}' ({res.get('search_type', 'unknown')}) でエラー: {res.get('error', 'データなし')}")
+            print(f"[警告] キーワード '{keyword}' ({res.get('search_type', '不明')}) でエラー: {res.get('error', 'データなし')}")
             continue
 
         search_type = res["search_type"]

@@ -1,0 +1,43 @@
+# Cursor Project Rules for Auto Blog System
+
+## Project Overview
+This is a Japanese auto-blogging system that generates articles using AI and web scraping.
+
+## Language & Communication
+- Always respond in Japanese
+- Use polite Japanese (敬語) when appropriate
+- Code comments should be in Japanese
+
+## Code Style
+- Follow PEP 8 for Python code
+- Use descriptive variable names in Japanese when appropriate
+- Include type hints for function parameters and return values
+- Add comprehensive docstrings in Japanese
+
+## File Organization
+- Keep source code in `/src` directory
+- Configuration files in `/config` directory
+- Prompts and templates in `/prompts` directory
+- Generated content in appropriate output directories
+
+## Dependencies
+- Use virtual environment (venv)
+- Install dependencies from requirements.txt
+- Keep sensitive data in .env files (never commit)
+
+## Testing & Development
+- Test scripts in root directory with `run_` prefix
+- Use debug directories for troubleshooting
+- Maintain separate test environments
+
+## Security
+- Never commit API keys or credentials
+- Use environment variables for sensitive data
+- Keep service account files secure
+
+## CRITICAL PROHIBITIONS
+- NEVER overwrite or modify .env files
+- NEVER create new .env files
+- NEVER delete existing .env files
+- .env files are ABSOLUTELY PROTECTED
+

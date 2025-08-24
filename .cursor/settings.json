@@ -1,0 +1,32 @@
+{
+    "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "python.sortImports.args": ["--profile", "black"],
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/venv": true,
+        "**/.venv": true,
+        "**/generated_images": true,
+        "**/summarized_texts": true,
+        "**/collected_texts": true,
+        "**/html_cache": true,
+        "**/debug_json_failures": true
+    },
+    "search.exclude": {
+        "**/venv": true,
+        "**/.venv": true,
+        "**/__pycache__": true,
+        "**/generated_images": true,
+        "**/summarized_texts": true,
+        "**/collected_texts": true
+    },
+    "python.analysis.extraPaths": ["./src"],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
+

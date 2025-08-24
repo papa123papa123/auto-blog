@@ -1,0 +1,81 @@
+{
+  "rate_limiting": {
+    "min_delay_seconds": 2.0,
+    "max_delay_seconds": 5.0,
+    "max_retries": 3,
+    "page_load_timeout_ms": 30000,
+    "scroll_delay_min_seconds": 1.0,
+    "scroll_delay_max_seconds": 2.0
+  },
+  "targets": {
+    "min_suggestions": 100,
+    "max_suggestions": 500,
+    "primary_stage_target": 50,
+    "secondary_stage_batch_size": 10
+  },
+  "search_engines": {
+    "google": {
+      "enabled": true,
+      "base_url": "https://www.google.com/search",
+      "params": {
+        "hl": "ja",
+        "gl": "jp"
+      },
+      "selectors": {
+        "related_search": [
+          "div[data-ved] a[href*='search']",
+          ".k8XOCe a",
+          ".BNeawe a",
+          "[data-ved] a[ping]"
+        ],
+        "search_suggestions": [
+          ".UUbT9 .aajZb .sbct"
+        ]
+      }
+    },
+    "yahoo": {
+      "enabled": true,
+      "base_url": "https://search.yahoo.co.jp/search",
+      "params": {
+        "ei": "UTF-8"
+      },
+      "selectors": {
+        "related_search": [
+          ".Algo .sw-Card__title a",
+          ".sw-Card__title a",
+          ".Algo a[href*='search']",
+          ".sw-Card a"
+        ]
+      }
+    }
+  },
+  "browser": {
+    "headless": true,
+    "args": [
+      "--no-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--disable-web-security",
+      "--disable-features=VizDisplayCompositor"
+    ],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+  },
+  "output": {
+    "directory": "collected_suggestions",
+    "formats": ["json", "txt", "filtered_txt"],
+    "include_timestamp": true,
+    "include_stats": true
+  },
+  "quality_filtering": {
+    "min_length": 2,
+    "max_length": 50,
+    "max_special_char_ratio": 0.3,
+    "exclude_patterns": [
+      "http://",
+      "https://",
+      "www.",
+      ".com",
+      ".jp"
+    ]
+  }
+}
