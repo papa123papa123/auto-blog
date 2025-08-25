@@ -1,116 +1,116 @@
 {
   "eyecatch": {
     "prompt": {
-      "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a refreshing summer cocktail and looking at the camera, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting, summer background with vibrant colors, bokeh effect, shallow depth of field,  stylish summer attire,  a feeling of relaxation and enjoyment,  high-key lighting,  8k resolution,  masterpiece,  best quality",
-      "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+      "positive_prompt": "A refreshing summer scene with a table laden with delicious appetizers and chilled drinks, including beer, sake, and colorful cocktails. Sunlight streams onto the table, highlighting the vibrant colors of the food.  A friendly smiling person raises a glass in a toast, surrounded by a group of happy friends enjoying the summer atmosphere.  Style: bright, vibrant, summery, photorealistic.",
+      "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, poorly drawn hands, deformed faces"
     },
     "filename": "eyecatch.png"
   },
   "h3_images": [
     {
       "prompt": {
-        "h3_title": "アルコール度数別！夏の定番お酒一覧と選び方",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a variety of summer alcoholic beverages (beer, sake, wine, cocktails) with different alcohol percentages,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  summer background,  chart visually showing alcohol percentage alongside the drinks, clean and organized presentation,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "夏の定番！ビールに合う簡単おつまみレシピ集",
+        "positive_prompt": "A close-up shot of a variety of simple, delicious appetizers perfect for pairing with beer, such as edamame, potato salad, and pretzels. The food looks appetizing and fresh, presented on a rustic wooden board. Style: appetizing, close-up, rustic, food photography.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, poorly lit"
       },
       "filename": "h3_image_0.png",
       "placeholder": "[h3_image_0]"
     },
     {
       "prompt": {
-        "h3_title": "夏に飲みたい！日本酒の種類と飲み方、おすすめ銘柄",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, pouring sake into a traditional sake cup,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  summer background with Japanese elements, various types of sake bottles visible,  elegant and sophisticated atmosphere,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "作り置きOK！日持ちするおしゃれおつまみアイデア",
+        "positive_prompt": "An overhead shot of several attractive and easy-to-make appetizers arranged on a stylish platter, suitable for making ahead of time.  The appetizers look delicious and visually appealing. Style: flatlay, overhead shot, minimalist, stylish, appetizing.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, unappetizing"
       },
       "filename": "h3_image_1.png",
       "placeholder": "[h3_image_1]"
     },
     {
       "prompt": {
-        "h3_title": "爽快感抜群！夏の定番カクテルと人気ランキング",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, enjoying a refreshing summer cocktail (e.g., Mojito, Daiquiri) with ice and garnishes, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  summer background,  cocktail recipe card visible,  visual representation of a popularity ranking,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "居酒屋定番おつまみからアレンジレシピまで徹底解説",
+        "positive_prompt": "A vibrant collage showcasing a variety of popular izakaya appetizers alongside their creative variations. The image should show both classic and innovative dishes, highlighting the visual appeal and diversity. Style: collage, vibrant, diverse, appetizing, izakaya atmosphere.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, inconsistent style"
       },
       "filename": "h3_image_2.png",
       "placeholder": "[h3_image_2]"
     },
     {
       "prompt": {
-        "h3_title": "コンビニやスーパーで手軽に買える！おすすめリキュール",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, selecting various bottles of liqueurs from a refrigerator in a convenience store, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  convenience store setting,  various brands and flavors of liqueurs visible,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "夏野菜を使ったさっぱりおつまみレシピ５選",
+        "positive_prompt": "Five different refreshing appetizers featuring summer vegetables like tomatoes, cucumbers, and zucchini.  The dishes are visually appealing and look light and healthy.  Style: bright, fresh, healthy, summery, food photography.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, unappetizing, dull colors"
       },
       "filename": "h3_image_3.png",
       "placeholder": "[h3_image_3]"
     },
     {
       "prompt": {
-        "h3_title": "初心者向け！リキュールのおすすめ選び方と人気フレーバー",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, holding a guide book on liqueur selection and various liqueur bottles with different flavors,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  clean background,  information chart comparing different flavors,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "おしゃれでインスタ映えするおつまみプレートの作り方",
+        "positive_prompt": "A beautifully arranged appetizer plate, perfect for Instagram.  The food is aesthetically pleasing and colorful, presented in a visually stunning manner.  A person's hand is subtly visible arranging a final element onto the plate. Style: instagrammable, aesthetically pleasing, flatlay, colorful, vibrant.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, cluttered, messy"
       },
       "filename": "h3_image_4.png",
       "placeholder": "[h3_image_4]"
     },
     {
       "prompt": {
-        "h3_title": "夏のイベントを盛り上げる！各地のお酒イベント情報（東京、大阪、千葉、神奈川、九州など）",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, attending a summer sake festival, enjoying the atmosphere,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  vibrant summer festival scene with many people and food stalls,  location mentions (Tokyo, Osaka, Chiba, Kanagawa, Kyushu),  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "日本酒と好相性！夏の和食おつまみ５選",
+        "positive_prompt": "Five different Japanese appetizers ideally paired with sake, such as grilled fish, pickled vegetables, and tofu dishes. The image should showcase the traditional elegance of Japanese cuisine. Style: elegant, traditional, Japanese cuisine, appetizing, high-resolution.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, unappetizing, western style"
       },
       "filename": "h3_image_5.png",
       "placeholder": "[h3_image_5]"
     },
     {
       "prompt": {
-        "h3_title": "お酒と水分補給の関係性：アルコールは本当に水分補給になるのか？",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, drinking water alongside an alcoholic beverage,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  a visual representation of the relationship between alcohol and dehydration,  informative graphic,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "アルコールは本当に水分補給にならない？そのメカニズムを解説",
+        "positive_prompt": "A stylized graphic illustrating the dehydrating effects of alcohol on the body.  The graphic should be clear, informative, and easy to understand.  Style: infographic, clean, modern, informative, scientific.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, cluttered, confusing"
       },
       "filename": "h3_image_6.png",
       "placeholder": "[h3_image_6]"
     },
     {
       "prompt": {
-        "h3_title": "アルコールによる脱水症状を防ぐための賢い飲み方",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, drinking water regularly while enjoying a drink with friends,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  friendly gathering setting,  tips for preventing dehydration shown visually,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "アルコールと脱水症状の関係性と対処法",
+        "positive_prompt": "An illustration showing the symptoms of dehydration and how alcohol contributes to it. The image might depict a person feeling unwell contrasted with someone hydrated. Style: informative, clear, illustrative, medical, but not overly clinical.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, overly graphic, disturbing"
       },
       "filename": "h3_image_7.png",
       "placeholder": "[h3_image_7]"
     },
     {
       "prompt": {
-        "h3_title": "夏の熱中症リスクとアルコール摂取の関係性：危険性と対策",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression,  carefully and moderately consuming alcohol while taking preventative measures for heatstroke, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  visual representation of heatstroke risk and alcohol consumption,  informative graphic,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "お酒を飲む時の適切な水分補給量とは？計算方法も紹介",
+        "positive_prompt": "A simple infographic showing how to calculate proper hydration when drinking alcohol.  The infographic should be easy to understand and visually appealing.  Style: infographic, clear, simple, easy-to-understand, modern.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, cluttered, confusing"
       },
       "filename": "h3_image_8.png",
       "placeholder": "[h3_image_8]"
     },
     {
       "prompt": {
-        "h3_title": "ノンアルコールビールやノンアルコールカクテルで健康的な水分補給",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, enjoying a non-alcoholic beer or cocktail,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  summer background,  various non-alcoholic beverages visible,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "ノンアルコールビールは水分補給になる？その効果と注意点",
+        "positive_prompt": "A glass of non-alcoholic beer next to a glass of water, with text highlighting the pros and cons of using non-alcoholic beer for hydration. Style: clean, simple, realistic, informative.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, unrealistic"
       },
       "filename": "h3_image_9.png",
       "placeholder": "[h3_image_9]"
     },
     {
       "prompt": {
-        "h3_title": "お酒を飲んだ後の水分補給方法：効果的な水分補給のポイント",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression, drinking water after consuming alcohol,  professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  visual representation of effective hydration methods,  informative graphic,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "夏におすすめのノンアルコールカクテルレシピ",
+        "positive_prompt": "A selection of refreshing non-alcoholic summer cocktails with vibrant colors and garnishes.  The image should look enticing and refreshing. Style: vibrant, colorful, refreshing, appetizing, close-up.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, dull colors, unappetizing"
       },
       "filename": "h3_image_10.png",
       "placeholder": "[h3_image_10]"
     },
     {
       "prompt": {
-        "h3_title": "ひやおろし日本酒の魅力：飲み頃時期や選び方のコツ",
-        "positive_prompt": "A beautiful young Japanese woman (20s-30s) with a gentle smile and a natural, relatable expression,  tasting and enjoying a bottle of Hiyaoroshi sake, professional photography, photorealistic, extremely detailed, sharp focus, soft natural lighting,  various bottles of Hiyaoroshi sake visible,  information on the optimal drinking period and selection tips,  8k resolution,  masterpiece,  best quality",
-        "negative_prompt": "ugly, scary, creepy, distorted face, unnatural expression, weird eyes, creepy smile, text, watermark, signature, logo"
+        "h3_title": "熱中症とアルコールの関係性：危険性と予防策",
+        "positive_prompt": "An image depicting the dangers of alcohol consumption and heat stroke, possibly showing a person affected by heatstroke versus a person staying hydrated and protected from the sun. Style: informative, illustrative, clear, cautionary, but not overly alarming.",
+        "negative_prompt": "ugly, scary, text, watermark, blurry, grainy, overly graphic, disturbing"
       },
       "filename": "h3_image_11.png",
       "placeholder": "[h3_image_11]"

@@ -1,0 +1,927 @@
+{
+  "collection_method": "SERP API最適化版（単一語群）",
+  "timestamp": "20250826_015216",
+  "api_calls": 2,
+  "main_keyword": "バームクーヘン　売れ筋　ネット",
+  "results": {
+    "total_unique": 7,
+    "suggestions": [
+      "バームクーヘン 1位",
+      "バウムクーヘン お取り寄せ マツコ",
+      "日本三大バームクーヘン",
+      "クラブハリエ より 美味しいバームクーヘン",
+      "バウムクーヘン お取り寄せ 人気ランキング",
+      "世界一美味しいバームクーヘン",
+      "クラブハリエ バームクーヘン"
+    ],
+    "serp_results": [
+      {
+        "keyword": "バームクーヘン　売れ筋　ネット",
+        "suggestions": [
+          "バームクーヘン 1位",
+          "バウムクーヘン お取り寄せ マツコ",
+          "日本三大バームクーヘン",
+          "クラブハリエ より 美味しいバームクーヘン",
+          "バウムクーヘン お取り寄せ 人気ランキング",
+          "世界一美味しいバームクーヘン",
+          "クラブハリエ バームクーヘン"
+        ],
+        "serp_data": {
+          "search_metadata": {
+            "id": "68ac94bb65f701833b132f8a",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/6a2c822868dbf915/68ac94bb65f701833b132f8a.json",
+            "pixel_position_endpoint": "https://serpapi.com/searches/6a2c822868dbf915/68ac94bb65f701833b132f8a.json_with_pixel_position",
+            "created_at": "2025-08-25 16:52:11 UTC",
+            "processed_at": "2025-08-25 16:52:11 UTC",
+            "google_url": "https://www.google.com/search?q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&oq=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&num=100&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/6a2c822868dbf915/68ac94bb65f701833b132f8a.html",
+            "total_time_taken": 6.06
+          },
+          "search_parameters": {
+            "engine": "google",
+            "q": "バームクーヘン　売れ筋　ネット",
+            "google_domain": "google.com",
+            "hl": "ja",
+            "gl": "jp",
+            "num": "100",
+            "device": "desktop"
+          },
+          "search_information": {
+            "query_displayed": "バームクーヘン 売れ筋 ネット",
+            "total_results": 47200,
+            "time_taken_displayed": 0.46,
+            "organic_results_state": "Results for exact spelling"
+          },
+          "immersive_products": [
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612f883a6fc2fd90c78f60d8fb08496645c.webp",
+              "source_logo": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612bd31365c9b05d46f456eb7db3a4fa228dea5a28c79386ea3.png",
+              "source": "楽天市場 - ソムリエ＠ギフト",
+              "title": "森の庭 焦がしキャラメルがしみ込んだバーム詰合せ 20個入",
+              "rating": 4.7,
+              "reviews": 51,
+              "delivery": "送料無料",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4MDQ0ODc0NzIzNzc4OTMzMjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMzQ1ODM5NTIzNDI2MDAxMzM1IiwiaW1hZ2VEb2NpZCI6IjEwOTY3ODU0NDk1OTc3NDQ1NDIzIiwicmRzIjoiUENfNDQyMzc3MjI0NTUxMjM3Njk5fFBST0RfUENfNDQyMzc3MjI0NTUxMjM3Njk5IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjQ0MjM3NzIyNDU1MTIzNzY5OSIsIm1pZCI6IjU3NjQ2MjgyMzI1MzY1NjI3NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4MDQ0ODc0NzIzNzc4OTMzMjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMzQ1ODM5NTIzNDI2MDAxMzM1IiwiaW1hZ2VEb2NpZCI6IjEwOTY3ODU0NDk1OTc3NDQ1NDIzIiwicmRzIjoiUENfNDQyMzc3MjI0NTUxMjM3Njk5fFBST0RfUENfNDQyMzc3MjI0NTUxMjM3Njk5IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjQ0MjM3NzIyNDU1MTIzNzY5OSIsIm1pZCI6IjU3NjQ2MjgyMzI1MzY1NjI3NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "12804487472377893320",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=12804487472377893320"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b61292dd2f04db06dc46e6bf62712e3d54c5.webp",
+              "source_logo": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b6123405646d0d26c8be8ab54722b395d153385f1cf4ce4bb5bc.png",
+              "source": "高島屋オンラインストア",
+              "title": "CLUB HARIE クラブハリエ バームクーヘン バームクーヘン 高島屋",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNzk4ODUwNDk1MjA4MDYxMTA1IiwiY2F0YWxvZ2lkIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzk4ODUwNDk1MjA4MDYxMTA1IiwiaW1hZ2VEb2NpZCI6IjExODU2MzE3ODg4NzYxMzQ0NTcyIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNzk4ODUwNDk1MjA4MDYxMTA1IiwiY2F0YWxvZ2lkIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzk4ODUwNDk1MjA4MDYxMTA1IiwiaW1hZ2VEb2NpZCI6IjExODU2MzE3ODg4NzYxMzQ0NTcyIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "798850495208061105",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=798850495208061105"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612ea75ea6a4758f32ba7455ca1df5383a0.webp",
+              "source_logo": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612338819cea042719c553105c9c12e3b0bc4a66eb708a0b596.png",
+              "source": "haneda-shopping.jp",
+              "title": "柳月 三方六 1本",
+              "rating": 4.7,
+              "reviews": 141,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODkwNDI3NTQ2OTk1NDY4NDE0NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTYxNDgyMjY0MzI4MTQ4NjcwIiwiaW1hZ2VEb2NpZCI6IjE0OTkyMTQxMzY1Nzk1MjY3NzQ2IiwicmRzIjoiUENfNjc2NTUzNjM1NTU1NzAzNDkyOHxQUk9EX1BDXzY3NjU1MzYzNTU1NTcwMzQ5MjgiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiNjc2NTUzNjM1NTU1NzAzNDkyOCIsIm1pZCI6IjU3NjQ2MjM0OTM1MTY4Mzg3NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODkwNDI3NTQ2OTk1NDY4NDE0NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTYxNDgyMjY0MzI4MTQ4NjcwIiwiaW1hZ2VEb2NpZCI6IjE0OTkyMTQxMzY1Nzk1MjY3NzQ2IiwicmRzIjoiUENfNjc2NTUzNjM1NTU1NzAzNDkyOHxQUk9EX1BDXzY3NjU1MzYzNTU1NTcwMzQ5MjgiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiNjc2NTUzNjM1NTU1NzAzNDkyOCIsIm1pZCI6IjU3NjQ2MjM0OTM1MTY4Mzg3NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "8904275469954684145",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=8904275469954684145"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612afe77bcdc07e09eab7ee6af26c0bf263.webp",
+              "source_logo": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b6124799ed1c009b7d576fe9f02b721961bd8ee64a5007c5fe2e.png",
+              "source": "Amazon公式サイト",
+              "title": "ねんりん家 冬限定 ひとくちバーム詰合せ 4種 10個入",
+              "rating": 4.6,
+              "reviews": 25,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQyNzQ1NDQyMDgwMzgwNDIxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTU2NTQ2NzU5MTc4MTI2NDU1IiwiaW1hZ2VEb2NpZCI6IjE2MDU4MDQ2MjQxOTYyMDM2MTg4IiwicmRzIjoiUENfOTE5NDY1MjU3MDg3NDU1NjkzOXxQUk9EX1BDXzkxOTQ2NTI1NzA4NzQ1NTY5MzkiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiOTE5NDY1MjU3MDg3NDU1NjkzOSIsIm1pZCI6IjU3NjQ2MjgzOTYwNjU4NzkyNCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQyNzQ1NDQyMDgwMzgwNDIxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTU2NTQ2NzU5MTc4MTI2NDU1IiwiaW1hZ2VEb2NpZCI6IjE2MDU4MDQ2MjQxOTYyMDM2MTg4IiwicmRzIjoiUENfOTE5NDY1MjU3MDg3NDU1NjkzOXxQUk9EX1BDXzkxOTQ2NTI1NzA4NzQ1NTY5MzkiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiOTE5NDY1MjU3MDg3NDU1NjkzOSIsIm1pZCI6IjU3NjQ2MjgzOTYwNjU4NzkyNCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "2427454420803804212",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=2427454420803804212"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b612ae4102cbf754b1fd58cf906ccd532f0d.webp",
+              "source_logo": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/2ee9ab9b37e7cb2c2e9d7ae47d70b6125080ec05bb2b55f82e5adb6f8f35397356385338b6b88751.png",
+              "source": "楽天市場 - 見波亭",
+              "title": "【柔らか派おすすめ】 見波亭 やわらかバウムクーヘンS ギフト 内祝い やわらかい バター 千葉 スイーツ 焼菓子 ケーキ 手作り お取り寄せ 手土産 プレゼント 通販 縁起物 生クリーム 洋菓子 バレンタインデー ホワイトデー 敬老の日 母の日 メッセージカード バースデー",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNjcxMDE4NDE1MTEzMjY0NDU4OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY3MTAxODQxNTExMzI2NDQ1ODkiLCJpbWFnZURvY2lkIjoiODgxMTc5NjY4MDEwMDcwNzk5OCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNjcxMDE4NDE1MTEzMjY0NDU4OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY3MTAxODQxNTExMzI2NDQ1ODkiLCJpbWFnZURvY2lkIjoiODgxMTc5NjY4MDEwMDcwNzk5OCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "6710184151132644589",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=6710184151132644589"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6ZlCDthHfgrBltPOjBolXiONPGOngjbkqiDEkCHka5dnie7gi1uj69K1yYY1S5RmIA_eEneNHV3m3m-Sc2TjNpkk83hrTZLEoR3QMO_A80OvJ6Z8rH44",
+              "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ52Cg6QRuOifVBCinwlvd1oVttrzfOGpZ_6AqBXeWaByBTKaG621kl3UaSPl_CmDelu66JHU0_ECLvQGbuQm6JOtGcJMk",
+              "source": "Amazon公式サイト",
+              "title": "キハチ バームクーヘン 5個入 プチギフトにぴったり 大切な方へ お土産 プレゼント お祝い お返し 内祝い 贈り物 ギフト お菓子 内祝い 結婚祝い 引っ越し祝い 入学祝い 卒業祝い",
+              "rating": 4.6,
+              "reviews": 134,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTQxNjI1MzU5NjcwNDEyNzEwODIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE2MjUzNTk2NzA0MTI3MTA4MiIsImltYWdlRG9jaWQiOiIxNzQxNzU3NzUzNzg4NTQwNjkyNSIsInJkcyI6IlBDXzkxMzUzMzc4MjY3MDAzMjM0OTZ8UFJPRF9QQ185MTM1MzM3ODI2NzAwMzIzNDk2IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTQxNjI1MzU5NjcwNDEyNzEwODIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE2MjUzNTk2NzA0MTI3MTA4MiIsImltYWdlRG9jaWQiOiIxNzQxNzU3NzUzNzg4NTQwNjkyNSIsInJkcyI6IlBDXzkxMzUzMzc4MjY3MDAzMjM0OTZ8UFJPRF9QQ185MTM1MzM3ODI2NzAwMzIzNDk2IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "14162535967041271082",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=14162535967041271082"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1vBHcewRvRvvgD68J1k5S_kZLMUiOVEIPx66trMWFhSEltYgcKIaeb8TBL9kACTn3mNuytTkjfPG2RCFwP5HY8JP1twm5sBc5fM32L6bAAlfuqkuvrWkOjA",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXQLGG3sLatKIXN6wb-qLOoLZIDV-6WGZSD8iiirHQ5jwTmCNl2rIY3bMrkxsCpC4CtlAdwtwFuRp3bTHm4nLDKjsJR84x05-pUw",
+              "source": "楽天市場 - クラブハリエ-CLUB HARIE-",
+              "title": "【公式 クラブハリエ】 バームクーヘンmini 12個入 個包装 洋菓子 お菓子 ギフト 御中元 お中元 お歳暮 母の日 父の日 敬老の日 バウムクーヘン ミニ CLUBHARIE",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNjgzODQ1ODkzOTQzMjE0Nzc2MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY4Mzg0NTg5Mzk0MzIxNDc3NjAiLCJpbWFnZURvY2lkIjoiNTA3NjcyNDcxMjgwMzkwNzQ5NyIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiNjgzODQ1ODkzOTQzMjE0Nzc2MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY4Mzg0NTg5Mzk0MzIxNDc3NjAiLCJpbWFnZURvY2lkIjoiNTA3NjcyNDcxMjgwMzkwNzQ5NyIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "6838458939432147760",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=6838458939432147760"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDmmwNZLyibaKfDaZB9tZfx8E_-WFVFZJhlKcdSl5h48Q3OqlZvpzo75ElqX2jo2dylURgHTPvqkg6_sy5zzg7ilxe7LH6SITSwQIUTcJi",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcROuGQVdjQg51peUi8-096ZdaGD5ODJR-tVuggdsZFkPIY3Q8GZk4_6cF12tgxI5vhDFs-xG_3oeYRHMizsTFZl-fc",
+              "source": "ana.co.jp",
+              "title": "銀座千疋屋 銀座フルーツクーヘン B,スイーツ,ギフト,贈り物",
+              "rating": 4.6,
+              "reviews": 1011,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY2NjI5MDY5ODM4ODQ3MTU5NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTcxMTc5Mzg0ODUxMDEzNDg1IiwiaW1hZ2VEb2NpZCI6IjY3ODQ3NDE1MTYwMTA1MDAzNTYiLCJyZHMiOiJQQ18xODQwNTkzNDU4NjgyODU5NzY3NXxQUk9EX1BDXzE4NDA1OTM0NTg2ODI4NTk3Njc1IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjE4NDA1OTM0NTg2ODI4NTk3Njc1IiwibWlkIjoiNTc2NDYyNzgyMDU1MDA1MjMwIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY2NjI5MDY5ODM4ODQ3MTU5NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTcxMTc5Mzg0ODUxMDEzNDg1IiwiaW1hZ2VEb2NpZCI6IjY3ODQ3NDE1MTYwMTA1MDAzNTYiLCJyZHMiOiJQQ18xODQwNTkzNDU4NjgyODU5NzY3NXxQUk9EX1BDXzE4NDA1OTM0NTg2ODI4NTk3Njc1IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjE4NDA1OTM0NTg2ODI4NTk3Njc1IiwibWlkIjoiNTc2NDYyNzgyMDU1MDA1MjMwIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "product_id": "9666290698388471596",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=9666290698388471596"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTYBpM_N8jtd91kjzEEJuTPQJB_Zlek7fmfiJIEQFNfRFn6pPcvESjWa9sb7SZa1l0XTnm7CLjeag64jRp-o7o3AHrgwVapq0jw88cG__3ZbqfGGj2G74iY",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQEyla3A9FqxCfkW91z_bcxEBwWjS3GrEF_New_XpVWOnbJLMlfBxKWKGDKRR6UVl2VgXBJijQMMsuxRxJL5YBOIZajq5DoKnwv8t-aTQ",
+              "source": "高島屋オンラインストア",
+              "title": "CLUB HARIE クラブハリエ バームショコラ ド ヴォヤージュ 12個入 バームクーヘン 高島屋",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTAwNjc1NzY5Nzc2MzM5Nzc0ODEiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDA2NzU3Njk3NzYzMzk3NzQ4MSIsImltYWdlRG9jaWQiOiI0NDUwNTg1ODExNzkwNDMxOTUwIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTAwNjc1NzY5Nzc2MzM5Nzc0ODEiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDA2NzU3Njk3NzYzMzk3NzQ4MSIsImltYWdlRG9jaWQiOiI0NDUwNTg1ODExNzkwNDMxOTUwIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "10067576977633977481",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=10067576977633977481"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQu8Pp1TYyG_1-EQ6-5r4ZXhpx5AuIXRP80Lp7nl1O3VO3Yewf3ge73JnGWKbTgcMoeW4t1r-ZQ2LkimXBETeXc8Fml-sP7yGxsNxMIPDxQe9OAiJpnpkesgA",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXQLGG3sLatKIXN6wb-qLOoLZIDV-6WGZSD8iiirHQ5jwTmCNl2rIY3bMrkxsCpC4CtlAdwtwFuRp3bTHm4nLDKjsJR84x05-pUw",
+              "source": "楽天市場 - ぷちぎふと工房 コンサルジュ",
+              "title": "プチギフト 退職 産休 結婚式 メッセージシール付ブルックリンバウム ※賞味期限2025年10月25日 バウムクーヘン1個入り 産休 挨拶 バレンタイン お配り おしゃれなプチギフト 200円 300円以下 販促 シール シール付き バームクーヘン",
+              "original_price": "￥302",
+              "extracted_original_price": 302,
+              "extensions": [
+                "52% オフ"
+              ],
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTYwNjQxNTc4MTUyMzQ3MTM4MDMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjA2NDE1NzgxNTIzNDcxMzgwMyIsImltYWdlRG9jaWQiOiIxNTQwMzk4ODIzNTQzMzU1Nzk3NCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTYwNjQxNTc4MTUyMzQ3MTM4MDMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjA2NDE1NzgxNTIzNDcxMzgwMyIsImltYWdlRG9jaWQiOiIxNTQwMzk4ODIzNTQzMzU1Nzk3NCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "16064157815234713803",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=16064157815234713803"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRPHEDqVRlZFpcY8druV-2V0PNR_UjijqGDAe6MPgoIIpOn2NLNDN_Ru9AVYRDO6JomWUQUdqCJYCk8MJc1fU3gsljGPN-feh3djbcFGTa-uS1A_wUpZxOO",
+              "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSwq7ZDMulH0KDaObAPVqeR8FDaF1L2oLo2Js-XSDI3IJ_5mqf-WdspVEAy3AHprBvE3Q5yCyVuZYfHST-zkv_NPtLIXyV81mg",
+              "source": "Amazon公式サイト",
+              "title": "こだわりの素材 岐阜県産 よしや 直送 バウムクーヘン バター使用 バームクーヘン 女性 ギフト お菓子 国内正規品",
+              "delivery": "送料無料",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MDMzMzA5NzMxOTU0MTk3NzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1MTA5MzY1NDcwMzA1Njk5NDEwIiwiaW1hZ2VEb2NpZCI6IjE2ODA4NjY1OTExMDMyOTc0MTM4IiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjExNzkyNTg4MzIyNjE5NTU2NDIiLCJtaWQiOiI1NzY0NjI4NjIzODI3Mjc3NDEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MDMzMzA5NzMxOTU0MTk3NzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1MTA5MzY1NDcwMzA1Njk5NDEwIiwiaW1hZ2VEb2NpZCI6IjE2ODA4NjY1OTExMDMyOTc0MTM4IiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjExNzkyNTg4MzIyNjE5NTU2NDIiLCJtaWQiOiI1NzY0NjI4NjIzODI3Mjc3NDEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "11703330973195419779",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=11703330973195419779"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShq5_aZKB-KtuLzl3bq24Oe1OS9JFVTLQh4oKSFX-r2bRKCWJTcxzM3C0FL5OOHFuC726X17M1ha51SbYnqigTTBlP0QNm_zA-a5Pov5WnCFxBPwawJCU",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSOprcDR7cwRcJMpiVGk_ySaItuaBXZM8tmru799VHOcMVHuHJcMl9FhBwYeoTNjQDR7a6wd__yR3RO5VIL6xQcV2c",
+              "source": "ryubo.net",
+              "title": "ユーハイムバウム (12個) JP-3 ギフト お返し",
+              "rating": 4.6,
+              "reviews": 7,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxODQ4MTQ1MzUxNDYyNzQ3NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNjAzODA4ODEwODg4NzYyMzEwIiwiaW1hZ2VEb2NpZCI6IjMwMzM5NTczMTMxNjUyNTY2MTgiLCJyZHMiOiJQQ18xNzM4NzkzMjg2MDM3ODA4NzYwOHxQUk9EX1BDXzE3Mzg3OTMyODYwMzc4MDg3NjA4IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjE3Mzg3OTMyODYwMzc4MDg3NjA4IiwibWlkIjoiNTc2NDYyNzk0NDQxNTkwOTMzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxODQ4MTQ1MzUxNDYyNzQ3NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNjAzODA4ODEwODg4NzYyMzEwIiwiaW1hZ2VEb2NpZCI6IjMwMzM5NTczMTMxNjUyNTY2MTgiLCJyZHMiOiJQQ18xNzM4NzkzMjg2MDM3ODA4NzYwOHxQUk9EX1BDXzE3Mzg3OTMyODYwMzc4MDg3NjA4IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjE3Mzg3OTMyODYwMzc4MDg3NjA4IiwibWlkIjoiNTc2NDYyNzk0NDQxNTkwOTMzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "product_id": "8218481453514627474",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=8218481453514627474"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQx7DR5gSjTW14LoAt2CO_Ruy5nw8aKkFTUHFIu2mbCS2qeo89utzFu7noHX2N35fwRxn8iiQ7DJGw4iiFGe6PiWKLk47HQUxsiXgmiAYfi",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXQLGG3sLatKIXN6wb-qLOoLZIDV-6WGZSD8iiirHQ5jwTmCNl2rIY3bMrkxsCpC4CtlAdwtwFuRp3bTHm4nLDKjsJR84x05-pUw",
+              "source": "楽天市場 - DIMPLE GIFT MARKET",
+              "title": "名入れ 退職 プチギフト お菓子 お世話になりました メッセージ バウムクーヘン 個包装 バレンタイン ホワイトデー お礼の品 大量 プレゼント ノベルティ 結婚式 かわいい おしゃれ ありがとうございます 粗品 おしゃれ 男性 女性",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTM1MzE0ODU0Mjk3ODg4OTE4ODEiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzUzMTQ4NTQyOTc4ODg5MTg4MSIsImltYWdlRG9jaWQiOiIzNzY4NjQyMzI5NTg3MjIxNjM5IiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTM1MzE0ODU0Mjk3ODg4OTE4ODEiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzUzMTQ4NTQyOTc4ODg5MTg4MSIsImltYWdlRG9jaWQiOiIzNzY4NjQyMzI5NTg3MjIxNjM5IiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "13531485429788891881",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=13531485429788891881"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQN5KnStrM0Ea8-jgqBAKOtBsQAkN99Vuwqqf_xVL40sMjMu67VremMh9bJgQB272AcNiU0u24CbV2CzCz27jXKhLgKh-vyfeBA0Njvug",
+              "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT1nTLNGB7vxxWQBFF3LRHGp6Sf03__l9wGinIkje6Z1dYNUz6QehQydzeI-S3K_h80X5bVPm2Da6a1YNuermwphVxPig",
+              "source": "yahoo.co.jp",
+              "title": "3営業日発送 【銀座千疋屋】フルーツを贅沢に閉じ込めたバウムクーヘンギフト(8pcs) 出産内祝い・結婚内祝い",
+              "rating": 4.6,
+              "reviews": 1011,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMzU3MTI1MTkwODUwMTA1Mjg2NyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1NzEyNTE5MDg1MDEwNTI4NjciLCJpbWFnZURvY2lkIjoiMTY3MTgzNzg5ODM1ODg0Mjk4NDEiLCJyZHMiOiJQQ18xODQwNTkzNDU4NjgyODU5NzY3NXxQUk9EX1BDXzE4NDA1OTM0NTg2ODI4NTk3Njc1IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMzU3MTI1MTkwODUwMTA1Mjg2NyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1NzEyNTE5MDg1MDEwNTI4NjciLCJpbWFnZURvY2lkIjoiMTY3MTgzNzg5ODM1ODg0Mjk4NDEiLCJyZHMiOiJQQ18xODQwNTkzNDU4NjgyODU5NzY3NXxQUk9EX1BDXzE4NDA1OTM0NTg2ODI4NTk3Njc1IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "3571251908501052867",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=3571251908501052867"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHbT27izoAaRRIja337D8mB13SNta8ey7UEoXK8sr05j8U-Cm_M3PyCZ5BZDOJQZWYfIM9q7hGH1CpdzLfqVpiqZnJNb4fjovA1C-3Ys_M",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXQLGG3sLatKIXN6wb-qLOoLZIDV-6WGZSD8iiirHQ5jwTmCNl2rIY3bMrkxsCpC4CtlAdwtwFuRp3bTHm4nLDKjsJR84x05-pUw",
+              "source": "楽天市場 - ケーキハウスカネヤマ 楽天市場店",
+              "title": "<夏季限定>本格手焼き金山バームクーヘン≪!≫お試しセット(3種×各2個・計6個)地元の焼酎と卵を使ったこだわり焼き菓子をお届け!プレーン・ピスタチオ・ココア3つの味を食べ比べ ≪!≫",
+              "delivery": "送料無料",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTAyMDgwOTEyMjA5ODk5Mjg4MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIwODA5MTIyMDk4OTkyODgzMyIsImltYWdlRG9jaWQiOiIxNzE3ODQ5NzA0NTEzNzEzNzg0OCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTAyMDgwOTEyMjA5ODk5Mjg4MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIwODA5MTIyMDk4OTkyODgzMyIsImltYWdlRG9jaWQiOiIxNzE3ODQ5NzA0NTEzNzEzNzg0OCIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "10208091220989928833",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=10208091220989928833"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS52ilPX_37ki-K20PpqWXYHwR8W6ocIO9ADRKaObr9SGvxw8qeYgJ3XE20zkuxbROB028aJHHiJrpCVl5LMT_J7tgE_S2auTizUBK3U5sHL0hNAELOGQ",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSdjX7i3Qpgo2f517yhhVbDpMCEfBiQ1rCyv_sWNcymYILArDuj2vxGTdbDmytqOahfB4YkO4FypyB0HXIhM-O8WJu85AaqJGWK",
+              "source": "アニクリオンラインストア",
+              "title": "【数量3個から】寿 バウムクーヘン(木箱入)",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTQxNTY0NzE5MzY3NDE1MTYxNTkiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE1NjQ3MTkzNjc0MTUxNjE1OSIsImltYWdlRG9jaWQiOiIxNjE3NjE4NDc0NzQ4NzEwMTI4NSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTQxNTY0NzE5MzY3NDE1MTYxNTkiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE1NjQ3MTkzNjc0MTUxNjE1OSIsImltYWdlRG9jaWQiOiIxNjE3NjE4NDc0NzQ4NzEwMTI4NSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "14156471936741516159",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=14156471936741516159"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_4qA1njVWPMBImi1zstloh-IZgCf9eBn7Uc1CquktaaG7VTyjZlj04ZrDJph5nvVv0rKJBGJDiW9sT-5zu_cbGFxO7ZiFxcf5RI4R9woA",
+              "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSLqWdK6_kUYGxYOB-1dZAFnE1KCshFRqap2BJXEqs5OY54BLxFIs3SEa6gMeCbSCx848bsCU7PRAW4PlA0wXe1ynhaIC3Row",
+              "source": "コメリドットコム",
+              "title": "森の庭 焦がしキャラメルがしみ込んだバーム詰合せ 20個",
+              "rating": 4.5,
+              "reviews": 56,
+              "delivery": "送料無料",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTc1MDIxNjY3NTIyNDYyNDI2ODUiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzUwMjE2Njc1MjI0NjI0MjY4NSIsImltYWdlRG9jaWQiOiIzMTE1MzY2NjMzNDgxNzY5NzE5IiwicmRzIjoiUENfMTY2Nzk3MTgwMjYwOTk1Mzg0MTh8UFJPRF9QQ18xNjY3OTcxODAyNjA5OTUzODQxOCIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTc1MDIxNjY3NTIyNDYyNDI2ODUiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzUwMjE2Njc1MjI0NjI0MjY4NSIsImltYWdlRG9jaWQiOiIzMTE1MzY2NjMzNDgxNzY5NzE5IiwicmRzIjoiUENfMTY2Nzk3MTgwMjYwOTk1Mzg0MTh8UFJPRF9QQ18xNjY3OTcxODAyNjA5OTUzODQxOCIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "17502166752246242685",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=17502166752246242685"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaOup_ehXngqHEuk7RtmIDEd9I9qOV9oQaw943n3myWiUooz-yQrDSGYIcw8YVTAI7pMAESfu6DUdLOu-2Ad0rS2ZbObM1o88LWY6SHwA",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQFks4Az7bKDDtZOTJj8UEVUXYSyfDFCgDQFHZMMOv6qcbvi1QWqH2lOQXI0IwW4WeztD3I5o_6cxEZJwUP6xpRuXe7ecvv_eel",
+              "source": "ギフトアットマリー",
+              "title": "森の庭 焦がしキャラメルがしみ込んだバーム詰合せ 20個入 /焼き菓子詰め合わせ バウムクーヘン スイーツギフトセット お菓子 贈答品 プレゼント /お中元 お歳暮 /出産内祝い 結婚内祝い 快気祝い 香典返し 法人ギフト",
+              "rating": 4.5,
+              "reviews": 56,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMjE3MjA2MjQ5NzQyMTIwMTQ5MSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIxNzIwNjI0OTc0MjEyMDE0OTEiLCJpbWFnZURvY2lkIjoiNzk0OTExNjMyMTgxOTUwMjI5MyIsInJkcyI6IlBDXzE2Njc5NzE4MDI2MDk5NTM4NDE4fFBST0RfUENfMTY2Nzk3MTgwMjYwOTk1Mzg0MTgiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMjE3MjA2MjQ5NzQyMTIwMTQ5MSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIxNzIwNjI0OTc0MjEyMDE0OTEiLCJpbWFnZURvY2lkIjoiNzk0OTExNjMyMTgxOTUwMjI5MyIsInJkcyI6IlBDXzE2Njc5NzE4MDI2MDk5NTM4NDE4fFBST0RfUENfMTY2Nzk3MTgwMjYwOTk1Mzg0MTgiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6ImpwIiwiaGwiOiJqYSIsImVuZ2luZSI6Imdvb2dsZSJ9",
+              "product_id": "2172062497421201491",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=2172062497421201491"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXTDLtukYm8Ho3lWOr39ACpQjPzsdCmbvqauGuxtdenzWMGXTiW_iT92cOn3S7e13b-gzeHimF54CwlPcOpBxAGcTEgvxqjN5eIFAEH7M",
+              "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXQLGG3sLatKIXN6wb-qLOoLZIDV-6WGZSD8iiirHQ5jwTmCNl2rIY3bMrkxsCpC4CtlAdwtwFuRp3bTHm4nLDKjsJR84x05-pUw",
+              "source": "楽天市場 - 見波亭",
+              "title": "【おすすめ チーズ好き】 バウムスティック 5本入 バウムクーヘン バームクーヘン ギフト サンド クリーム ケーキ お取り寄せ 手土産 内祝い プレゼント バレンタインデー 母の日 父の日 誕生日 通販 縁起物 洋菓子 千葉 焼菓子 手作り 鋸山の麓 見波亭 おやつ 冷凍",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiOTMzMDU3MTQ0NjQ3ODg5NjUxNyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkzMzA1NzE0NDY0Nzg4OTY1MTciLCJpbWFnZURvY2lkIjoiODU1OTk2NDc0NTAxMTM2NDM3OSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiOTMzMDU3MTQ0NjQ3ODg5NjUxNyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkzMzA1NzE0NDY0Nzg4OTY1MTciLCJpbWFnZURvY2lkIjoiODU1OTk2NDc0NTAxMTM2NDM3OSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "9330571446478896517",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=9330571446478896517"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8qrEX4Kb9YHNrT8YJF5eXAclp-EB9y8nB6_4zj-n4fJCn157y_bpTLAf2ZH_Z6KWGsF9dTmX9v5X3RoYrk-ccjaUgjoRS_wBWbgxQ",
+              "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRaMagjuaWSdI1uFS1Rz_E0E_fzCxiezzvWDulan01XCkLgZgRaG_7i7k4DuiExx9XaZpxtfJ--ScP3q6d_kGDggopo5FG8SlHh",
+              "source": "saradakan-os.com",
+              "title": "セレブコレクション バウムクーヘン",
+              "rating": 3.7,
+              "reviews": 3,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4Mjk3NjY1MTQ1Mjg0NTI1MzYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjMyMzc3NjI5NDMxNjUwODg3MSIsImltYWdlRG9jaWQiOiIyODg0Mjc0MjQzNzYyNjU4MDM2IiwicmRzIjoiUENfNzAyNDU1NjY4NzUwNDc3MzYyNnxQUk9EX1BDXzcwMjQ1NTY2ODc1MDQ3NzM2MjYiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiNzAyNDU1NjY4NzUwNDc3MzYyNiIsIm1pZCI6IjU3NjQ2MjgwOTMxMzg5MDkyOCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4Mjk3NjY1MTQ1Mjg0NTI1MzYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjMyMzc3NjI5NDMxNjUwODg3MSIsImltYWdlRG9jaWQiOiIyODg0Mjc0MjQzNzYyNjU4MDM2IiwicmRzIjoiUENfNzAyNDU1NjY4NzUwNDc3MzYyNnxQUk9EX1BDXzcwMjQ1NTY2ODc1MDQ3NzM2MjYiLCJxdWVyeSI6IiVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MyVBMCVFMyU4MiVBRiVFMyU4MyVCQyVFMyU4MyU5OCVFMyU4MyVCMyVFMyU4MCU4MCVFNSVBMyVCMiVFMyU4MiU4QyVFNyVBRCU4QiVFMyU4MCU4MCVFMyU4MyU4RCVFMyU4MyU4MyVFMyU4MyU4OCIsImdwY2lkIjoiNzAyNDU1NjY4NzUwNDc3MzYyNiIsIm1pZCI6IjU3NjQ2MjgwOTMxMzg5MDkyOCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "15829766514528452536",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=15829766514528452536"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHne3vwfvJPysNoGsNcVeeAL2i87bgYuepWL2nJY20Y04wYZburQqDGMhG-Uh_m93TKcXnIaG0kB0RwUHIS42ueWGBmhRReTHeP2_Rz-E-rkNy2qFBSeNiFQ",
+              "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTGGgvrko6EP9_1NzF9vDoLiLrUFB7zN1zOiex9qS0ci92y-vP7amijSSWZcgxu58uB8H2reqdffAYK0Y1lMNYgBA",
+              "source": "au PAY マーケット - 50985381_まるひろオンラインショップ",
+              "title": "【ユーハイム】バウムクーヘン10",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjU5MDYwMjkxNzQwMjc3NjA0NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0OTkzMTYzOTYwMTY4NTkyNDkiLCJpbWFnZURvY2lkIjoiNjQxMzQ2MDQ4MjE1MjU3NTE2NSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiI4NjM4OTUzMTU1MjIyNjc3MTIiLCJtaWQiOiI1NzY0NjI4Mjg1MTY3NTM2NTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjU5MDYwMjkxNzQwMjc3NjA0NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0OTkzMTYzOTYwMTY4NTkyNDkiLCJpbWFnZURvY2lkIjoiNjQxMzQ2MDQ4MjE1MjU3NTE2NSIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiI4NjM4OTUzMTU1MjIyNjc3MTIiLCJtaWQiOiI1NzY0NjI4Mjg1MTY3NTM2NTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "6590602917402776047",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=6590602917402776047"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTet8tAzGrGrO5LvuWlqysqnFNFlfT-aYJBG1Wk1HTquONei1hmWkEOtRHO6GHO2tncLmTLEZ5bn82Xd4EUZjwHkqJeS7nMDHnCOy0EmwlSy0FaXGDxdgE4Zg",
+              "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSCvZR1l6C3FOX6YZ0K4Pzs4BPuSlR-cItSqGJCTCPXwfCt9wNMXo05egSj7_Yn7pHkyslzKfeXppVE6_uNC9fTOY4TQ2eDgkWG6TARFw8D",
+              "source": "スイーツモール",
+              "title": "【常温】淡路島ばぁむ デコバウム|バウムクーヘン|淡路島ばぁむ工房 maaru factory ストロベリー×ホワイト / デコハーフ",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTU0MDA4ODU5MDY3MTI2OTgxNTQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQwMDg4NTkwNjcxMjY5ODE1NCIsImltYWdlRG9jaWQiOiIyMzg3MjkwMTEzMzI1ODQ0MDIwIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ==",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMTU0MDA4ODU5MDY3MTI2OTgxNTQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQwMDg4NTkwNjcxMjY5ODE1NCIsImltYWdlRG9jaWQiOiIyMzg3MjkwMTEzMzI1ODQ0MDIwIiwicmRzIjoiIiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJqcCIsImhsIjoiamEiLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+              "product_id": "15400885906712698154",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=15400885906712698154"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRl9hDBRIqB1t4c9F-hHZtUiTj_vK8utX48Mc3M3bmLz4EbqS-OS7_63PeoB4do19lte1AsaiZ0eItizMXpuakq1mIXmpM4QnFo_U51PUl0joIC_8ab6CLs",
+              "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQjKTZvOiD7ftJ3r8_YA1-oS1kqfUtzcm-7X9E6q4rcwVVO1rUKHCymhYHkHMLeAJ_Trzbt4uSZcANIPTMNL7tgmsK-8N1x-A",
+              "source": "ギフトモール",
+              "title": "匠や本舗 美食バウムクーヘン HRKB-20",
+              "rating": 4.8,
+              "reviews": 5,
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYxNzk5ODE1MTg0MDQ4MTMyMzMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzc2NTM0OTIyODgyNDcxNDM2MCIsImltYWdlRG9jaWQiOiIxNDAzMjM4NzEyOTk5Njc4NDIxMiIsInJkcyI6IlBDXzI5MjE3OTkzNTY3NTYxMTA1MTZ8UFJPRF9QQ18yOTIxNzk5MzU2NzU2MTEwNTE2IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjI5MjE3OTkzNTY3NTYxMTA1MTYiLCJtaWQiOiI1NzY0NjI2ODcyNDg2NTkzNTEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYxNzk5ODE1MTg0MDQ4MTMyMzMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzc2NTM0OTIyODgyNDcxNDM2MCIsImltYWdlRG9jaWQiOiIxNDAzMjM4NzEyOTk5Njc4NDIxMiIsInJkcyI6IlBDXzI5MjE3OTkzNTY3NTYxMTA1MTZ8UFJPRF9QQ18yOTIxNzk5MzU2NzU2MTEwNTE2IiwicXVlcnkiOiIlRTMlODMlOTAlRTMlODMlQkMlRTMlODMlQTAlRTMlODIlQUYlRTMlODMlQkMlRTMlODMlOTglRTMlODMlQjMlRTMlODAlODAlRTUlQTMlQjIlRTMlODIlOEMlRTclQUQlOEIlRTMlODAlODAlRTMlODMlOEQlRTMlODMlODMlRTMlODMlODgiLCJncGNpZCI6IjI5MjE3OTkzNTY3NTYxMTA1MTYiLCJtaWQiOiI1NzY0NjI2ODcyNDg2NTkzNTEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "16179981518404813233",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=16179981518404813233"
+            },
+            {
+              "category": "注目されている商品",
+              "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKhtM1glN688dZrLzJg8oQZzafPrgzfDqqHEFF3kIt1Hckd2PwadeL-4cEeYBHBqaXjFnSax691o4dBFZ1v9bkV5SyXQA1uiixoR-N4vY",
+              "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9FlwEr2RbHEMQ7cTlxnQqyn3tShZdOwYp0gkL4-jvsbYSxTMbllx7LQSRC2uqE8w37SJGgdZGr4iY5a1GRMDFDllJQID0",
+              "source": "山形うまいずマーケット",
+              "title": "シベール/シベールの杜バウムクーヘンLサイズ",
+              "immersive_product_page_token": "eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMzI0NzExNDcyMzY3Mzg0OTI3OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNDcxMTQ3MjM2NzM4NDkyNzkiLCJpbWFnZURvY2lkIjoiOTkzNTExMjMxMjk3OTE2OTg1NyIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0=",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IndKU3NhTW1ZQ3ZibzFlOFBtTVdEOEFZIiwicHJvZHVjdGlkIjoiMzI0NzExNDcyMzY3Mzg0OTI3OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNDcxMTQ3MjM2NzM4NDkyNzkiLCJpbWFnZURvY2lkIjoiOTkzNTExMjMxMjk3OTE2OTg1NyIsInJkcyI6IiIsInF1ZXJ5IjoiJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUFGJUUzJTgzJUJDJUUzJTgzJTk4JUUzJTgzJUIzJUUzJTgwJTgwJUU1JUEzJUIyJUUzJTgyJThDJUU3JUFEJThCJUUzJTgwJTgwJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4IiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoianAiLCJobCI6ImphIiwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+              "product_id": "3247114723673849279",
+              "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=jp&google_domain=google.com&hl=ja&product_id=3247114723673849279"
+            }
+          ],
+          "organic_results": [
+            {
+              "position": 1,
+              "title": "バームクーヘンのお取り寄せ人気ランキング",
+              "link": "https://www.otoriyose.net/ranking/category/108",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.otoriyose.net/ranking/category/108&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECCUQAQ",
+              "displayed_link": "https://www.otoriyose.net › ランキング › スイーツ・洋菓子",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d17b69d9be2070db661d27128bd60138d1.jpeg",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d16c3a12d6b9b33a06607d7c087427a972.png",
+              "snippet": "バームクーヘンのお取り寄せ人気ランキング · 1位 バームクーヘンmini 18個入 · 2位 · 3位 · 4位 スティックバウム詰合せ（SB-20BE）4種7個入 · 5位 お米のカットバウム 10個 ...",
+              "snippet_highlighted_words": [
+                "1位 バームクーヘンmini 18個入"
+              ],
+              "source": "おとりよせネット"
+            },
+            {
+              "position": 2,
+              "title": "【楽天市場】バウムクーヘン | 人気・おすすめランキング1位 ...",
+              "link": "https://ranking.rakuten.co.jp/daily/201117/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ranking.rakuten.co.jp/daily/201117/&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECB0QAQ",
+              "displayed_link": "https://ranking.rakuten.co.jp › ... › クッキー・焼き菓子",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d17b3cfa547b1b1c5d9587deea88b3b154.png",
+              "snippet": "楽天ランキング－「バウムクーヘン」（クッキー・焼き菓子 ＜ スイーツ・お菓子）の人気商品ランキング！口コミ（レビュー）も多数。今、売れている商品はコレ！",
+              "snippet_highlighted_words": [
+                "バウムクーヘン"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "extensions": [
+                    "4.7 店舗の評価 (1061)"
+                  ]
+                }
+              },
+              "source": "楽天市場ランキング"
+            },
+            {
+              "position": 3,
+              "title": "バームクーヘンのおすすめ人気ランキングTOP100",
+              "link": "https://shopping.yahoo.co.jp/ranking/keyword/?p=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shopping.yahoo.co.jp/ranking/keyword/%3Fp%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%2598%25E3%2583%25B3&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECBwQAQ",
+              "displayed_link": "https://shopping.yahoo.co.jp › ranking › keyword › p=...",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d1fd7cd072998cb17aa997abb7bac6d255.png",
+              "snippet": "Yahoo!ショッピング | バームクーヘンの人気売れ筋ランキングTOP100をご紹介しています！売行き好調の商品が集結。お買得な人気商品をランキングやクチコミからも探せ ...",
+              "snippet_highlighted_words": [
+                "バームクーヘンの人気売れ筋ランキングTOP100"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 999,
+                    "currency": "￥～￥"
+                  },
+                  "extensions": [
+                    "4.7 店舗の評価 (981)",
+                    "￥999～￥9,800"
+                  ]
+                }
+              },
+              "source": "Yahoo!ショッピング"
+            },
+            {
+              "position": 4,
+              "title": "Amazon.co.jp: バームクーヘン 人気 ランキング",
+              "link": "https://www.amazon.co.jp/%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3-%E4%BA%BA%E6%B0%97-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/s?k=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E4%BA%BA%E6%B0%97+%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.co.jp/%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%2598%25E3%2583%25B3-%25E4%25BA%25BA%25E6%25B0%2597-%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0/s%3Fk%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%2598%25E3%2583%25B3%2B%25E4%25BA%25BA%25E6%25B0%2597%2B%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECBkQAQ",
+              "displayed_link": "https://www.amazon.co.jp › バームクーヘン-人気-ラン...",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d18e94ea2bbde3d720e690b3513fa241cd.png",
+              "snippet": "結果 · ギフト お菓子 焼き菓子 バウムクーヘン 詰合せ パティスリー銀座千疋屋 銀座フルーツクーヘンB(16個入) · 治一郎のバウムクーヘン 4センチ · ねんりん家 ...",
+              "snippet_highlighted_words": [
+                "ギフト",
+                "バウムクーヘン",
+                "バウムクーヘン"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "extensions": [
+                    "4.8 店舗の評価 (729)"
+                  ]
+                }
+              },
+              "source": "Amazon.jp"
+            },
+            {
+              "position": 5,
+              "title": "お取り寄せバウムクーヘンのおすすめ人気ランキング【2025年】",
+              "link": "https://my-best.com/13047",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my-best.com/13047&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECCcQAQ",
+              "displayed_link": "https://my-best.com › ...",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d17d39cd86d41ac8aaa34b30b48b0d795b.jpeg",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d1491050b68d9f0b7adac92432df6ce26b.png",
+              "snippet": "お取り寄せバウムクーヘン全26商品 おすすめ人気ランキング ; 柳月. 三方六の小割. 三方六の小割 1 · 650円 · 650円 ; 新宿高野. ガトーバラエティーB#56328. ガトー ...",
+              "snippet_highlighted_words": [
+                "バウムクーヘン"
+              ],
+              "images": [
+                "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d1d1d64a94ac768597b9f28b1eccf571d3.jpeg"
+              ],
+              "source": "マイベスト"
+            },
+            {
+              "position": 6,
+              "title": "2025年最新版！お取り寄せにおすすめの【バームクーヘン】 ...",
+              "link": "https://tabiiro.jp/otoriyose/ranking/confectionery/baumkuchen/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tabiiro.jp/otoriyose/ranking/confectionery/baumkuchen/&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECDYQAQ",
+              "displayed_link": "https://tabiiro.jp › ... › お取り寄せスイーツランキング",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d11e00ddc7950f93595b7ca0536b810293.png",
+              "snippet": "バームクーヘン人気ランキング · 1位. とろなまチョコ. 千葉県. [せんねんの木 factory & café 祇園店] · 2位. 小樽瓦焼バウム. 北海道 · 3位. とろなまティラミス. 千葉県 · 4 ...",
+              "snippet_highlighted_words": [
+                "バームクーヘン"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 1382,
+                    "currency": "￥～￥"
+                  },
+                  "extensions": [
+                    "￥1,382～￥2,376"
+                  ]
+                }
+              },
+              "source": "旅色"
+            },
+            {
+              "position": 7,
+              "title": "【2025年最新】バームクーヘンのお取り寄せ新着ランキング ...",
+              "link": "https://s.otoriyose.net/ranking/new_arrival/category/108",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://s.otoriyose.net/ranking/new_arrival/category/108&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECDUQAQ",
+              "displayed_link": "https://s.otoriyose.net › ranking › new_arrival › category",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d1e57741da89348b286e465787a3cfbb30.png",
+              "snippet": "バームクーヘンのお取り寄せ新着ランキング · 1位 バウムシュピッツ · 2位 【ソフト＆ハード】有機玄米粉バウムクーヘン 個包装 12個 (各6個) · 3位 · 4位 チョコレート ...",
+              "snippet_highlighted_words": [
+                "1位 バウムシュピッツ"
+              ],
+              "source": "おとりよせネット"
+            },
+            {
+              "position": 8,
+              "title": "バームクーヘン人気ランキング | 高島屋オンラインストア",
+              "link": "https://www.takashimaya.co.jp/shopping/special/sweets/0900000373/ranking.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.takashimaya.co.jp/shopping/special/sweets/0900000373/ranking.html&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECEMQAQ",
+              "displayed_link": "https://www.takashimaya.co.jp › ... › バームクーヘン",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV-v0CkxIWrIdEzQghQQVIGGgze9CqXtFMVdCV-3DuPm3l3GIeqv83vY&s",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d167badb794c7ede9d8687f41f9f5519a2.png",
+              "snippet": "バームクーヘン、いちおしスイーツ、特集、人気アイテムなど、高島屋バイヤー厳選の公式商品を豊富にお取り揃え。人気ランキングや価格別にお探しいただけます。",
+              "snippet_highlighted_words": [
+                "バームクーヘン"
+              ],
+              "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV-v0CkxIWrIdEzQghQQVIGGgze9CqXtFMVdCV-3DuPm3l3GIeqv83vY&s"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 1279,
+                    "currency": "￥～￥"
+                  },
+                  "extensions": [
+                    "4.9 店舗の評価 (13)",
+                    "￥1,279～￥13,478"
+                  ]
+                }
+              },
+              "source": "高島屋"
+            },
+            {
+              "position": 9,
+              "title": "【TOP9】お取り寄せバウムクーヘン人気ランキング！マツコの ...",
+              "link": "https://note.com/kyari_mon/n/n9d70faa6e67d",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://note.com/kyari_mon/n/n9d70faa6e67d&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECEEQAQ",
+              "displayed_link": "高評価 4 件 · 5 か月前",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8eP_FoU7xakps6ZLgkdjKtJ20BzuKFSkYAVwfxMq6xiwv25OS2rhAPw&s=10",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d1338a3f16632c4af6c120906b26e674a7.png",
+              "snippet": "お取り寄せバウムクーヘン人気ランキング · パティスリー銀座千疋屋 銀座フルーツクーヘンA · 治一郎 バウムクーヘン · ねんりん家 バームクーヘン.",
+              "snippet_highlighted_words": [
+                "パティスリー銀座千疋屋 銀座フルーツクーヘンA"
+              ],
+              "source": "note · ランキング屋｜レビューブログ※当ページのリンクには広告が含まれています。"
+            },
+            {
+              "position": 10,
+              "title": "バウムクーヘンのお取り寄せ21選！一度は食べたい名店の味 ...",
+              "link": "https://www.ozmall.co.jp/sweets/article/34141/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ozmall.co.jp/sweets/article/34141/&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4QFnoECEQQAQ",
+              "displayed_link": "https://www.ozmall.co.jp › スイーツ › スイーツの記事",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8HOBDrucIgC2Z_hBL_e5zKzKaneriJTcEtKnNU5-yvdI8pjyxITU9b4&s",
+              "favicon": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/321af53bb84afb832f9e19aadac4f3d13425acaf4da6da579c1210ce93be20a7.png",
+              "date": "2024/05/24",
+              "snippet": "見た目も楽しい、いちごスイーツ専門店の個性派バウム​ いちごスイーツ専門ブランド「いちびこ」もオンライン限定でバウムクーヘンを販売中。",
+              "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8HOBDrucIgC2Z_hBL_e5zKzKaneriJTcEtKnNU5-yvdI8pjyxITU9b4&s"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 1512,
+                    "currency": "￥"
+                  },
+                  "extensions": [
+                    "￥1,512"
+                  ]
+                }
+              },
+              "source": "オズモール"
+            }
+          ],
+          "related_searches": [
+            {
+              "block_position": 1,
+              "items": [
+                {
+                  "name": "バウムクーヘン",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKlQKhIAg6ebknY7HEJwcksPBhbzEwQIZV7wBj&s=0",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&stick=H4sIAAAAAAAAAAFrAJT_CDEiCS9tLzA0cHgzZvoBALAEAKIFFeODkOOCpuODoOOCr-ODvOODmOODs9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAG3t-amawAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0EAo",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&stick=H4sIAAAAAAAAAAFrAJT_CDEiCS9tLzA0cHgzZvoBALAEAKIFFeODkOOCpuODoOOCr-ODvOODmOODs9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAG3t-amawAAAA"
+                },
+                {
+                  "name": "カステラ",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBSJplq5rWxXNgiDGtsq3sgMzUbXJti0Sc49-_pz0oGKmB56QOjDI1&s=0",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%82%AB%E3%82%B9%E3%83%86%E3%83%A9&stick=H4sIAAAAAAAAAAFiAJ3_CDEiCS9tLzAyZ3M5bPoBALAEAKIFDOOCq-OCueODhuODqdoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAF2evrXYgAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0EA8",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AB%E3%82%B9%E3%83%86%E3%83%A9&stick=H4sIAAAAAAAAAAFiAJ3_CDEiCS9tLzAyZ3M5bPoBALAEAKIFDOOCq-OCueODhuODqdoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAF2evrXYgAAAA"
+                },
+                {
+                  "name": "フィナンシェ",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI2GJCAQEvJEsJHyfl3k_xY4-IXik7hN1UUCPj0D8E5ZIYazZs17oV&s=0",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%82%A7&stick=H4sIAAAAAAAAAAFoAJf_CDEiCS9tLzA3enc0YvoBALAEAKIFEuODleOCo-ODiuODs-OCt-OCp9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAEf6b8AaAAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0EBQ",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%82%A7&stick=H4sIAAAAAAAAAAFoAJf_CDEiCS9tLzA3enc0YvoBALAEAKIFEuODleOCo-ODiuODs-OCt-OCp9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAEf6b8AaAAAAA"
+                },
+                {
+                  "name": "チーズケーキ",
+                  "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSVfMI6weFjYpd1wposgZRowPgzzheX0eqwueQOffNz4RV8Ru9K-uKAB_dcXFa68Z2N-RKsWBtO&s=19",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD&stick=H4sIAAAAAAAAAAFoAJf_CDEiCS9tLzAybWc0evoBALAEAKIFEuODgeODvOOCuuOCseODvOOCrdoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAFSN7HbaAAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0EBk",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%81%E3%83%BC%E3%82%BA%E3%82%B1%E3%83%BC%E3%82%AD&stick=H4sIAAAAAAAAAAFoAJf_CDEiCS9tLzAybWc0evoBALAEAKIFEuODgeODvOOCuuOCseODvOOCrdoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCB7ku5bjga7kurrjga_jgZPjgaHjgonjgoLmpJzntKKoCAFSN7HbaAAAAA"
+                },
+                {
+                  "name": "クッキー",
+                  "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTgHluQ2ujPoojIxrl7HX5GUkl4yBVwUtOEOUExyymnj6NlR3p8cpXF-lrVj55JgClApVS5PxTK&s=19",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC&stick=H4sIAAAAAAAAAAFhAJ7_CDEiCC9tLzAyMW1u-gEAsAQAogUM44Kv44OD44Kt44O82gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIHuS7luOBruS6uuOBr-OBk-OBoeOCieOCguaknOe0oqgIASAv7nJhAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0EB4",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC&stick=H4sIAAAAAAAAAAFhAJ7_CDEiCC9tLzAyMW1u-gEAsAQAogUM44Kv44OD44Kt44O82gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIHuS7luOBruS6uuOBr-OBk-OBoeOCieOCguaknOe0oqgIASAv7nJhAAAA"
+                },
+                {
+                  "name": "チョコレート",
+                  "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSG0tuZNSrGHPGwyPjCfz24MNQlgVTcx24GWbn7zyuLzmcST-cv1YLFJY7oroh-oTlE9SUR28hV&s=19",
+                  "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88&stick=H4sIAAAAAAAAAAFnAJj_CDEiCC9tLzAyMHZs-gEAsAQAogUS44OB44On44Kz44Os44O844OI2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIHuS7luOBruS6uuOBr-OBk-OBoeOCieOCguaknOe0oqgIAfftKNhnAAAA&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qs9oBKAB6BAg0ECM",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88&stick=H4sIAAAAAAAAAAFnAJj_CDEiCC9tLzAyMHZs-gEAsAQAogUS44OB44On44Kz44Os44O844OI2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIHuS7luOBruS6uuOBr-OBk-OBoeOCieOCguaknOe0oqgIAfftKNhnAAAA"
+                }
+              ]
+            },
+            {
+              "block_position": 1,
+              "query": "クラブハリエ より 美味しいバームクーヘン",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8+%E3%82%88%E3%82%8A+%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhTEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8+%E3%82%88%E3%82%8A+%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3"
+            },
+            {
+              "block_position": 1,
+              "query": "バウムクーヘン お取り寄せ 人気ランキング",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E3%81%8A%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B+%E4%BA%BA%E6%B0%97%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhSEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E3%81%8A%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B+%E4%BA%BA%E6%B0%97%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0"
+            },
+            {
+              "block_position": 1,
+              "query": "バウムクーヘン お取り寄せ マツコ",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E3%81%8A%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B+%E3%83%9E%E3%83%84%E3%82%B3&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhREAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%82%A6%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E3%81%8A%E5%8F%96%E3%82%8A%E5%AF%84%E3%81%9B+%E3%83%9E%E3%83%84%E3%82%B3"
+            },
+            {
+              "block_position": 1,
+              "query": "世界一美味しいバームクーヘン",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E4%B8%96%E7%95%8C%E4%B8%80%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhQEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E4%B8%96%E7%95%8C%E4%B8%80%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3"
+            },
+            {
+              "block_position": 1,
+              "query": "バームクーヘン 1位",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+1%E4%BD%8D&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhPEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+1%E4%BD%8D"
+            },
+            {
+              "block_position": 1,
+              "query": "日本三大バームクーヘン",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhOEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3"
+            },
+            {
+              "block_position": 1,
+              "query": "クラブハリエ バームクーヘン",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&q=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q1QJ6BAhNEAE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3"
+            }
+          ],
+          "refine_this_search": [
+            {
+              "query": "Amazon公式サイト",
+              "link": "https://www.google.com/search?q=amazon%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGQgCEhVBbWF6b27lhazlvI_jgrXjgqTjg4hY9IchYAE&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAF6BAgtEEg",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=amazon%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/e5607c5205cd54fb5ba3d21d57d71f70222619d29efaff2f44f0ade336d0d383.png"
+            },
+            {
+              "query": "￥1,500未満",
+              "link": "https://www.google.com/search?q=%EF%BF%A51,500+%E6%9C%AA%E6%BA%80%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESDRILEQAAAMALWtZBGAEYBSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgFEg7vv6UxLDUwMOacqua6gBgCIg0SCxEAAADAC1rWQRgBKgIYAVj0hyFgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAJ6BAgtEEo",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%EF%BF%A51%2C500+%E6%9C%AA%E6%BA%80%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "高島屋オンラインストア",
+              "link": "https://www.google.com/search?q=%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJQgCEiHpq5jls7blsYvjgqrjg7Pjg6njgqTjg7Pjgrnjg4jjgqJY9IchYAE&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAN6BAgtEEs",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/e5607c5205cd54fb5ba3d21d57d71f7016f370ed85667b87478f06e96cf9bc07.png"
+            },
+            {
+              "query": "yahoo.co.jp",
+              "link": "https://www.google.com/search?q=yahoo.co.jp+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyDwgCEgt5YWhvby5jby5qcFj0hyFgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAR6BAgtEE0",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=yahoo.co.jp+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/e5607c5205cd54fb5ba3d21d57d71f70f698a775de548b294d8c31f8cbc7a17b.png"
+            },
+            {
+              "query": "クッキー",
+              "link": "https://www.google.com/search?q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyEAgJEgzjgq_jg4Pjgq3jg7xgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAV6BAgtEE8",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "小分けケーキ・パイ",
+              "link": "https://www.google.com/search?q=%E5%B0%8F%E5%88%86%E3%81%91%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%BB%E3%83%91%E3%82%A4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgJEhvlsI_liIbjgZHjgrHjg7zjgq3jg7vjg5HjgqRgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAZ6BAgtEFA",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%B0%8F%E5%88%86%E3%81%91%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%BB%E3%83%91%E3%82%A4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "コメリドットコム",
+              "link": "https://www.google.com/search?q=%E3%82%B3%E3%83%A1%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHAgCEhjjgrPjg6Hjg6rjg4njg4Pjg4jjgrPjg6BY9IchYAE&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAd6BAgtEFE",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B3%E3%83%A1%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/e5607c5205cd54fb5ba3d21d57d71f70bc838f278e19e7a2ccf8ed69c194d857.png"
+            },
+            {
+              "query": "結婚式",
+              "link": "https://www.google.com/search?q=%E7%B5%90%E5%A9%9A%E5%BC%8F+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGggBEgnntZDlqZrlvI86Cwjm0GsQrbeCATAAWPSHIWAB&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAh6BAgtEFM",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E7%B5%90%E5%A9%9A%E5%BC%8F+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "ガム・チョコレート",
+              "link": "https://www.google.com/search?q=%E3%82%AC%E3%83%A0%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgJEhvjgqzjg6Djg7vjg4Hjg6fjgrPjg6zjg7zjg4hgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAl6BAgtEFQ",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AC%E3%83%A0%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "グルテンフリー",
+              "link": "https://www.google.com/search?q=%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgBEhXjgrDjg6vjg4bjg7Pjg5Xjg6rjg7w6DAiyiogBELOKiAEwA1j0hyFgAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAp6BAgtEFU",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "ケーキ",
+              "link": "https://www.google.com/search?q=%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyDQgJEgnjgrHjg7zjgq1gAQ&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAt6BAgtEFY",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "クリスマス",
+              "link": "https://www.google.com/search?q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgBEg_jgq_jg6rjgrnjg57jgrk6Cgjm0GsQ59BrMABY9IchYAE&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKAx6BAgtEFc",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "誕生日",
+              "link": "https://www.google.com/search?q=%E8%AA%95%E7%94%9F%E6%97%A5+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGggBEgnoqpXnlJ_ml6U6Cwjm0GsQwaSBATAAWPSHIWAB&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKA16BAgtEFg",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E8%AA%95%E7%94%9F%E6%97%A5+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+            },
+            {
+              "query": "ギフトモール",
+              "link": "https://www.google.com/search?q=%E3%82%AE%E3%83%95%E3%83%88%E3%83%A2%E3%83%BC%E3%83%AB+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyFggCEhLjgq7jg5Xjg4jjg6Ljg7zjg6tY9IchYAE&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Qip4GKA56BAgtEFk",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AE%E3%83%95%E3%83%88%E3%83%A2%E3%83%BC%E3%83%AB+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88",
+              "thumbnail": "https://serpapi.com/searches/68ac94bb65f701833b132f8a/images/e5607c5205cd54fb5ba3d21d57d71f70701a3726b22c0961a3b17dead6f673a9.png"
+            }
+          ],
+          "refine_search_filters": [
+            {
+              "type": "商品評価",
+              "options": [
+                {
+                  "title": "",
+                  "link": "https://www.google.com/search?q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESBWIDCJADGB4qKeODkOODvOODoOOCr-ODvOODmOODsyDlo7LjgoznrYsg44ON44OD44OIMhUIHhIINCDku6XkuIoiBWIDCJADQARgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEAc",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "価格",
+              "options": [
+                {
+                  "title": "￥1,500未満",
+                  "link": "https://www.google.com/search?q=%EF%BF%A51,500+%E6%9C%AA%E6%BA%80%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESDRILEQAAAMALWtZBGAEYBSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgFEg7vv6UxLDUwMOacqua6gBgCIg0SCxEAAADAC1rWQRgBKgIYAVj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEAw",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%EF%BF%A51%2C500+%E6%9C%AA%E6%BA%80%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "￥1,500～￥3,000",
+                  "link": "https://www.google.com/search?q=%EF%BF%A51,500%EF%BD%9E%EF%BF%A53,000+%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESFhIUCQAAAMALWtZBEQAAAMALWuZBGAEYBSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyNQgFEhPvv6UxLDUwMO-9nu-_pTMsMDAwGAIiFhIUCQAAAMALWtZBEQAAAMALWuZBGAEqAhgBWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEA0",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%EF%BF%A51%2C500%EF%BD%9E%EF%BF%A53%2C000+%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "￥3,000～￥7,000",
+                  "link": "https://www.google.com/search?q=%EF%BF%A53,000%EF%BD%9E%EF%BF%A57,000+%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESFhIUCQAAAMALWuZBEQAAAEC4E_pBGAEYBSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyNQgFEhPvv6UzLDAwMO-9nu-_pTcsMDAwGAIiFhIUCQAAAMALWuZBEQAAAEC4E_pBGAEqAhgBWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtEA4",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%EF%BF%A53%2C000%EF%BD%9E%EF%BF%A57%2C000+%E3%81%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "￥7,000以上",
+                  "link": "https://www.google.com/search?q=%EF%BF%A57,000+%E3%82%88%E3%82%8A%E9%AB%98%E3%81%84+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAESDRILCQAAAEC4E_pBGAEYBSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgFEg7vv6U3LDAwMOS7peS4ihgCIg0SCwkAAABAuBP6QRgBKgIYAVj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAN6BAgtEA8",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%EF%BF%A57%2C000+%E3%82%88%E3%82%8A%E9%AB%98%E3%81%84+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "ショップ",
+              "options": [
+                {
+                  "title": "Amazon公式サイト",
+                  "link": "https://www.google.com/search?q=amazon%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGQgCEhVBbWF6b27lhazlvI_jgrXjgqTjg4hY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEBY",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=amazon%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "高島屋オンラインストア",
+                  "link": "https://www.google.com/search?q=%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJQgCEiHpq5jls7blsYvjgqrjg7Pjg6njgqTjg7Pjgrnjg4jjgqJY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEBc",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E9%AB%98%E5%B3%B6%E5%B1%8B%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "yahoo.co.jp",
+                  "link": "https://www.google.com/search?q=yahoo.co.jp+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyDwgCEgt5YWhvby5jby5qcFj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtEBg",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=yahoo.co.jp+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "コメリドットコム",
+                  "link": "https://www.google.com/search?q=%E3%82%B3%E3%83%A1%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYAiop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHAgCEhjjgrPjg6Hjg6rjg4njg4Pjg4jjgrPjg6BY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAN6BAgtEBk",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B3%E3%83%A1%E3%83%AA%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "カテゴリ",
+              "options": [
+                {
+                  "title": "クッキー",
+                  "link": "https://www.google.com/search?q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyEAgJEgzjgq_jg4Pjgq3jg7xgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEB8",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "小分けケーキ・パイ",
+                  "link": "https://www.google.com/search?q=%E5%B0%8F%E5%88%86%E3%81%91%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%BB%E3%83%91%E3%82%A4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgJEhvlsI_liIbjgZHjgrHjg7zjgq3jg7vjg5HjgqRgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtECA",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%B0%8F%E5%88%86%E3%81%91%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%BB%E3%83%91%E3%82%A4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "ガム・チョコレート",
+                  "link": "https://www.google.com/search?q=%E3%82%AC%E3%83%A0%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgJEhvjgqzjg6Djg7vjg4Hjg6fjgrPjg6zjg7zjg4hgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtECE",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AC%E3%83%A0%E3%83%BB%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "ケーキ",
+                  "link": "https://www.google.com/search?q=%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYCSop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyDQgJEgnjgrHjg7zjgq1gAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAN6BAgtECI",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "行事・お祝い",
+              "options": [
+                {
+                  "title": "結婚式",
+                  "link": "https://www.google.com/search?q=%E7%B5%90%E5%A9%9A%E5%BC%8F+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGggBEgnntZDlqZrlvI86Cwjm0GsQrbeCATAAWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtECY",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E7%B5%90%E5%A9%9A%E5%BC%8F+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "クリスマス",
+                  "link": "https://www.google.com/search?q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgBEg_jgq_jg6rjgrnjg57jgrk6Cgjm0GsQ59BrMABY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtECc",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "誕生日",
+                  "link": "https://www.google.com/search?q=%E8%AA%95%E7%94%9F%E6%97%A5+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGggBEgnoqpXnlJ_ml6U6Cwjm0GsQwaSBATAAWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtECg",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E8%AA%95%E7%94%9F%E6%97%A5+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "卒業祝い",
+                  "link": "https://www.google.com/search?q=%E5%8D%92%E6%A5%AD%E7%A5%9D%E3%81%84+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHQgBEgzljZLmpa3npZ3jgYQ6Cwjm0GsQo7eCATAAWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAN6BAgtECk",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%8D%92%E6%A5%AD%E7%A5%9D%E3%81%84+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "機能",
+              "options": [
+                {
+                  "title": "グルテンフリー",
+                  "link": "https://www.google.com/search?q=%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgBEhXjgrDjg6vjg4bjg7Pjg5Xjg6rjg7w6DAiyiogBELOKiAEwA1j0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEC0",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "レイヤーケーキ",
+                  "link": "https://www.google.com/search?q=%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyJwgBEhXjg6zjgqTjg6Tjg7zjgrHjg7zjgq06DAiy4YQCELPhhAIwA1j0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEC4",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%AD+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "フレーバー",
+              "options": [
+                {
+                  "title": "チョコレート",
+                  "link": "https://www.google.com/search?q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyIggBEhLjg4Hjg6fjgrPjg6zjg7zjg4g6CgjMlTsQz5U7MABY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEDI",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "イチゴ",
+                  "link": "https://www.google.com/search?q=%E3%82%A4%E3%83%81%E3%82%B4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGQgBEgnjgqTjg4HjgrQ6CgjMlTsQ1ZU7MABY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEDM",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%82%A4%E3%83%81%E3%82%B4+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "パンプキン",
+                  "link": "https://www.google.com/search?q=%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgBEg_jg5Hjg7Pjg5fjgq3jg7M6CgjMlTsQ0ZY7MABY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtEDQ",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "ブランド",
+              "options": [
+                {
+                  "title": "銀座千疋屋",
+                  "link": "https://www.google.com/search?q=%E9%8A%80%E5%BA%A7%E5%8D%83%E7%96%8B%E5%B1%8B+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyIQgBEg_pioDluqfljYPnlovlsYs6DAiD8zwQsqr_3QMwAVj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEDg",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E9%8A%80%E5%BA%A7%E5%8D%83%E7%96%8B%E5%B1%8B+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "あだちねっと美米屋",
+                  "link": "https://www.google.com/search?q=%E3%81%82%E3%81%A0%E3%81%A1%E3%81%AD%E3%81%A3%E3%81%A8%E7%BE%8E%E7%B1%B3%E5%B1%8B+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyLQgBEhvjgYLjgaDjgaHjga3jgaPjgajnvo7nsbPlsYs6DAiD8zwQv5T_3QMwAVj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEDk",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%81%82%E3%81%A0%E3%81%A1%E3%81%AD%E3%81%A3%E3%81%A8%E7%BE%8E%E7%B1%B3%E5%B1%8B+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "パティスリー キハチ",
+                  "link": "https://www.google.com/search?q=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC+%E3%82%AD%E3%83%8F%E3%83%81+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyLAgBEhzjg5Hjg4bjgqPjgrnjg6rjg7wg44Kt44OP44OBOgoIg_M8EJbBTjABWPSHIWAC&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAJ6BAgtEDo",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC+%E3%82%AD%E3%83%8F%E3%83%81+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "フジックス",
+                  "link": "https://www.google.com/search?q=%E3%83%95%E3%82%B8%E3%83%83%E3%82%AF%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyHwgBEg_jg5Xjgrjjg4Pjgq_jgrk6CgiD8zwQ_IZPMAFY9IchYAI&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAN6BAgtEDs",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%95%E3%82%B8%E3%83%83%E3%82%AF%E3%82%B9+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            },
+            {
+              "type": "生鮮・冷凍",
+              "options": [
+                {
+                  "title": "生鮮",
+                  "link": "https://www.google.com/search?q=%E7%94%9F%E9%AE%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGAgBEgbnlJ_prq46DAjQk4gBENGTiAEwAlj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAB6BAgtEEE",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E7%94%9F%E9%AE%AE+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                },
+                {
+                  "title": "冷凍",
+                  "link": "https://www.google.com/search?q=%E5%86%B7%E5%87%8D+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88&hl=ja&gl=jp&shoprs=CAEYASop44OQ44O844Og44Kv44O844OY44OzIOWjsuOCjOetiyDjg43jg4Pjg4gyGAgBEgblhrflh406DAjQk4gBENKTiAEwAlj0hyFgAg&sa=X&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q268JKAF6BAgtEEI",
+                  "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%86%B7%E5%87%8D+%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3+%E5%A3%B2%E3%82%8C%E7%AD%8B+%E3%83%8D%E3%83%83%E3%83%88"
+                }
+              ]
+            }
+          ],
+          "pagination": {
+            "current": 1,
+            "next": "https://www.google.com/search?q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&ei=wJSsaMmYCvbo1e8PmMWD8AY&start=100&sa=N&sstk=Ac65TH5l34OFkiK1Zr6Y5o8xXuw8OkmsI1nt0-0tOlIbQmbvjtoCx0dyA6eB-mqnJv82WG2GjFaVikeRjSWJeZvaFe9J1y6tNTbD9A&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q8NMDegQICBAG",
+            "other_pages": {
+              "2": "https://www.google.com/search?q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&num=100&sca_esv=8e23599b05dcda53&hl=ja&gl=jp&ei=wJSsaMmYCvbo1e8PmMWD8AY&start=100&sa=N&sstk=Ac65TH5l34OFkiK1Zr6Y5o8xXuw8OkmsI1nt0-0tOlIbQmbvjtoCx0dyA6eB-mqnJv82WG2GjFaVikeRjSWJeZvaFe9J1y6tNTbD9A&ved=2ahUKEwjJ-ISGtqaPAxV2dPUHHZjiAG4Q8tMDegQICBAE"
+            }
+          },
+          "serpapi_pagination": {
+            "current": 1,
+            "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&start=100",
+            "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&start=100",
+            "other_pages": {
+              "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E3%83%90%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%BC%E3%83%98%E3%83%B3%E3%80%80%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%80%80%E3%83%8D%E3%83%83%E3%83%88&start=100"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

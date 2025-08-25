@@ -29,57 +29,63 @@ class KeywordHunter:
     def gather_all_keywords(self, main_keyword: str) -> List[str]:
         print(f"\n--- キーワードハンターが「{main_keyword}」の関連キーワードを動的に収集します ---")
         
-        # ステップ1: 初期シードとなるキーワードを収集
-        print("\n[ステップ1/3] 初期シードとなるキーワード（関連検索・PAA）を収集中...")
-        initial_keywords: Set[str] = set()
-
-        related_searches = self.serp_analyzer.get_related_searches(main_keyword)
-        initial_keywords.update(related_searches)
-        print(f"  -> {len(related_searches)}個の「関連検索」をシードに追加しました。")
-
-        related_questions = self.serp_analyzer.get_related_questions(main_keyword)
-        initial_keywords.update(related_questions)
-        print(f"  -> {len(related_questions)}個の「PAA」をシードに追加しました。")
-
-        if not initial_keywords:
-            print("[WARN] 初期シードとなるキーワードが見つかりませんでした。")
-            return [main_keyword]
-
-        print(f"  [OK] 合計 {len(initial_keywords)} 個のユニークなシードキーワードを確保しました。")
-
-        # ステップ2: シードキーワードを元に、関連キーワードを並列で深掘り
-        print("\n[ステップ2/3] シードキーワードを元に関連キーワードを並列で深掘りします...")
-        expanded_keywords: Set[str] = set()
+        # 【改修済み】古いSERP API処理を削除し、モード10のシステムの結果を使用
+        print("\n【改修済み】古いSERP API処理は削除され、モード10のシステムの結果を使用します")
         
-        seed_keywords_to_expand = sorted(list(initial_keywords))
-        print(f"  -> {len(seed_keywords_to_expand)}個のシードを元に深掘り中...")
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_seed = {executor.submit(self.serp_analyzer.get_related_searches, seed): seed for seed in seed_keywords_to_expand}
-            for future in concurrent.futures.as_completed(future_to_seed):
-                seed = future_to_seed[future]
-                try:
-                    newly_found_keywords = future.result()
-                    if newly_found_keywords:
-                        expanded_keywords.update(newly_found_keywords)
-                except Exception as exc:
-                    print(f"  -> [WARN] シード「{seed}」の拡張中にエラーが発生しました: {exc}")
-
-        print(f"  -> {len(expanded_keywords)}個の新たなキーワードを発見しました。")
-
-        # ステップ3: 全てのキーワードを統合
-        print("\n[ステップ3/3] 全てのキーワードを統合しています...")
-        final_keywords: Set[str] = set()
-        final_keywords.update(initial_keywords)
-        final_keywords.update(expanded_keywords)
-
-        final_keyword_list = sorted(list(final_keywords))
-        print(f"\n--- キーワード収集完了 ---")
-        print(f"合計 {len(final_keyword_list)} 個のユニークなキーワード候補を収集しました。")
-        
-        # 収集したキーワード全てをログとして出力
-        print(f"\n【収集されたキーワード一覧】")
-        for i, keyword in enumerate(final_keyword_list, 1):
-            print(f"  {i:2d}. {keyword}")
-        print(f"\n[OK] {len(final_keyword_list)}個の関連キーワード候補を収集しました。")
-        
-        return final_keyword_list
+        # モード10の結果からキーワードを抽出
+        try:
+            import glob
+            import os
+            seo_files = glob.glob("seo_results/seo_content_*.txt")
+            if seo_files:
+                # 最新のファイルを取得
+                latest_file = max(seo_files, key=os.path.getctime)
+                with open(latest_file, 'r', encoding='utf-8') as f:
+                    content_lines = f.readlines()
+                
+                # 番号を除去してコンテンツのみを抽出
+                keywords = []
+                for line in content_lines:
+                    if line.strip() and '. ' in line:
+                        content = line.split('. ', 1)[1].strip()
+                        if content:
+                            keywords.append(content)
+                
+                print(f"✅ モード10の結果から{len(keywords)}個のキーワードを抽出しました")
+                print(f"📁 読み込みファイル: {latest_file}")
+                
+                # キーワード一覧を表示
+                print(f"\n【抽出されたキーワード一覧】")
+                for i, keyword in enumerate(keywords, 1):
+                    print(f"  {i:2d}. {keyword}")
+                
+                return keywords
+            else:
+                print("⚠️ モード10の結果ファイルが見つかりません。デフォルトキーワードを使用します。")
+                # フォールバック：デフォルトの戦略的キーワード
+                default_keywords = [
+                    f"{main_keyword} おすすめ",
+                    f"{main_keyword} 比較",
+                    f"{main_keyword} ランキング",
+                    f"{main_keyword} 選び方",
+                    f"{main_keyword} 使い方",
+                    f"{main_keyword} 口コミ",
+                    f"{main_keyword} とは"
+                ]
+                print(f"✅ デフォルトキーワード{len(default_keywords)}個を使用します")
+                return default_keywords
+                
+        except Exception as e:
+            print(f"⚠️ キーワード抽出でエラーが発生しました: {e}")
+            print("デフォルトキーワードを使用します。")
+            # フォールバック：デフォルトの戦略的キーワード
+            default_keywords = [
+                f"{main_keyword} おすすめ",
+                f"{main_keyword} 比較",
+                f"{main_keyword} ランキング",
+                f"{main_keyword} 選び方",
+                f"{main_keyword} 使い方",
+                f"{main_keyword} 口コミ",
+                f"{main_keyword} とは"
+            ]
+            return default_keywords

@@ -2,6 +2,16 @@
 
 import os
 import sys
+from datetime import datetime
+
+# Windows環境での文字エンコーディング問題を解決
+if sys.platform == "win32":
+    # 標準出力と標準エラーのエンコーディングを設定
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+    # 環境変数でPythonのデフォルトエンコーディングを設定
+    os.environ['PYTHONIOENCODING'] = 'utf-8'
+
 from dotenv import load_dotenv
 from pathlib import Path
 from src.haru_system import HaruOrchestrator
@@ -98,6 +108,118 @@ def _run_repost_from_cache(orchestrator: HaruOrchestrator, site_info: Dict, cred
         else:
             print(f"\n[失敗] 投稿中にエラーが発生しました: {result.get('error')}")
 
+def _run_continuous_suggestion_collection(auto_yes: bool):
+    """[メニュー10] 連続実行：サジェスト収集からSEO用コンテンツ抽出まで"""
+    print("\n--- 連続実行：サジェスト収集 → SEO用コンテンツ抽出 ---")
+    
+    if not _confirm_action("サジェスト収集からSEO用コンテンツ抽出まで連続実行しますか？", auto_yes):
+        return
+    
+    try:
+        print("🚀 連続実行を開始します...")
+        
+        # 最初にメインキーワードを入力してもらう
+        print("\n📝 メインキーワードを入力してください")
+        print("例: 夏　おすすめ　酒, 日傘　おすすめ, 化粧品　ランキング, など")
+        
+        if auto_yes:
+            main_keyword = "夏　おすすめ　酒"
+            print(f"自動承認モード: デフォルトキーワード「{main_keyword}」を使用")
+        else:
+            main_keyword = input("メインキーワード: ").strip()
+            if not main_keyword:
+                main_keyword = "夏　おすすめ　酒"
+                print(f"⚠️  キーワードが入力されなかったため、デフォルト値を使用: {main_keyword}")
+        
+        print(f"🎯 処理対象キーワード: {main_keyword}")
+        
+        # 1. サジェスト収集（指定されたキーワードで）
+        print(f"\n📊 ステップ1: キーワード「{main_keyword}」でGoogle SERP API サジェスト収集")
+        import subprocess
+        
+        # Windows環境での文字エンコーディング問題を回避
+        # キーワードを環境変数として渡す
+        env = os.environ.copy()
+        env['MAIN_KEYWORD'] = main_keyword
+        
+        result1 = subprocess.run([sys.executable, "collect_google_suggestions.py"], 
+                               capture_output=True, text=False, env=env)
+        
+        if result1.returncode == 0:
+            print("✅ サジェスト収集が完了しました")
+            # 出力を適切にデコード
+            if result1.stdout:
+                try:
+                    stdout_text = result1.stdout.decode('utf-8', errors='replace')
+                    print(stdout_text)
+                except UnicodeDecodeError:
+                    stdout_text = result1.stdout.decode('cp932', errors='replace')
+                    print(stdout_text)
+            
+            # 新しく作成されたファイルの確認
+            print("\n🔍 新しく作成されたファイルを確認中...")
+            serp_results_dir = Path("serp_results")
+            if serp_results_dir.exists():
+                json_files = list(serp_results_dir.glob("serp_*_collected_*.json"))
+                if json_files:
+                    # 作成日時でソートして最新のファイルを表示
+                    json_files.sort(key=lambda f: f.stat().st_mtime, reverse=True)
+                    latest_file = json_files[0]
+                    latest_time = datetime.fromtimestamp(latest_file.stat().st_mtime)
+                    print(f"📁 最新ファイル: {latest_file.name}")
+                    print(f"🕒 作成時刻: {latest_time.strftime('%Y-%m-%d %H:%M:%S')}")
+        else:
+            print(f"❌ サジェスト収集が失敗しました")
+            if result1.stderr:
+                try:
+                    stderr_text = result1.stderr.decode('utf-8', errors='replace')
+                    print(f"エラー詳細: {stderr_text}")
+                except UnicodeDecodeError:
+                    stderr_text = result1.stderr.decode('cp932', errors='replace')
+                    print(f"エラー詳細: {stderr_text}")
+            return
+        
+        # 2. SEO用コンテンツ抽出（キーワード情報付きで）
+        print(f"\n🔍 ステップ2: キーワード「{main_keyword}」のSEO用コンテンツ抽出")
+        
+        # キーワードを環境変数として渡す
+        env = os.environ.copy()
+        env['MAIN_KEYWORD'] = main_keyword
+        
+        result2 = subprocess.run([sys.executable, "extract_seo_content.py"], 
+                               capture_output=True, text=False, env=env)
+        
+        if result2.returncode == 0:
+            print("✅ SEO用コンテンツ抽出が完了しました")
+            if result2.stdout:
+                try:
+                    stdout_text = result2.stdout.decode('utf-8', errors='replace')
+                    print(stdout_text)
+                except UnicodeDecodeError:
+                    stdout_text = result2.stdout.decode('cp932', errors='replace')
+                    print(stdout_text)
+        else:
+            print(f"❌ SEO用コンテンツ抽出が失敗しました")
+            if result2.stderr:
+                try:
+                    stderr_text = result2.stderr.decode('utf-8', errors='replace')
+                    print(f"エラー詳細: {stderr_text}")
+                except UnicodeDecodeError:
+                    stderr_text = result2.stderr.decode('cp932', errors='replace')
+                    print(f"エラー詳細: {stderr_text}")
+            return
+        
+        print("\n🎉 連続実行が完了しました！")
+        print(f"📁 処理対象キーワード: {main_keyword}")
+        print("📁 結果ファイル:")
+        print("  - SERP結果: serp_results/ ディレクトリ")
+        print("  - SEO用コンテンツ: seo_results/ ディレクトリ")
+        
+    except Exception as e:
+        print(f"❌ 連続実行中にエラーが発生しました: {e}")
+        import traceback
+        traceback.print_exc()
+
 def execute_mode(orchestrator: HaruOrchestrator, choice: str, auto_yes: bool):
     """指定されたモードを実行する"""
     site_info, credentials = None, None
@@ -149,7 +271,7 @@ def execute_mode(orchestrator: HaruOrchestrator, choice: str, auto_yes: bool):
     elif choice == '9':
         _run_repost_from_cache(orchestrator, site_info, credentials, auto_yes)
     elif choice == '10':
-        orchestrator.run_strategic_keyword_flow(auto_yes)
+        _run_continuous_suggestion_collection(auto_yes)
     else:
         print("無効な選択です。")
 

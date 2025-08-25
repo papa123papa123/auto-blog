@@ -51,3 +51,52 @@ class SubKeywordSelector:
         
         print("    [OK] 記事構成案の生成が完了しました。")
         return article_structure
+
+    def select_and_organize_sub_keywords(self, main_keyword: str, raw_suggestions: List[str]) -> List[str]:
+        """
+        【改修済み】既存のプロンプトシステムを使用して168件のサジェストから適切なサブキーワードを選択・整理する
+        H2見出し2個、各H2の下にH3見出し6個ずつ（合計12個）の構成に最適化
+        """
+        print(f"  -> AIが「{main_keyword}」の168件サジェストから適切なサブキーワードを選択・整理中...")
+        print("  -> 既存のプロンプトシステムを使用してH2×2、H3×12の構成に最適化します")
+        
+        # 既存のプロンプトシステムを使用して記事構成案を作成
+        try:
+            # まず、168件のサジェストから記事構成案を作成
+            article_structure = self.design_article_structure(main_keyword, raw_suggestions)
+            
+            if article_structure and article_structure.get("outline"):
+                # 構成案からH3見出しを抽出してサブキーワードとして使用
+                selected_keywords = []
+                for h2_section in article_structure["outline"]:
+                    if "h3" in h2_section:
+                        selected_keywords.extend(h2_section["h3"])
+                
+                if selected_keywords:
+                    print(f"    [OK] 既存のプロンプトシステムで{len(selected_keywords)}個のサブキーワードを選択・整理しました")
+                    print(f"    [構成] H2: {len(article_structure['outline'])}個、H3: {len(selected_keywords)}個")
+                    return selected_keywords
+                else:
+                    print("    [WARN] 構成案からH3見出しを抽出できませんでした。フォールバックを使用します。")
+                    return self._get_fallback_keywords(main_keyword)
+            else:
+                print("    [WARN] 記事構成案の作成に失敗しました。フォールバックを使用します。")
+                return self._get_fallback_keywords(main_keyword)
+
+        except Exception as e:
+            print(f"    [ERROR] サブキーワード選択中にエラーが発生しました: {e}")
+            return self._get_fallback_keywords(main_keyword)
+
+    def _get_fallback_keywords(self, main_keyword: str) -> List[str]:
+        """フォールバック用のデフォルトキーワードを返す"""
+        fallback_keywords = [
+            f"{main_keyword} おすすめ",
+            f"{main_keyword} 選び方",
+            f"{main_keyword} ランキング",
+            f"{main_keyword} 比較",
+            f"{main_keyword} 使い方",
+            f"{main_keyword} 口コミ",
+            f"{main_keyword} とは"
+        ]
+        print(f"    [INFO] フォールバックキーワード{len(fallback_keywords)}個を使用します")
+        return fallback_keywords

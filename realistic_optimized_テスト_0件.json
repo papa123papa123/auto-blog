@@ -1,0 +1,23 @@
+{
+  "seed": "テスト",
+  "total_collected": 0,
+  "keywords": [],
+  "raw_data": {
+    "autocomplete_suggestions": [],
+    "cursor_results": {},
+    "related_suggestions": [],
+    "paa_questions": []
+  },
+  "cost_analysis": {
+    "total_api_calls": 1,
+    "estimated_cost_usd": 0.02,
+    "estimated_cost_jpy": 3.0,
+    "cost_reduction_percent": 94.73684210526316
+  },
+  "breakdown": {
+    "autocomplete": 0,
+    "related_searches": 0,
+    "people_also_ask": 0,
+    "total_unique": 0
+  }
+}

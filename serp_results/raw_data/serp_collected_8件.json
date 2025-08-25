@@ -1,0 +1,1664 @@
+{
+  "collection_method": "SERP API最適化版（単一語群）",
+  "timestamp": "20250826_000139",
+  "api_calls": 2,
+  "main_keyword": "夏 お酒 おすすめ",
+  "results": {
+    "total_unique": 8,
+    "suggestions": [
+      "日本酒 夏酒 特徴",
+      "夏酒 日本酒",
+      "夏酒 ひやおろし",
+      "夏 日本酒 飲み方",
+      "夏 お酒 飲みたくなる",
+      "夏酒 2025",
+      "夏酒 読み方",
+      "夏のお酒 カクテル"
+    ],
+    "serp_results": [
+      {
+        "keyword": "夏 お酒 おすすめ",
+        "suggestions": [
+          "日本酒 夏酒 特徴",
+          "夏酒 日本酒",
+          "夏酒 ひやおろし",
+          "夏 日本酒 飲み方",
+          "夏 お酒 飲みたくなる",
+          "夏酒 2025",
+          "夏酒 読み方",
+          "夏のお酒 カクテル"
+        ],
+        "serp_data": {
+          "search_metadata": {
+            "id": "68ac7ad0998aad203b852c49",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/3fdd00e4fd3874ae/68ac7ad0998aad203b852c49.json",
+            "pixel_position_endpoint": "https://serpapi.com/searches/3fdd00e4fd3874ae/68ac7ad0998aad203b852c49.json_with_pixel_position",
+            "created_at": "2025-08-25 15:01:36 UTC",
+            "processed_at": "2025-08-25 15:01:36 UTC",
+            "google_url": "https://www.google.com/search?q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&oq=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&hl=ja&gl=jp&num=100&sourceid=chrome&ie=UTF-8",
+            "raw_html_file": "https://serpapi.com/searches/3fdd00e4fd3874ae/68ac7ad0998aad203b852c49.html",
+            "total_time_taken": 3.66
+          },
+          "search_parameters": {
+            "engine": "google",
+            "q": "夏 お酒 おすすめ",
+            "google_domain": "google.com",
+            "hl": "ja",
+            "gl": "jp",
+            "num": "100",
+            "device": "desktop"
+          },
+          "search_information": {
+            "query_displayed": "夏 お酒 おすすめ",
+            "total_results": 333000000,
+            "time_taken_displayed": 0.43,
+            "organic_results_state": "Results for exact spelling"
+          },
+          "inline_images": [
+            {
+              "source": "https://www.yamatoya-e.com/SHOP/g10571/list.html?srsltid=AfmBOooled1SkasR0Tf_Uyf-dZW4JY2CS-cQFb5eDu3I9LFxZ6xkJAMi",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdhpArgb2YG0uzb7rMx0vJVkJxHE5Xa7nRfuQt8IGr-ZU6by-o7xNo1Y&s",
+              "original": "https://www.yamatoya-e.com/pic-labo/natsu2017_top_002.jpg",
+              "title": "夏のおすすめ銘酒",
+              "source_name": "大和屋酒舗"
+            },
+            {
+              "source": "https://magazine.asahi-shuzo.co.jp/enjoy/434",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvPBSec9bkBOz-a0XHxiiJORt-alr1hy5hqvwTWpj1cnBXMGRbyW3ihA&s",
+              "original": "https://cdn.clipkit.co/tenants/820/articles/images/000/000/481/original/6178045b-95d1-4843-be90-284c9ed504a0.jpg?1646708450",
+              "title": "夏におすすめ！夏酒を美味しくする新しい飲み方 - KUBOTAYA",
+              "source_name": "KUBOTAYA - 朝日酒造"
+            },
+            {
+              "source": "https://oishiisake.jp/about/natsuzake/",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKAYlZTMhqMhx5c8hCrUZZvikhwJRrf-yt81ElK6_9pI5QIniDSDPhsQ&s",
+              "original": "https://oishiisake.jp/wp-content/uploads/2022/08/natsuzake.jpg",
+              "title": "涼やかに夏を乗り切る！夏酒の楽しみ方とおすすめ5選 ...",
+              "source_name": "おいしいSAKE"
+            },
+            {
+              "source": "https://saketomo.tv-aichi.co.jp/enjoy/20230526_natunioisiinihonsyu.html",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcZvo4hMBUtPkDYnNGHvg9Ft8K-LNTtwnQFPXcFcFI6ExCNz7E-p773s&s",
+              "original": "https://saketomo.tv-aichi.co.jp/files/images/d32f526f12453639efe345c3ca42a440ae579886.jpg",
+              "title": "2025年版】「夏酒」のおすすめ10選 本当に美味しいと思う日本酒 ...",
+              "source_name": "SAKETOMO"
+            },
+            {
+              "source": "https://oishiisake.jp/about/natsuzake/",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BTTw5ieXyacuFVVZGOLkkQcdBzAvkpUxoP_Kr3XVdzrloaMuP164vBk&s",
+              "original": "https://oishiisake.jp/wp-content/uploads/2022/08/mutsuhassen_s.jpg",
+              "title": "涼やかに夏を乗り切る！夏酒の楽しみ方とおすすめ5選 ...",
+              "source_name": "おいしいSAKE"
+            },
+            {
+              "source": "https://www.sake-nonbe.com/japanese-sake/%E5%A4%8F%E9%85%92-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtaJDsX_XpYr91LLuZdtIVYdOpRUzeFBgxpOQqhTHikdAf0tPp7_nVdU&s",
+              "original": "https://www.sake-nonbe.com/wp-content/uploads/2019/07/d4a3a8dfd8df71276a6144786253b13d.jpg",
+              "title": "夏のお酒はこれ！夏酒の特徴と人気おすすめ5選 - NONBE～ノンべ～",
+              "source_name": "- NONBE～ノンべ～"
+            },
+            {
+              "source": "https://my-best.com/14526",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvIG1NJjVKRa9W-nPb0HMY4LNeTrL84ktCIVaCQlHd_87nhZY4ij_2u8&s",
+              "original": "https://img.my-best.com/product_images/40a6ce33ffcb0382a69d553d8c4d1213.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=1a48b2623e33e931723376b513a42514",
+              "title": "八百新酒造雁木 夏辛口純米",
+              "source_name": "マイベスト"
+            },
+            {
+              "source": "https://kurand.jp/blogs/magazine/632586534967?srsltid=AfmBOoq1AcFvezxeaeqLO91XFMRxgPS6e2Jvi3RAkxrdoM5_ygUYyORj",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2h8IAKZuJKHvWzS-GmuQ4uqj9956ppK7lJwOsxntgdqfOuABCOpJR9w&s",
+              "original": "https://cdn.shopify.com/s/files/1/0075/9909/5863/files/MG_7631s_235f6924-ec39-4a4a-8355-e1808aec3dc8_1024x1024.jpg?v=1746169887",
+              "title": "夏を呼び込む！スタッフが選ぶ初夏におすすめのお酒10選 ...",
+              "source_name": "クランド"
+            },
+            {
+              "source": "https://www.youtube.com/watch?v=SeCMpWIYulU",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOIJepSKjEMegdhBKIiYT_AA-RO7AHGB-5pWX-fH2qq6TFJixyPam4_c&s",
+              "original": "https://i.ytimg.com/vi/SeCMpWIYulU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCEehNjO3mHvXI4Oq5Uq5_vcV-Ubw",
+              "title": "夏の超おすすめ酒が登場！2025年6月24日",
+              "source_name": "YouTube"
+            }
+          ],
+          "organic_results": [
+            {
+              "position": 1,
+              "title": "夏を呼び込む！スタッフが選ぶ初夏におすすめのお酒10選",
+              "link": "https://kurand.jp/blogs/magazine/632586534967?srsltid=AfmBOooSbOkJBPANtNPUUEJ2moXH5XQcZJ_d6Z41FWcXN8w-CUax9jND",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kurand.jp/blogs/magazine/632586534967%3Fsrsltid%3DAfmBOooSbOkJBPANtNPUUEJ2moXH5XQcZJ_d6Z41FWcXN8w-CUax9jND&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECCcQAQ",
+              "displayed_link": "https://kurand.jp › マガジン",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579092fc1a95a3ee637c6c1d391523902a3.png",
+              "date": "2025/05/02",
+              "snippet": "もう1つおすすめなのが、「KANIKU パイン」。ゴロゴロと果肉が入った果実好き必見のお酒「KANIKU」シリーズより、パイナップルのお酒です。これはそのまま ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "お酒",
+                "お酒"
+              ],
+              "sitelinks": {
+                "inline": [
+                  {
+                    "title": "クランド1のフルーツ好きスタッフ...",
+                    "link": "https://kurand.jp/blogs/magazine/632586534967#%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%891%E3%81%AE%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E5%A5%BD%E3%81%8D%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E9%81%B8%E3%81%B6%EF%BC%81%E5%A4%8F%E3%82%92%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%82%80%E6%9E%9C%E5%AE%9F%E9%85%92"
+                  },
+                  {
+                    "title": "SNS担当スタッフが選ぶ！初夏...",
+                    "link": "https://kurand.jp/blogs/magazine/632586534967#SNS%E6%8B%85%E5%BD%93%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E9%81%B8%E3%81%B6%EF%BC%81%E5%88%9D%E5%A4%8F%E3%81%AE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E5%8B%95%E7%89%A9%E3%83%A9%E3%83%99%E3%83%AB%E3%81%AE%E3%81%8A%E9%85%92"
+                  }
+                ]
+              },
+              "source": "クランド"
+            },
+            {
+              "position": 2,
+              "title": "夏酒のおすすめ人気ランキング【2025年】",
+              "link": "https://my-best.com/14526",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my-best.com/14526&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECBUQAQ",
+              "displayed_link": "https://my-best.com › ... › 日本酒 › おすすめの日本酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645797166ca7f040df045fd13a241fcd97c5f.png",
+              "snippet": "とくに、山陽盃酒造で造られる「播州一献 純米 夏辛」は、夏におすすめの超辛口でドライなのど越しを楽しめます。 暑い季節でもすっきり飲めるよう、原酒でありながらアル ...",
+              "source": "マイベスト"
+            },
+            {
+              "position": 3,
+              "title": "夏にオススメのお酒",
+              "link": "https://matsuzaki-shop.jp/shop/selections/summer",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://matsuzaki-shop.jp/shop/selections/summer&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECBYQAQ",
+              "displayed_link": "https://matsuzaki-shop.jp › shop › selections › summer",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579c762d0f37da2f8f6bdadda184f4610be.png",
+              "snippet": "夏にオススメのお酒 · SOLD OUT · SOLD OUT · SOLD OUT · 二兎 萬歳70 純米酒 720ml · 二兎 萬歳70 純米酒 1.8L · 長瀞蔵 純米吟醸 瓶火入れ 1.8L · 裏雅山流 芳華 本醸造 ...",
+              "snippet_highlighted_words": [
+                "二兎 萬歳70 純米酒 720ml"
+              ],
+              "source": "マツザキ オンラインショップ"
+            },
+            {
+              "position": 4,
+              "title": "夏に合うお酒って何？ 好みの夏酒を見つけて、すっきり爽やか ...",
+              "link": "https://hitosara.com/season/drink/summerdrink/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hitosara.com/season/drink/summerdrink/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECBsQAQ",
+              "displayed_link": "https://hitosara.com › season › drink › summerdrink",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579734365d7ce769afa9c857c223e0a709e.png",
+              "snippet": "青空の下で、よく冷えたビールを飲んだときの爽快感は格別です。でも、2杯目3杯目になると飽きがくることも…。そんなときにおすすめなのがエール系のクラフトビールです。",
+              "snippet_highlighted_words": [
+                "おすすめ"
+              ],
+              "source": "ヒトサラ"
+            },
+            {
+              "position": 5,
+              "title": "涼やかに夏を乗り切る！夏酒の楽しみ方とおすすめ5選",
+              "link": "https://oishiisake.jp/about/natsuzake/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oishiisake.jp/about/natsuzake/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECBoQAQ",
+              "displayed_link": "https://oishiisake.jp › 日本酒を知る › 基礎知識",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579f1205abb94e3e87d360e214783fea55e.png",
+              "date": "2025/06/13",
+              "snippet": "おすすめの夏酒5選 · 1．天狗舞 超辛 純米酒（石川県・ 車多酒造） · 2．陸奥八仙 ブルーラベル 夏吟醸（青森県・花泉酒造） · 3．百十郎 純米吟醸 青波 Blue Wave（ ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏",
+                "夏"
+              ],
+              "source": "おいしいSAKE"
+            },
+            {
+              "position": 6,
+              "title": "夏に飲みたいお酒特集",
+              "link": "https://ec.monogatari-sake.com/user_data/early-summer?srsltid=AfmBOoqmwfvwoszBKV7s2M-7usFdZ_xYWz4HXhvEz6xonD3FYa16WwQY",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ec.monogatari-sake.com/user_data/early-summer%3Fsrsltid%3DAfmBOoqmwfvwoszBKV7s2M-7usFdZ_xYWz4HXhvEz6xonD3FYa16WwQY&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECBcQAQ",
+              "displayed_link": "https://ec.monogatari-sake.com › early-summer",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b742b9b3790630e12a2e0e480cf3655a.png",
+              "snippet": "暑い夏に飲みたい、爽快なお酒を集めました！華やかな香りに、爽やかな甘味とフレッシュな酸味が心地よい『翠露 純米吟醸 夏の美山錦』や、上品で清涼感のあるさわやか ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "ものがたり酒店"
+            },
+            {
+              "position": 7,
+              "title": "夏酒特集2025 夏におすすめの日本酒ひんや～り美味しい ...",
+              "link": "https://www.fukuraiya.jp/SHOP/945814/list.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fukuraiya.jp/SHOP/945814/list.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECB0QAQ",
+              "displayed_link": "https://www.fukuraiya.jp › SHOP › list",
+              "snippet": "春霞の夏酒「わき水ラベル」。 美郷錦、蔵付分離「亀山酵母」仕込み。 六郷のわき水のように、やわらかくほのかな甘み。 冷やして食中～食後がおすすめです。",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "福来屋"
+            },
+            {
+              "position": 8,
+              "title": "【2025年版】夏酒のおすすめ11選！ー夏にぴったりな日本酒 ...",
+              "link": "https://thekura.jp/natsuzake%E2%91%A1/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thekura.jp/natsuzake%25E2%2591%25A1/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECC8QAQ",
+              "displayed_link": "https://thekura.jp › ブログ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579ff42ceea781913a71756fb8b1e64d2cf.png",
+              "date": "2024/07/26",
+              "snippet": "「Summer Snowman（サマースノーマン）」は、まんさくの特徴がしっかりと感じられるお酒の一つ。冬に仕込まれた酒を初夏まで冷蔵貯蔵することで、 ...",
+              "snippet_highlighted_words": [
+                "お酒"
+              ],
+              "source": "thekura.jp"
+            },
+            {
+              "position": 9,
+              "title": "【永久保存版】本当に美味い夏のおすすめ日本酒14選",
+              "link": "https://www.youtube.com/watch?v=iaCdMO3fgjw&pp=0gcJCcwJAYcqIYzv",
+              "displayed_link": "視聴回数: 5.3万 回以上 · 2 か月前",
+              "thumbnail": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b7fb0835b6d8e8fc55d7ac43a056dbf1.jpeg",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645793b946eb5e1a5160a30ab7d69c789c1af.png",
+              "snippet": "Comments · 【2025ベスト】飲み手が選んだおいしい日本酒11選【十四代/而今/新政/仙禽/寒菊/風の森...】 · 間違いだらけの日本酒知識5選｜辛口... · 全国の ...",
+              "duration": "15:50",
+              "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSlhOVFTZKx0mBC5xOxmR3P0WHhXOgFDzBQwQ",
+              "source": "YouTube · サケラボちゃんねる SakelaboChannel"
+            },
+            {
+              "position": 10,
+              "title": "酒蔵発！ 夏酒のススメ | SAKE TOPICS",
+              "link": "https://www.niigata-sake.or.jp/sake-topics/9753/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.niigata-sake.or.jp/sake-topics/9753/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECDEQAQ",
+              "displayed_link": "https://www.niigata-sake.or.jp › SAKE TOPICS",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579a3fbb2f02002875fa71f242a4aa778be.png",
+              "date": "2025/07/02",
+              "snippet": "「温度や割り方で表情を変える夏にぴったりのお酒。おすすめはオンザロック。 ハイボールに凍らせたレモンやライムを入れても美味です」. 菊水 涼風 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒",
+                "おすすめ"
+              ],
+              "source": "新潟県酒造組合"
+            },
+            {
+              "position": 11,
+              "title": "夏のおすすめ銘酒",
+              "link": "https://www.yamatoya-e.com/SHOP/g10571/list.html?srsltid=AfmBOooXBwrHLu5tOqv_UL-Jh1lLX1SkcaJ0uL9YSXyPTxL_jBY7E7pL",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yamatoya-e.com/SHOP/g10571/list.html%3Fsrsltid%3DAfmBOooXBwrHLu5tOqv_UL-Jh1lLX1SkcaJ0uL9YSXyPTxL_jBY7E7pL&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOkBEAE",
+              "displayed_link": "https://www.yamatoya-e.com › SHOP › list",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b0147b30ee71b91c82b25aef98506f19.png",
+              "snippet": "玉川(たまがわ) Ice Breaker(アイス ブレーカー) 純米吟醸無濾過生原酒 500ml. ¥1,300(税込 ¥1,430). とにかくロックで旨い。氷の溶け具合にしたがって温度と ...",
+              "snippet_highlighted_words": [
+                "玉川(たまがわ) Ice Breaker(アイス ブレーカー) 純米吟醸無濾過生原酒"
+              ],
+              "source": "大和屋酒舗オンラインショップ"
+            },
+            {
+              "position": 12,
+              "title": "夏酒特集",
+              "link": "https://www.kairindo.jp/SHOP/282841/list.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kairindo.jp/SHOP/282841/list.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECC0QAQ",
+              "displayed_link": "https://www.kairindo.jp › SHOP › list",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e24205a5937471477b525be5dae6dd7f.png",
+              "snippet": "夏の限定酒や夏にぴったりのお酒 ... LINEなどのアカウントが使えます。 おすすめ商品. 大嶺酒造 · ジン. クラフトGIN · グレリパ. グレープリパブリック · 生もと ...",
+              "snippet_highlighted_words": [
+                "大嶺酒造"
+              ],
+              "source": "Sake Shop 海琳堂"
+            },
+            {
+              "position": 13,
+              "title": "夏酒 夏においしい日本酒 地酒通販 日本酒ショップくるみや",
+              "link": "https://www.sakaya1.com/SHOP/948557/985540/list.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sakaya1.com/SHOP/948557/985540/list.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCI8BEAE",
+              "displayed_link": "https://www.sakaya1.com › 日本酒タイプ",
+              "snippet": "商品一覧 ; 愛宕の松 ひと夏の恋 夏酒 純米吟醸 1.8L · ¥3,190(本体 ¥2,900、税 ¥290) ; やまとしずく 青春ノヤマト 活性純米吟醸 スパークリング生酒 720ml. ¥1,980(本体 ¥ ...",
+              "snippet_highlighted_words": [
+                "愛宕の松 ひと夏の恋 夏酒 純米吟醸 1.8L"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "extensions": [
+                    "4.9 店舗の評価 (191)"
+                  ]
+                }
+              },
+              "source": "日本酒ショップ くるみや"
+            },
+            {
+              "position": 14,
+              "title": "【2025年版】「夏酒」のおすすめ10選 本当に美味しいと思う ...",
+              "link": "https://saketomo.tv-aichi.co.jp/enjoy/20230526_natunioisiinihonsyu.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saketomo.tv-aichi.co.jp/enjoy/20230526_natunioisiinihonsyu.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOcBEAE",
+              "displayed_link": "https://saketomo.tv-aichi.co.jp › 楽しみたい",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457961f352129c1f03bddc5c2a7a5c107542.png",
+              "date": "2023/06/01",
+              "snippet": "本当に美味しい「夏酒」10選 · 仙禽 かぶとむし（栃木県/(株)せんきん） · 玉川 Ice Breaker 無濾過生原酒（京都府・木下酒造） · 陸奥八仙 夏どぶろっく（活性 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "SAKETOMO"
+            },
+            {
+              "position": 15,
+              "title": "風が変わる、夏が始まる 凛として涼やかな夏酒特集 2025",
+              "link": "https://imadeya.co.jp/collections/summer_sake_recommendation?srsltid=AfmBOor4HmEMKMcK1hjwD75VQg7oqUz7SdAZLXkVRQF4EnX8-mM8ahSx",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://imadeya.co.jp/collections/summer_sake_recommendation%3Fsrsltid%3DAfmBOor4HmEMKMcK1hjwD75VQg7oqUz7SdAZLXkVRQF4EnX8-mM8ahSx&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIACEAE",
+              "displayed_link": "https://imadeya.co.jp › summer_sake_recommendation",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645791663bca3bbca5cd5408e8bc0442106a6.png",
+              "snippet": "夏のお食事とももちろん相性抜群で、高い酸の日本酒×ポン酢の組み合わせは夏バテすらも忘れさせる爽快感をもたらします。 他にも、さっぱりとしたサラダやスパイスの効いた ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "IMADEYA"
+            },
+            {
+              "position": 16,
+              "title": "夏酒とはどんな日本酒？ 味わいの特徴やおすすめの銘柄も紹介",
+              "link": "https://tanoshiiosake.jp/12466",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tanoshiiosake.jp/12466&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECC4QAQ",
+              "displayed_link": "https://tanoshiiosake.jp › 日本酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579572e39dd40cc2f129aaf4725eee881c0.png",
+              "date": "2024/06/27",
+              "snippet": "夏酒とは、夏季限定でリリースされる夏向けの日本酒のこと。今回は、夏酒の味わいやボトル色、ラベルデザインの傾向、夏酒として発売されることが多い ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "夏",
+                "夏"
+              ],
+              "source": "tanoshiiosake.jp"
+            },
+            {
+              "position": 17,
+              "title": "【季節のお酒】 夏酒特集 | 日本酒・地酒 自然派ワイン 本格焼酎 ...",
+              "link": "https://www.yajima-jizake.co.jp/products/list.php?category_id=539",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yajima-jizake.co.jp/products/list.php%3Fcategory_id%3D539&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECGEQAQ",
+              "displayed_link": "https://www.yajima-jizake.co.jp › products › list",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645793c65ad6ae213524ac82e01b6059f923d.png",
+              "snippet": "八海山 特別純米 原酒 720ml · 八海山 特別純米 原酒 1800ml · 【8/29入荷】福海 山田錦 スパークリング 1800ml · 賀茂金秀 麗酸(れいさん) 雄町60 純米酒 720ml · 光栄菊 ...",
+              "snippet_highlighted_words": [
+                "八海山 特別純米 原酒 720ml"
+              ],
+              "source": "矢島酒店"
+            },
+            {
+              "position": 18,
+              "title": "夏におすすめ！夏酒を美味しくする新しい飲み方 - KUBOTAYA",
+              "link": "https://magazine.asahi-shuzo.co.jp/enjoy/434",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://magazine.asahi-shuzo.co.jp/enjoy/434&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJQBEAE",
+              "displayed_link": "https://magazine.asahi-shuzo.co.jp › 楽しむ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645793fca67afac844d444b93d7a5d39d46a9.png",
+              "snippet": "夏酒の新しい飲み方3選 · ライムとレモンの香りをまとわせたみぞれ酒 · 日本酒と甘酒のモヒート風 · 日本酒とトマトのスープカクテル · アレンジに使った「久保田 千寿 純米 ...",
+              "snippet_highlighted_words": [
+                "ライムとレモンの香りをまとわせたみぞれ酒"
+              ],
+              "source": "KUBOTAYA"
+            },
+            {
+              "position": 19,
+              "title": "夏の超おすすめ酒が登場！2025年6月24日",
+              "link": "https://www.youtube.com/watch?v=SeCMpWIYulU",
+              "displayed_link": "視聴回数: 340 回以上 · 2 か月前",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQdqhA8PTFc6nsUOuYOVlSN7SNjJUC8el2ieQ-CTadZYbgGw9tVbCr61hpf7x&s&ec=73062981",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579c5c3c45a3277156a31a18533294a0c96.png",
+              "snippet": "Comments · 腎臓の悩みを全て解決！ · 色が違うで！ · 【2025上半期／美味しかった日本酒を紹介】神蔵｜奥の松｜醸し人九平次｜産土などリピ酒とレア酒も♡ · I Went ...",
+              "duration": "5:15",
+              "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTutKRo2vuUamSeaNKswPbW7AoPMPg_LyPHWQ",
+              "source": "YouTube · シュウ・サケ・コーポレーション"
+            },
+            {
+              "position": 20,
+              "title": "暑い日が続く夏の季節にピッタリな「お酒」おすすめ10選",
+              "link": "https://xn--n8jm1b365zob8b1jwa.com/%E3%81%8A%E9%85%92%E3%81%AE%E9%81%B8%E3%81%B3%E6%96%B9/%E5%A4%8F%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%81%8A%E9%85%92/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://xn--n8jm1b365zob8b1jwa.com/%25E3%2581%258A%25E9%2585%2592%25E3%2581%25AE%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9/%25E5%25A4%258F%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2581%25AE%25E3%2581%258A%25E9%2585%2592/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMEBEAE",
+              "displayed_link": "https://美味しいお酒.com › お酒の選び方",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645790273842e899e5b3d35777a4ecfc4e913.png",
+              "date": "2022/02/19",
+              "snippet": "爽やかな味わい「ボンベイ・サファイア」​​ ボタニカルを使い、爽やかな味わいに仕上げたジンも夏にぴったりのお酒の1つ。 ジュニパーベリーを初めとする10 ...",
+              "snippet_highlighted_words": [
+                "爽やかな味わい「ボンベイ・サファイア」​​"
+              ],
+              "source": "美味しいお酒.com"
+            },
+            {
+              "position": 21,
+              "title": "【夏酒】売上ランキングTOP10を発表！入荷済みのお酒も多数！",
+              "link": "https://sakurasaketen.com/old/blog/summer_sake_ranking_2022/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sakurasaketen.com/old/blog/summer_sake_ranking_2022/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCNUBEAE",
+              "displayed_link": "https://sakurasaketen.com › summer_sake_ranking_2022",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457983b264a8e2d2a3c71eaa0e54dfef3db6.png",
+              "date": "2023/05/12",
+              "snippet": "第9位 白隠正宗 純米 誉富士 「夏」​​ キリッとしたドライな味わいが心地良い！ 爽快感抜群の夏限定酒。 静岡の人気酒「白隠正宗」の夏限定の純米酒です。 ...",
+              "source": "さくら酒店"
+            },
+            {
+              "position": 22,
+              "title": "夏におすすめのお酒特集",
+              "link": "https://www.amazon.co.jp/b?ie=UTF8&node=210977407051",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.co.jp/b%3Fie%3DUTF8%26node%3D210977407051&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOoBEAE",
+              "displayed_link": "https://www.amazon.co.jp › ...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579871ff6a8ad37cdd05f516e4d9f1e1ec1.png",
+              "snippet": "暑い日こそ飲みたい、すっきり美味しいお酒を集めました。 爽やかでエキゾチックな風味のお酒や、まろやかな口当たりのプレーンサワーなど、夏を彩るお酒を揃えており ...",
+              "snippet_highlighted_words": [
+                "お酒",
+                "お酒",
+                "夏",
+                "お酒"
+              ],
+              "source": "Amazon.jp"
+            },
+            {
+              "position": 23,
+              "title": "Sakenomy 特集：【夏酒】",
+              "link": "https://www.sakenomy.jp/feature/20271/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sakenomy.jp/feature/20271/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIgCEAE",
+              "displayed_link": "https://www.sakenomy.jp › feature",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579bbb67b03d5129a1674d281914cd01413.png",
+              "date": "2025/07/16",
+              "snippet": "【夏酒特集】涼やか気分で楽しむ夏酒！（随時更新） · 1. 東洋美人 醇道一途 限定純米吟醸 雄町 · 2. 雁木 “夏” 辛口純米 · 3. 紀土 KID 純米吟醸 夏の疾風 · 4.",
+              "snippet_highlighted_words": [
+                "東洋美人 醇道一途 限定純米吟醸 雄町"
+              ],
+              "source": "Sakenomy"
+            },
+            {
+              "position": 24,
+              "title": "夏におすすめの日本酒15選 - 吟天シェフ酒",
+              "link": "https://ginten.tokyo/gintenchefsake/article/20",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ginten.tokyo/gintenchefsake/article/20&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKQCEAE",
+              "displayed_link": "https://ginten.tokyo › gintenchefsake › article",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579d9f097ac98d25f49d2d9c7803e871ff6.png",
+              "date": "2023/04/19",
+              "snippet": "夏におすすめの日本酒15選 · 寒菊 空海 · 醸す森 純米吟醸 · 刈穂 カワセミ · 敷嶋 一歩目 · 出羽桜 雪女神 · 月山 クラウド · 手取川 スラッシュ · 真澄 ...",
+              "snippet_highlighted_words": [
+                "寒菊 空"
+              ],
+              "source": "ginten.tokyo"
+            },
+            {
+              "position": 25,
+              "title": "夏酒とは？夏に飲みたい、おすすめの新潟の日本酒5選！",
+              "link": "https://magazine.asahi-shuzo.co.jp/lookfor/90",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://magazine.asahi-shuzo.co.jp/lookfor/90&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECCwQAQ",
+              "displayed_link": "https://magazine.asahi-shuzo.co.jp › 探す",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579a3d82b758815318936234a9f25270ecf.png",
+              "snippet": "夏酒とは？夏に飲みたい、おすすめの新潟の日本酒5選！ · ①八海醸造「特別純米原酒 八海山」 · ②白瀧酒造「上善如水 純米吟醸 生酒」 · ③菊水「吟醸 生詰 無冠帝」 · ④朝日 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "おすすめ"
+              ],
+              "source": "KUBOTAYA"
+            },
+            {
+              "position": 26,
+              "title": "【日本酒】夏酒特集",
+              "link": "https://isobe-sake.com/collections/summer_sake?srsltid=AfmBOoos3WWPzVffRyOdXfPxPmdRr6ky49Odbe4VBk0QuESOkzjZOdtj",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isobe-sake.com/collections/summer_sake%3Fsrsltid%3DAfmBOoos3WWPzVffRyOdXfPxPmdRr6ky49Odbe4VBk0QuESOkzjZOdtj&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEUQAQ",
+              "displayed_link": "https://isobe-sake.com › collections › summer_sake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457963626469909ff02e1420b2ed94acb2c6.png",
+              "snippet": "いそべ酒店がおすすめする夏酒特集ページ。夏ならではのスッキリ爽やかな季節限定を厳選しております。暑い季節を涼やかに彩るおすすめの夏酒をぜひご覧ください。",
+              "snippet_highlighted_words": [
+                "いそべ酒店がおすすめする夏酒特集ページ"
+              ],
+              "source": "いそべ酒店"
+            },
+            {
+              "position": 27,
+              "title": "夏のお酒 - にたいら酒店｜帯広｜WEBショップ",
+              "link": "http://www.nitaira.com/category/item/season/summer/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.nitaira.com/category/item/season/summer/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECF8QAQ",
+              "displayed_link": "http://www.nitaira.com › item › season › summer",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645795ff2c0d38a821ed5c77b8447ea384a76.png",
+              "snippet": "ピュアで透明感のあるさっぱりとした味わい! お待たせしました! 夏の限定酒【鶴梅 夏みかん】が入荷です。 適度なすっぱさが暑い夏を吹き飛ばしてくれます!",
+              "source": "にたいら酒店"
+            },
+            {
+              "position": 28,
+              "title": "暑い夏に飲みたい、おすすめの夏酒20選！ | [-5℃]日本酒ラボ",
+              "link": "https://sake-5.jp/recommended-summer-sake/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sake-5.jp/recommended-summer-sake/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECH4QAQ",
+              "displayed_link": "https://sake-5.jp › 日本酒を探す › 季節・シーン別",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645790dd7608f40f9150f91d04de96347f27c.png",
+              "snippet": "1.2023年おすすめの夏酒20選 · 1-1.白龍 純米吟醸 夏 さ・ら・ら · 1-2.富久長 辛口純米 夏 · 1-3. · 1-4.いづみ橋 夏ヤゴ スパークリング · 1-5.ゆきの美人 純米吟醸 夏 ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏",
+                "夏",
+                "夏",
+                "夏",
+                "夏"
+              ],
+              "source": "sake-5.jp"
+            },
+            {
+              "position": 29,
+              "title": "特集,夏酒特集 | 伯楽星など日本酒を取扱う通販サイト ...",
+              "link": "http://www.kakinuma-tokyo.co.jp/shopbrand/ct75/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.kakinuma-tokyo.co.jp/shopbrand/ct75/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJUBEAE",
+              "displayed_link": "http://www.kakinuma-tokyo.co.jp › shopbrand",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645798f9ce4bf0935d37e99a4fb3f1efda7d2.png",
+              "snippet": "伯楽星など日本酒を取扱う通販サイトかき沼オンラインで取り扱う商品夏酒特集の販売ページです。当店では他にも伯楽星やばくれんなど多くの日本酒を扱っております。",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "かき沼"
+            },
+            {
+              "position": 30,
+              "title": "【夏酒】夏に呑みたいおすすめ純米酒8選！酒のはしもと代表が ...",
+              "link": "https://www.jyunmai.co.jp/column/special/summer/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jyunmai.co.jp/column/special/summer/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCK4BEAE",
+              "displayed_link": "https://www.jyunmai.co.jp › column › special › summer",
+              "snippet": "今回紹介した日本酒一覧 ; 竹泉, 冷や～ぬる ; いづみ橋, 冷や ; 竹鶴, お燗 ; 日置桜 山滴る, 冷や ; 夏のるみ子, 冷や ...",
+              "snippet_highlighted_words": [
+                "竹泉, 冷や～ぬる"
+              ],
+              "source": "酒のはしもと"
+            },
+            {
+              "position": 31,
+              "title": "仕事のあとに、ちょっと一杯。 夏に飲みたいおすすめのお酒。",
+              "link": "https://www.monosus.co.jp/magazine/j5hsuis4h8owjqc4ixfgvrg1",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.monosus.co.jp/magazine/j5hsuis4h8owjqc4ixfgvrg1&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMIBEAE",
+              "displayed_link": "https://www.monosus.co.jp › magazine",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457947e64718b326bbf57e0ef712855b3bd0.png",
+              "snippet": "基本的になんでもおいしく飲めるタイプなんですが、夏になると無性に飲みたくなって、家飲み用に箱買いするのが、クアーズ ライト（Coors LIGHT）です。",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "株式会社モノサス"
+            },
+            {
+              "position": 32,
+              "title": "暑さを吹き飛ばす！夏に飲みたい爽快系お酒ランキング5選",
+              "link": "https://kanpyou-blog.com/8035/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kanpyou-blog.com/8035/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMsBEAE",
+              "displayed_link": "https://kanpyou-blog.com › お酒の豆知識",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579aa4a9e41fbe4cfcdaf7471d1142ae7f0.png",
+              "date": "2025/07/15",
+              "snippet": "【夏におすすめのお酒☆5選☆】 · おすすめ銘柄：「獺祭 磨き三割九分」「黒龍 吟醸いっちょらい」 · 「ラム酒」＋「フレッシュミント」＋「ライム」＋「少量の ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ",
+                "お酒",
+                "おすすめ"
+              ],
+              "source": "kanpyou-blog.com"
+            },
+            {
+              "position": 33,
+              "title": "夏のワインとお酒特集",
+              "link": "https://www.astyle.jp/disp/CSfSpeDispListPage.jsp?dispNo=020007212&srsltid=AfmBOoqGGNZyL73kv1-eVGunbrExzsssU15pWoh9f3VmwG7-FHeuroHd",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.astyle.jp/disp/CSfSpeDispListPage.jsp%3FdispNo%3D020007212%26srsltid%3DAfmBOoqGGNZyL73kv1-eVGunbrExzsssU15pWoh9f3VmwG7-FHeuroHd&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCNEBEAE",
+              "displayed_link": "https://www.astyle.jp › disp › CSfSpeDispListPage",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579702f75db8223875d5899610339d4b15d.png",
+              "snippet": "そして、夏に一番のお勧めは、カジュアルに楽しめる各国のスパークリングワインです。昼下がりのテラスでのお食事や、屋外でのバーベキューなんてシチュエーションで ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "ANAショッピング A-style"
+            },
+            {
+              "position": 34,
+              "title": "【絶対買う】夏の定番おすすめ日本酒11選｜夏酒とは何か ...",
+              "link": "https://www.youtube.com/watch?v=UsPf_UpjMI8",
+              "displayed_link": "視聴回数: 4.8万 回以上 · 2 年前",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJbgMIB0WBugyw6ZSCvrc_SHmGmQcImLjCqvNFVxm6h49xPEie1_dqxVgV4nYa&s&ec=73062981",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579db095b4cf9facb783cdbdfd3f1a361e7.png",
+              "snippet": "【絶対買う】夏の定番おすすめ日本酒11選｜夏酒とは何か..｜仙禽かぶとむし、陸奥八仙どぶろっく、早春 夏のブーリュ.",
+              "duration": "15:39",
+              "source": "YouTube · サケラボちゃんねる SakelaboChannel"
+            },
+            {
+              "position": 35,
+              "title": "夏を味わうお酒5選",
+              "link": "https://kurand.jp/blogs/magazine/561064378423?srsltid=AfmBOopv0DhdtPtLRl8_eO9fTl-A3Q7xQdcNVsb1f9YMIoGf8hLWvp8h",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kurand.jp/blogs/magazine/561064378423%3Fsrsltid%3DAfmBOopv0DhdtPtLRl8_eO9fTl-A3Q7xQdcNVsb1f9YMIoGf8hLWvp8h&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOUBEAE",
+              "displayed_link": "https://kurand.jp › マガジン",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579f3ae63c7c68418e20e7fe821bf31a210.png",
+              "snippet": "すっぱ爽やか柑橘酒！-カンキツをマンキツ- · 夏を呼び込む！スタッフが選ぶ初夏におすすめのお酒10選. 2025/06/03. 夏を呼び込む！スタッフが選ぶ初夏におすすめのお酒10選.",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ",
+                "お酒",
+                "夏",
+                "おすすめ",
+                "お酒"
+              ],
+              "source": "クランド"
+            },
+            {
+              "position": 36,
+              "title": "夏酒について徹底解説！美味しい飲み方はあるの？",
+              "link": "https://lab.saketaku.com/entry/2021/07/08/221141",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lab.saketaku.com/entry/2021/07/08/221141&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOsBEAE",
+              "displayed_link": "https://lab.saketaku.com › entry › 2021/07/08",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579f143b5f990a10d5909adf1a17bf3312d.png",
+              "date": "2021/07/08",
+              "snippet": "おすすめの夏酒. 夏酒は新しい日本酒の楽しみ方のひとつです ... 生酒など加熱していない日本酒でその年の日本酒を楽しんでみるのがおすすめです。",
+              "snippet_highlighted_words": [
+                "生酒など加熱していない日本酒でその年の日本酒を楽しんでみるのがおすすめです"
+              ],
+              "source": "saketaku"
+            },
+            {
+              "position": 37,
+              "title": "【お中元・夏ギフト特集2025】やっぱり喜ばれる！人気のお ...",
+              "link": "https://gurusuguri.com/special/season/ochugen/alchol/?srsltid=AfmBOorx8Um1U8CyZr6iHgHrWdd15vBSMSaHroBDaYtCq4FHmQsnGQ8s",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gurusuguri.com/special/season/ochugen/alchol/%3Fsrsltid%3DAfmBOorx8Um1U8CyZr6iHgHrWdd15vBSMSaHroBDaYtCq4FHmQsnGQ8s&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIICEAE",
+              "displayed_link": "https://gurusuguri.com › season › ochugen › alchol",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579769049914c2d230f0929285719835d7e.jpeg",
+              "snippet": "【お中元・夏ギフト特集2025】やっぱり喜ばれる！人気のお酒ギフトの商品一覧 · 焰の刻印 · 酒肴ギフト 蒼空 · 酒肴ギフト 天狗舞 · 京都丹後クラフトビール7本ギフトセット.",
+              "snippet_highlighted_words": [
+                "焰の刻印"
+              ],
+              "source": "gurusuguri.com"
+            },
+            {
+              "position": 38,
+              "title": "夏におすすめの日本酒5選！夏は冷やしてサッパリ、スッキリ",
+              "link": "https://www.gunma-saketsugu.jp/report/blog/2022summerrecommend/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gunma-saketsugu.jp/report/blog/2022summerrecommend/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIkCEAE",
+              "displayed_link": "https://www.gunma-saketsugu.jp › report › blog",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645790c345e5be87870af7c8691a09d98a05c.png",
+              "date": "2022/07/16",
+              "snippet": "夏バテで疲れた身体にも、日本酒「群馬の地酒」は、おすすめです。 適量、ちびりと飲んで、免疫機能を高めましょう！",
+              "snippet_highlighted_words": [
+                "おすすめ"
+              ],
+              "source": "群馬SAKE TSUGU"
+            },
+            {
+              "position": 39,
+              "title": "夏にぴったり！さわやかなお酒特集 - たのしいお酒.jp",
+              "link": "https://tanoshiiosake.jp/12582",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tanoshiiosake.jp/12582&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJoCEAE",
+              "displayed_link": "https://tanoshiiosake.jp › お酒etc.",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b619269ae362a257ceeccb28d1e07583.png",
+              "date": "2024/07/01",
+              "snippet": "この夏、さわやかなお酒で乾杯しませんか？ビール、ワイン、日本酒、焼酎など、暑い季節にぴったりのお酒のたのしみ方やカクテルレシピをご紹介します ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒"
+              ],
+              "source": "tanoshiiosake.jp"
+            },
+            {
+              "position": 40,
+              "title": "夏×お酒全般×予算5000円以内の人気おすすめランキング",
+              "link": "https://food.biglobe.ne.jp/scene_summer/cate_drink_alcohol/budget_5000/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://food.biglobe.ne.jp/scene_summer/cate_drink_alcohol/budget_5000/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKMCEAE",
+              "displayed_link": "https://food.biglobe.ne.jp › ... › 予算5,000円以内",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645798dbe744aff4bd01547fe2b04c40f0668.png",
+              "date": "2025/04/08",
+              "snippet": "純米吟醸嘉美心はいかがでしょうか。 無濾過生酒で冷酒向きです。やや甘めで飲み口が良く爽やかな味わいです。特に暑い季節におすすめです。",
+              "snippet_highlighted_words": [
+                "純米吟醸嘉美心"
+              ],
+              "source": "ベストオイシー"
+            },
+            {
+              "position": 41,
+              "title": "夏にぴったりなお酒「夏酒」とは、どんなもの？ 特徴や定義",
+              "link": "https://hareharesake.com/c-fpage?fp=t-nihonshu-26",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hareharesake.com/c-fpage%3Ffp%3Dt-nihonshu-26&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKECEAE",
+              "displayed_link": "https://hareharesake.com › c-fpage",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579881950d8ad8c5209d574aa0b4b2020f2.png",
+              "snippet": "以前、日本酒にも「四季」があることをお伝えしました。そんな中から今回は、厳しい暑さが続くこの季節にいただきたい「夏酒」とピックアップ。時期や特徴、おすすめの ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "ハレハレ酒"
+            },
+            {
+              "position": 42,
+              "title": "【楽天市場】日本酒 夏酒 人気（日本酒・焼酎）の通販",
+              "link": "https://search.rakuten.co.jp/search/mall/%E6%97%A5%E6%9C%AC%E9%85%92+%E5%A4%8F%E9%85%92+%E4%BA%BA%E6%B0%97/510901/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://search.rakuten.co.jp/search/mall/%25E6%2597%25A5%25E6%259C%25AC%25E9%2585%2592%2B%25E5%25A4%258F%25E9%2585%2592%2B%25E4%25BA%25BA%25E6%25B0%2597/510901/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECDAQAQ",
+              "displayed_link": "https://search.rakuten.co.jp › search › mall › 日本酒+夏...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645798e421ef2bc206064d0f523b87f4eeb71.png",
+              "snippet": "楽天市場-「日本酒 夏酒 人気」（日本酒・焼酎）2658件 人気の商品を価格比較・ランキング･レビュー・口コミで検討できます。ご購入でポイント取得がお得。",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "楽天市場"
+            },
+            {
+              "position": 43,
+              "title": "〈プロ解説〉日本酒の飲み方や夏酒の楽しみ方を紹介 おすすめ ...",
+              "link": "https://moov.ooo/article/64620e2292174f167ab05847",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://moov.ooo/article/64620e2292174f167ab05847&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCM0BEAE",
+              "displayed_link": "https://moov.ooo › フード・ドリンク › お酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645794638d6259722a40233cb6a35987efaf5.png",
+              "snippet": "まずはプロおすすめ、夏にぴったりな日本酒5選 · 純米吟醸生酒 夏純吟 七賢 1800ml · 百十郎 純米吟醸 青波 BLUE Wave 1800ml · 夏酒 特別純米 720ml · 熱燗専用 熟成辛口 猫場 ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏",
+                "夏",
+                "夏"
+              ],
+              "source": "Moovoo"
+            },
+            {
+              "position": 44,
+              "title": "おすすめの地酒も！冷やして美味しい夏のおすすめ季節限定酒 ...",
+              "link": "https://www.sake-hourai.co.jp/sakehack/column/2190/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sake-hourai.co.jp/sakehack/column/2190/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEYQAQ",
+              "displayed_link": "https://www.sake-hourai.co.jp › ... › 季節の日本酒 › 夏",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645795f19550a55dfe1f0890c025b1f839f9d.png",
+              "date": "2022/04/11",
+              "snippet": "おすすめの地酒も！ 冷やして美味しい夏のおすすめ季節限定酒をご紹介 【渡辺酒造店】 ; おすすめの飲み方：冷や、常温 · 精米歩合：55% アルコール分：15%",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏",
+                "おすすめ",
+                "おすすめ"
+              ],
+              "source": "sake-hourai.co.jp"
+            },
+            {
+              "position": 45,
+              "title": "夏のおすすめセット",
+              "link": "https://www.masumi.jp/i/078056?srsltid=AfmBOooyngggeweDUkn7tqVDZGAr8EjQauLr4JDXuscdsTXmNGKcE4gI",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.masumi.jp/i/078056%3Fsrsltid%3DAfmBOooyngggeweDUkn7tqVDZGAr8EjQauLr4JDXuscdsTXmNGKcE4gI&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECFYQAQ",
+              "displayed_link": "https://www.masumi.jp › ...",
+              "snippet": "夏の酒「すずみさけ」と定番4種を呑みくらべ。 いろんな味を少しずつ楽しめます。 お好みが分からない方へのご贈答にもおすすめです。 ... ＊ギフト箱入り＊手提げ紙袋は、紙袋 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "さけ",
+                "おすすめ"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 4964,
+                    "currency": "￥"
+                  },
+                  "extensions": [
+                    "￥4,964",
+                    "在庫なし"
+                  ]
+                }
+              },
+              "source": "真澄オンラインショップ"
+            },
+            {
+              "position": 46,
+              "title": "夏のお酒人気ランキング",
+              "link": "https://www.takashimaya.co.jp/shopping/special/620501/621292/ranking.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.takashimaya.co.jp/shopping/special/620501/621292/ranking.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECGIQAQ",
+              "displayed_link": "https://www.takashimaya.co.jp › ... › 夏のお酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579eff5a94266c5e5c1ebe30d0c5a637e4f.png",
+              "snippet": "夏のお酒 ランキング · 茅ヶ崎ビール6本セット · 茅ヶ崎ビール6本セット · 全国酒類コンクール第1位受賞 独歩ビールセレクション（4種8本） · 全国酒類コンクール第1位受賞 独歩 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "extensions": [
+                    "4.9 店舗の評価 (13)"
+                  ]
+                }
+              },
+              "source": "高島屋"
+            },
+            {
+              "position": 47,
+              "title": "暑い夏はオンザロック！炭酸割り！ひんやりおいしいお酒の ...",
+              "link": "https://www.gekkeikan.co.jp/company/news/detail/584/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gekkeikan.co.jp/company/news/detail/584/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHIQAQ",
+              "displayed_link": "https://www.gekkeikan.co.jp › company › news › detail",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579492253b0a7781fa441bb77da35a15665.png",
+              "date": "2025/07/01",
+              "snippet": "日本酒に果汁をブレンドした「サムライロック」「スイカロック」「マンゴーロック」は、フルーティな香りと味わいが特徴で、日本酒が苦手な方にもおすすめ ...",
+              "snippet_highlighted_words": [
+                "おすすめ"
+              ],
+              "source": "月桂冠 ホームページ"
+            },
+            {
+              "position": 48,
+              "title": "【蔵元直送】朝日酒造 夏酒特集",
+              "link": "https://www.asahi-shuzo-online.jp/hpgen/HPB/entries/114.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asahi-shuzo-online.jp/hpgen/HPB/entries/114.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHkQAQ",
+              "displayed_link": "https://www.asahi-shuzo-online.jp › hpgen › HPB › entries",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579cb37e94a59b4665066d535fbe1cf31f2.png",
+              "snippet": "「久保田 ゆずリキュール」は、ストレートやロックはもちろんおすすめです。素材そのものの香り、味わいを堪能できます。冷蔵庫でしっかり冷してから飲むと、より味わいが ...",
+              "snippet_highlighted_words": [
+                "おすすめ"
+              ],
+              "source": "朝日酒造オンラインショップ"
+            },
+            {
+              "position": 49,
+              "title": "夏は「日本酒ロック」！日本酒ロックのおいしい飲み方や透明な ...",
+              "link": "https://www.sawanotsuru.co.jp/site/nihonshu-columm/enjoy/nihonshu-on-the-rocks/?srsltid=AfmBOoq5EnqY6z7Mh6ivIiqFsilNhnVaDu44IwkoB9Dlid5l2yUEbriu",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sawanotsuru.co.jp/site/nihonshu-columm/enjoy/nihonshu-on-the-rocks/%3Fsrsltid%3DAfmBOoq5EnqY6z7Mh6ivIiqFsilNhnVaDu44IwkoB9Dlid5l2yUEbriu&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHsQAQ",
+              "displayed_link": "https://www.sawanotsuru.co.jp › ... › 日本酒を楽しもう",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579a036fb1cad8924a63b0811153649c894.png",
+              "date": "2025/06/06",
+              "snippet": "日本酒ロックは、のどを潤す冷たさと、お米の風味を一度に感じることができます。そして、この飲みやすさこそが、日本酒ロックを暑い夏におすすめしたい一 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "沢の鶴オンラインショップ"
+            },
+            {
+              "position": 50,
+              "title": "酒のプロ・蔵人が教える夏に飲みたい“冷やして楽しむ”すっきり ...",
+              "link": "https://sakebana.jp/posts/natsuzake",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sakebana.jp/posts/natsuzake&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJgBEAE",
+              "displayed_link": "https://sakebana.jp › posts › natsuzake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645796fca6b1153698f233b1c7156d0be5e60.png",
+              "date": "2024/07/31",
+              "snippet": "暑い日こそキンキンに冷えて喉ごしの良い日本酒はいかがですか？酒のプロ・蔵人が選ぶ夏にぴったりな爽やかな日本酒と、おすすめの飲み方や料理をご ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "さけバナ"
+            },
+            {
+              "position": 51,
+              "title": "夏目前！「夏酒」ってなに？",
+              "link": "https://toiropj.jp/en/blogs/article/%E5%A4%8F%E7%9B%AE%E5%89%8D-%E5%A4%8F%E9%85%92-%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%AB-%E7%89%B9%E5%BE%B4%E3%81%A8%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E9%8A%98%E6%9F%843%E9%81%B8?srsltid=AfmBOop8DNzQlLF64fLF0aQetaV_rhfvahMBorkf9fux6HqCbqTMUUkd",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://toiropj.jp/en/blogs/article/%25E5%25A4%258F%25E7%259B%25AE%25E5%2589%258D-%25E5%25A4%258F%25E9%2585%2592-%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25AB-%25E7%2589%25B9%25E5%25BE%25B4%25E3%2581%25A8%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E9%258A%2598%25E6%259F%25843%25E9%2581%25B8%3Fsrsltid%3DAfmBOop8DNzQlLF64fLF0aQetaV_rhfvahMBorkf9fux6HqCbqTMUUkd&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJkBEAE",
+              "displayed_link": "https://toiropj.jp › blogs › article › 夏目前-夏酒-ってなに...",
+              "date": "2025/06/05",
+              "snippet": "▽ ペアリングは和菓子やフルーツ系料理にも◎ · 男山酒造店（福島県） · 蔵元：小林 靖 · 内容量：720ml · 精米歩合：60％（扁平精米） · アルコール度数：14％ · 香り： ...",
+              "source": "toiropj.jp"
+            },
+            {
+              "position": 52,
+              "title": "【日本酒】2025年おすすめの夏酒5選(よこやま/風の森/愛宕の ...",
+              "link": "https://www.youtube.com/watch?v=amPrbM9WDCg",
+              "displayed_link": "視聴回数: 2890 回以上 · 2 か月前",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoBtPXPmCg--y_Xlmc4LvjveDEr9w9wzmituKUcp3so54jVgwMCbjB2SYNIn7&s&ec=73062981",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645797daed0105c9dfbc6b5efa38998e19185.png",
+              "snippet": "【日本酒】2025年おすすめの夏酒5選(よこやま/風の森/愛宕の松/千歳鶴/十石). 2.8K views · 2 months ago #セブンイレブン #japanesefood #japanese",
+              "duration": "5:38",
+              "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTngOgHdqMXwCAFtIAxwdyXkniNNooaBxyYoQ",
+              "source": "YouTube · セブンイレブン津田沼店チャンネル"
+            },
+            {
+              "position": 53,
+              "title": "夏の限定酒",
+              "link": "https://shop.sake-japan.jp/?mode=grp&gid=2050325",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.sake-japan.jp/%3Fmode%3Dgrp%26gid%3D2050325&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLABEAE",
+              "displayed_link": "https://shop.sake-japan.jp › ...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e4531a63c8457f877247eec7ea6177ef.png",
+              "snippet": "夏の限定酒 ; 雁木 スパークリング 発泡にごり生原酒720ml（がんぎ） 1,980円(内税) ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "酒商山田オンラインショップ"
+            },
+            {
+              "position": 54,
+              "title": "スッキリ爽やか！キレ味鮮やか！暑い日にゴクゴク飲みたい「夏 ...",
+              "link": "http://www.nakamurasaketen.com/featured/1143979e-7ca7-4413-8e7c-b42f15b14482",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.nakamurasaketen.com/featured/1143979e-7ca7-4413-8e7c-b42f15b14482&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLMBEAE",
+              "displayed_link": "http://www.nakamurasaketen.com › featured",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457953a0aaf2cf6df5c81462a2d042c39950.png",
+              "snippet": "すっかり定着した「夏の酒」が各蔵から続々と出荷！！味わいも年々進化してどんどん美味しいお酒が出てきています。まるでのどを涼風が吹き抜けていくかのような爽やかさと ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒"
+              ],
+              "source": "取手の地酒や 中村酒店"
+            },
+            {
+              "position": 55,
+              "title": "発泡性清酒・生酒・にごり酒・夏のおすすめ酒特集!【山形 ...",
+              "link": "https://www.kigawaya.com/sake/kisetu/natsu/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kigawaya.com/sake/kisetu/natsu/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMkBEAE",
+              "displayed_link": "https://www.kigawaya.com › sake › kisetu › natsu",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b859618d20707dae616bdc0463a3c74e.png",
+              "snippet": "発泡性清酒・生酒・にごり酒・夏のおすすめ酒特集! 商品一覧 · 地酒 山居倉庫純米吟醸 初孫. 出羽燦々を知り尽くした初孫が醸す、渾身の純米吟醸。 皆様にも自信を持って ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "山形の地酒専門店 木川屋"
+            },
+            {
+              "position": 56,
+              "title": "夏酒がぞくぞく解禁！暑い夏こそ飲みたい、涼やかな楽しみ方と ...",
+              "link": "https://liqlog.com/post/maker/recommend_natsu-zake/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://liqlog.com/post/maker/recommend_natsu-zake/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCM4BEAE",
+              "displayed_link": "https://liqlog.com › post › maker › recommend_natsu-zake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645795caf790d71d647d0110b9d283fd7bd17.png",
+              "date": "2023/06/14",
+              "snippet": "夏酒がぞくぞく解禁！暑い夏こそ飲みたい、涼やかな楽しみ方とおすすめ日本酒を紹介！ · 仙禽 かぶとむし（株式会社せんきん／栃木県） · 七賢 夏純吟（山梨銘醸 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "おすすめ",
+                "夏"
+              ],
+              "source": "LIQLOG"
+            },
+            {
+              "position": 57,
+              "title": "夏×リキュール・カクテルの人気おすすめランキング",
+              "link": "https://food.biglobe.ne.jp/scene_summer/cate_drink_cocktails/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://food.biglobe.ne.jp/scene_summer/cate_drink_cocktails/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMoBEAE",
+              "displayed_link": "https://food.biglobe.ne.jp › 夏 › リキュール・カクテル",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579817c4092dee0f63705b01753f9a6f170.png",
+              "date": "2025/08/09",
+              "snippet": "季節限定、今だけの味！月桂冠の日本酒リキュール、スイカロックです。日本酒にスイカ果汁をミックスしたさわやかな味わいが夏にぴったり。氷をたっぷり ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "ベストオイシー"
+            },
+            {
+              "position": 58,
+              "title": "夏こそ焼酎！ おすすめ銘柄とおつまみをご紹介 | キッチン",
+              "link": "https://owners.lixil.co.jp/articles/kitchen/88-6-1/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://owners.lixil.co.jp/articles/kitchen/88-6-1/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCMwBEAE",
+              "displayed_link": "https://owners.lixil.co.jp › articles › kitchen",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645796cd4cafb36ed552d126243adf131f2ec.png",
+              "snippet": "やや季節性を意識されづらい焼酎。しかし「焼酎は実は夏のお酒なのです」と友田さん。 「日本酒よりもアルコール度数の高い焼酎は、夏の ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒",
+                "夏"
+              ],
+              "source": "リクシルオーナーズクラブ"
+            },
+            {
+              "position": 59,
+              "title": "夏リキュール特集 夏のドリンクメニュー切り替えが簡単に ...",
+              "link": "https://pro-navi.kakuyasu.co.jp/feature/liquors/Natuliqueur/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pro-navi.kakuyasu.co.jp/feature/liquors/Natuliqueur/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCNYBEAE",
+              "displayed_link": "https://pro-navi.kakuyasu.co.jp › 特集 › 酒類",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579c97f133a6edb58150a5c5944377abc15.png",
+              "date": "2020/06/18",
+              "snippet": "夏リキュール特集 夏のドリンクメニュー切り替えが簡単にできる！ · スイカのお酒 · パインアメ サワーの素 · 富士白レモンチュウハイの素 · 梅乃宿 あらごし ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "お酒"
+              ],
+              "source": "飲食店お役立ちナビ"
+            },
+            {
+              "position": 60,
+              "title": "【お役立ち】冷たいお酒が美味しい夏が来る！お酒と上手な ...",
+              "link": "https://www.drug39.co.jp/dietitian/lifeinfo/recommend/entry-1193.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.drug39.co.jp/dietitian/lifeinfo/recommend/entry-1193.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOgBEAE",
+              "displayed_link": "https://www.drug39.co.jp › recommend › entry-1193",
+              "snippet": "糖質の多いものをお酒と一緒にとるのは控えましょう！ ～おすすめおつまみ～. たんぱく質やビタミンB1などの栄養素は肝臓へのエネルギー補給に繋がり、. アルコールの ...",
+              "snippet_highlighted_words": [
+                "お酒",
+                "おすすめ"
+              ],
+              "source": "drug39.co.jp"
+            },
+            {
+              "position": 61,
+              "title": "ドキュメント-【夏の生酒】index",
+              "link": "https://www.meimonshu.jp/modules/xfsection/article.php?articleid=88",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.meimonshu.jp/modules/xfsection/article.php%3Farticleid%3D88&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOQBEAE",
+              "displayed_link": "https://www.meimonshu.jp › modules › xfsection › article",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579ef98037a145dc351115c629ed4fb0614.png",
+              "snippet": "「夏の生酒」の魅力は、なんといっても清涼感あふれるみずみずしい味わい · 飲み比べるとわかりやすいのですが、他の日本酒が「重い」と感じるときにでも、その · 冷えた ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "日本名門酒会"
+            },
+            {
+              "position": 62,
+              "title": "果実酒のおすすめ30選 甘くフルーティーな風味を楽しもう",
+              "link": "https://www.biccamera.com/bc/i/topics/osusume_fruit_wine/index.jsp",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biccamera.com/bc/i/topics/osusume_fruit_wine/index.jsp&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCOYBEAE",
+              "displayed_link": "https://www.biccamera.com › ... › リキュール・梅酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645793b1053462f15d8626f7372bafc61d9fe.png",
+              "date": "2025/05/20",
+              "snippet": "みかんの風味が豊かに広がる果実酒です。アルコール度数7%、エキス分20%の仕上がりで、みかん果汁たっぷりの爽やかな味わいを堪能できるのが特徴。飲み ...",
+              "source": "ビックカメラ"
+            },
+            {
+              "position": 63,
+              "title": "夏を感じさせる！夏にオススメな爽快カクテル10選",
+              "link": "https://www.nomooo.jp/article/2014/08/14/33.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nomooo.jp/article/2014/08/14/33.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCPYBEAE",
+              "displayed_link": "https://www.nomooo.jp › レシピ › レシピ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457903686cd46a3230d824c22fe285e35602.png",
+              "date": "2014/08/14",
+              "snippet": "この夏、ビールだけで楽しんでませんか？ 暑い日にはビールをぐっといきたい、日本酒でしんみりいきたい、それも素敵ですが、カクテルでシックで大人な ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "nomooo"
+            },
+            {
+              "position": 64,
+              "title": "【夏を飲み尽くせ！】残暑を彩るおすすめのお酒8選！",
+              "link": "https://isego.blog.jp/archives/49689572.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://isego.blog.jp/archives/49689572.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIECEAE",
+              "displayed_link": "https://isego.blog.jp › archives",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457931cb1992100e992d118ac29612d50113.jpeg",
+              "date": "2023/08/15",
+              "snippet": "夏季限定のスパークリング。 透明感のある味わいの中に米の旨味が広がります。 瓶内二次発酵をすることで、滑らかな口当たりながらすっきりとさわやかな ...",
+              "source": "blog.jp"
+            },
+            {
+              "position": 65,
+              "title": "日本酒・夏の地酒 通信販売",
+              "link": "https://www.jizake.com/c/sake/special/summersake",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jizake.com/c/sake/special/summersake&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIUCEAE",
+              "displayed_link": "https://www.jizake.com › 日本酒 › 特集",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579a73609d21c83aefc42ea9a21402990c9.png",
+              "snippet": "JIZAKE.COM · 玉川 Ice Breaker(アイスブレーカー) 純米吟醸 無濾過生原酒 500ml · 遊穂 ゆうほのあか 生もと純米吟醸 生原酒 720ml · 石鎚 純米 土用酒(どようざけ) 720ml.",
+              "source": "佐野屋 JIZAKE.COM"
+            },
+            {
+              "position": 66,
+              "title": "【特集】暑い夏を爽やかに！夏酒特集",
+              "link": "https://jizake-daisuki.com/shopbrand/summer/?srsltid=AfmBOorCPjg411HW7EP1TNaas8ba2GAGpMGUQaNhV-pPWVu5CYkQKtaf",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jizake-daisuki.com/shopbrand/summer/%3Fsrsltid%3DAfmBOorCPjg411HW7EP1TNaas8ba2GAGpMGUQaNhV-pPWVu5CYkQKtaf&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCP8BEAE",
+              "displayed_link": "https://jizake-daisuki.com › shopbrand › summer",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579be53724264f70100d557bc1fce8cbd25.png",
+              "snippet": "【特集】暑い夏を爽やかに！夏酒特集 · 19 Il Cumulonembo-入道雲-壜燗火入れうすにごり R6BY(720ml). (株)尾澤酒造場 · 長陽福娘 アクティブドライ 純米吟醸 火入れ R6BY( ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "地酒の奥広屋"
+            },
+            {
+              "position": 67,
+              "title": "日本酒の夏酒とは？ 夏に飲んでいただきたいオススメのお ...",
+              "link": "https://media.yoshida-liquors.co.jp/all/1680/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://media.yoshida-liquors.co.jp/all/1680/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIMCEAE",
+              "displayed_link": "https://media.yoshida-liquors.co.jp › お酒の知識",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579ace35c810f65344c769dcfd61779c7b3.png",
+              "date": "2024/05/29",
+              "snippet": "この季節に飲んでいただきたい夏酒5選 · 愛宕の松 ひと夏の恋 純米吟醸 · 盛升 純米無濾過 なまなま · まんさくの花 吟醸原酒 かち割りまんさく · Kanbai- ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "吉田酒店"
+            },
+            {
+              "position": 68,
+              "title": "夏休み！花火大会！におすすめのお酒！みんなで呑むなら",
+              "link": "https://sakenomatsuzawa.com/2023natsuyasumi-pickup/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sakenomatsuzawa.com/2023natsuyasumi-pickup/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIQCEAE",
+              "displayed_link": "https://sakenomatsuzawa.com › お知らせ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645794fc78359cd00b68c2a0f4467af5e909f.png",
+              "date": "2023/07/22",
+              "snippet": "酒の松澤のおすすめのお酒 · ヨー子ドライレモンサワー · GOOD MELLOW CAMP TRIP MELLOW SOUR（グッドメローキャンプ トリップメローサワー） · koshijinokobai ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "お酒"
+              ],
+              "source": "酒の松澤【松澤酒店】"
+            },
+            {
+              "position": 69,
+              "title": "【2025年8月】日本酒 夏のおすすめ人気ランキング",
+              "link": "https://shopping.yahoo.co.jp/searchranking/%E6%97%A5%E6%9C%AC%E9%85%92+%E5%A4%8F/0/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shopping.yahoo.co.jp/searchranking/%25E6%2597%25A5%25E6%259C%25AC%25E9%2585%2592%2B%25E5%25A4%258F/0/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJsCEAE",
+              "displayed_link": "https://shopping.yahoo.co.jp › searchranking › 日本酒+...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457965008f7a1121310ee5c0752c2ef34279.png",
+              "snippet": "カテゴリ別 ランキング. 純米吟醸酒. 一覧を見る · 甲子 夏詣酒 星合 純米吟醸原酒 720ml 6月26日発売｜ · 玉川 Ice Breaker アイスブレーカー 純米吟醸 無濾過生原酒 木下 ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "extensions": [
+                    "4.7 店舗の評価 (981)"
+                  ]
+                }
+              },
+              "source": "Yahoo!ショッピング"
+            },
+            {
+              "position": 70,
+              "title": "【夏酒】酒屋おすすめ夏酒6選！これは絶対に飲んでおくべき ...",
+              "link": "https://www.youtube.com/watch?v=y4QnPxNmguY",
+              "displayed_link": "視聴回数: 8380 回以上 · 3 年前",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7PaW9Bbau6toa7w5OFDUFZqNCy-uAogqgXFVmvf0c9pJV0NHzv-qIME1jrUb&s&ec=73062981",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579ee6a36363596c7c752066a3dcc4900c5.png",
+              "snippet": "https://www.syusendo-h... 下の目次から気になるお酒をチェック！ · 00:00 オープニング · 01:22 二兎 · 03:39 富久長 · 06:06 播州一献 · 08:19 十六代九郎 ...",
+              "duration": "15:01",
+              "key_moments": [
+                {
+                  "time": "00:00",
+                  "title": "オープニング",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=0",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvkCsn5t0vhwSulHv06ropNifDCQ3r7J4M22fe12uoA&s"
+                },
+                {
+                  "time": "03:39",
+                  "title": "富久長",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=219",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUiPDF16POQFKzPTIgRx7KUOLF6qIwGkCIerNP8bn5uQ&s"
+                },
+                {
+                  "time": "06:06",
+                  "title": "播州一献",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=366",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IS_rMaXcXfr2kuOoVy5ETyF3Ak30QQlfF6IvhcJt6Q&s"
+                },
+                {
+                  "time": "08:19",
+                  "title": "十六代九郎衛門",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=499",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRduo9HsCUKlU32mO5ZwB_QsAqGoBH__BT4snzKup8c2Q&s"
+                },
+                {
+                  "time": "10:43",
+                  "title": "大信州",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=643",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQci1ykf1s_kcrQ2QbQbd3sRSiQ3PS2hmN6ApPKdv1Edw&s"
+                },
+                {
+                  "time": "12:24",
+                  "title": "みむろ杉 夏純 ※完売いたしました。",
+                  "link": "https://www.youtube.com/watch?v=y4QnPxNmguY&t=744",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKQozDd7MfG1SVyvilOkKPoMgUsRJOHbpvUX7q_mkAQ&s"
+                }
+              ],
+              "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT83nE8_DzZXxUdgdvqEixhqKElA9guPQTH2Q",
+              "source": "YouTube · 酒泉洞チャンネル【日本酒・地酒専門酒屋】"
+            },
+            {
+              "position": 71,
+              "title": "お酒がついつい進んじゃう!?家飲みにぴったりな『夏のおつまみ』 ...",
+              "link": "https://kinarino.jp/cat4/36380",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kinarino.jp/cat4/36380&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKcCEAE",
+              "displayed_link": "https://kinarino.jp › ... › 簡単レシピ › おつまみレシピ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b36da5e254fd37de1c238afcd51263f5.png",
+              "snippet": "暑い夏はキーンと冷えたアルコールがおいしいですよね。そんな時に欠かせないのがお酒のすすむおつまみ。バリエーション豊かなおつまみレシピがあれば、家飲みもぐっと ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒"
+              ],
+              "source": "キナリノ"
+            },
+            {
+              "position": 72,
+              "title": "夏にぴったりの日本酒「夏酒」とは？おすすめ銘柄もご紹介！",
+              "link": "https://ranmansakabayashi.com/column/604",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ranmansakabayashi.com/column/604&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKYCEAE",
+              "displayed_link": "https://ranmansakabayashi.com › column",
+              "date": "2024/05/10",
+              "snippet": "・爛漫 夏の純米酒（限定発売）※2024年6月発売. 夏だけ限定発売の新商品。青りんごのような爽やかな香りと、ほど良い酸が特徴のスッキリとした純米酒です。",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "ranmansakabayashi.com"
+            },
+            {
+              "position": 73,
+              "title": "夏のお酒 | まだまだ暑い 猛暑を乗り切る徹底対策 | 特集",
+              "link": "https://www.takashimaya.co.jp/shopping/special/620501/621292/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.takashimaya.co.jp/shopping/special/620501/621292/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKICEAE",
+              "displayed_link": "https://www.takashimaya.co.jp › shopping › special",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645793c532c2dc55414b8c9f8afe7671152da.png",
+              "snippet": "RANKING カテゴリ別ランキング · ビール・洋酒 · ワイン・シャンパン · 日本酒・焼酎 · 夏のお酒 · ビール・洋酒 · ワイン・シャンパン · 日本酒・焼酎 · 夏のお酒",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒",
+                "夏",
+                "お酒"
+              ],
+              "source": "高島屋"
+            },
+            {
+              "position": 74,
+              "title": "夏におすすめ！ 日本酒を使ったおしゃれで美味しいカクテル",
+              "link": "https://shop.sawanoi-sake.com/blogs/sawanoiblogs/sakecocktail?srsltid=AfmBOoq8tbVzyFYZvX84ZxFaE-tSHbapQOMYVnG5u27pffRoeb5XHW2R",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.sawanoi-sake.com/blogs/sawanoiblogs/sakecocktail%3Fsrsltid%3DAfmBOoq8tbVzyFYZvX84ZxFaE-tSHbapQOMYVnG5u27pffRoeb5XHW2R&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKUCEAE",
+              "displayed_link": "https://shop.sawanoi-sake.com › blogs › sakecocktail",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579297c3d7b45f08587b4394ce89092d007.png",
+              "date": "2022/05/25",
+              "snippet": "梅酒にしたらおいしい原酒はアルコール度が20度と、日本酒としては高い数値なので、濃厚でガツンとした味わいがあり、実はカクテルのベースにもぴったりの ...",
+              "source": "澤乃井ネットショップ"
+            },
+            {
+              "position": 75,
+              "title": "夏に飲みたい！おすすめの夏酒特集 - 八女市 - 恵比寿酒店",
+              "link": "https://www.ebisu.ltd/view/news/20210606130619",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebisu.ltd/view/news/20210606130619&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLcCEAE",
+              "displayed_link": "https://www.ebisu.ltd › view › news",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579cbed58be46a7e8efaecf4f33b1525959.png",
+              "date": "2021/06/06",
+              "snippet": "夏の涼。 ... 蛍に金魚に、涼やかなブルーボトル。 ... 古民家にお店をかまえるお酒のセレクトショップです。 恵比寿酒店オリジナル芋焼酎 須美礼 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒"
+              ],
+              "source": "ebisu.ltd"
+            },
+            {
+              "position": 76,
+              "title": "日本酒／夏酒大特集",
+              "link": "https://www.ast39.com/product-group/7/0/normal",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ast39.com/product-group/7/0/normal&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECCsQAQ",
+              "displayed_link": "https://www.ast39.com › product-group › normal",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579cb2c2d48f15aadc217dba6e339775fc6.png",
+              "snippet": "日本酒／夏酒大特集 · 【日本酒】 くどき上手Jr. · 【日本酒】 くどき上手Jr. · 【日本酒】 S寅之助 黒 大辛口 純米大吟醸 活性にごり生酒 2025 720ml（要冷蔵） · 【日本酒】 S ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "厳撰美酒 阿部酒店"
+            },
+            {
+              "position": 77,
+              "title": "夏のお酒はこれ！夏酒の特徴と人気おすすめ5選",
+              "link": "https://www.sake-nonbe.com/japanese-sake/%E5%A4%8F%E9%85%92-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sake-nonbe.com/japanese-sake/%25E5%25A4%258F%25E9%2585%2592-%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECDIQAQ",
+              "displayed_link": "https://www.sake-nonbe.com › 日本酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457992da69b65d53ea113894b1f8ba86a5b0.png",
+              "date": "2019/07/30",
+              "snippet": "夏限定！夏酒の人気おすすめ5選 ; 愛知県産夢山水100% · 55% · 16度 · 酸度/1.8 アミノ酸度/1.1 · 日本酒度/+1.0 ; – · 麹米 五百万石(精米歩合50％)：掛米 一般米( ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "おすすめ"
+              ],
+              "source": "sake-nonbe.com"
+            },
+            {
+              "position": 78,
+              "title": "広島みやげ｜家飲みで夏をもっと楽しむ 季節限定のお酒",
+              "link": "https://miyage-guide.jp/feature/feature-9203/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://miyage-guide.jp/feature/feature-9203/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEcQAQ",
+              "displayed_link": "https://miyage-guide.jp › 特集記事",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579bfa4eef54b157c158c0e80d4024dda27.png",
+              "date": "2021/06/12",
+              "snippet": "賀茂鶴酒造の4人の杜氏が季節ごとの日本酒の味わいを追求し醸造する企画「四杜氏四季酒」。真っ青なラベルに白抜きのツバメが涼やかなこちらは、夏限定酒 ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "瀬戸内・広島おみやげガイド"
+            },
+            {
+              "position": 79,
+              "title": "夏酒ってどんな日本酒？実は知らないその定義とおすすめ銘柄 ...",
+              "link": "https://sakenoshizuku.com/summer-sake",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sakenoshizuku.com/summer-sake&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEQQAQ",
+              "displayed_link": "https://sakenoshizuku.com › ... › 種類や特徴で探す",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579f34253d7adf65fedd8ad1eeb42292a0b.png",
+              "date": "2020/07/17",
+              "snippet": "しかし、実際のところ「夏酒」には明確な定義はありません。「冷やして飲んでおいしい日本酒」や「夏頃に出荷される日本酒」というざっくりとしたものです ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "酒の雫"
+            },
+            {
+              "position": 80,
+              "title": "酒(日本酒 地酒)通販・販売は酒屋・地酒専門店の ...",
+              "link": "https://craviton.com/specials/detail/21",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://craviton.com/specials/detail/21&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEoQAQ",
+              "displayed_link": "https://craviton.com › specials › detail",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579919978011dc2b8d9b2676d8bd69304dc.jpeg",
+              "snippet": "冬の寒い日に飲む燗酒も美味しいですが、夏の暑い日にさらりと喉を潤す冷酒もおすすめです！ 酸味の効いたスッキリとした飲み口の白ワインタイプ、フレッシュな味わいが ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ"
+              ],
+              "source": "CRAVITON"
+            },
+            {
+              "position": 81,
+              "title": "夏ビールのおすすめ人気ランキング",
+              "link": "https://my-best.com/21049",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my-best.com/21049&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECEkQAQ",
+              "displayed_link": "https://my-best.com › ... › おすすめのビール",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b55db86193856dd8977d6105ae947823.png",
+              "snippet": "... おすすめ「夏ビール」をランキング形式でご紹介。「アルコール ... ドリンク・お酒関連のfavlist. ビールブロガーおすすめ！夏に飲みたいクラフト ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏",
+                "お酒",
+                "おすすめ",
+                "夏"
+              ],
+              "source": "マイベスト"
+            },
+            {
+              "position": 82,
+              "title": "夏のクールダウンレシピ",
+              "link": "https://www.asahibeer.co.jp/column/cooldown/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asahibeer.co.jp/column/cooldown/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECFIQAQ",
+              "displayed_link": "https://www.asahibeer.co.jp › column › cooldown",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b25f51934ba7b954fa410092b13c2205.png",
+              "snippet": "暑い夏、ひんやりレシピでクールダウンしませんか？お酒を使ったかき氷や、カクテル風味のアイスなど、暑い時期に楽しめるアサヒビールのおすすめレシピ​をご紹介し ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒",
+                "おすすめ"
+              ],
+              "source": "アサヒビール"
+            },
+            {
+              "position": 83,
+              "title": "夏おススメ酒",
+              "link": "https://www.seiryosyuzo.com/blog/6077",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.seiryosyuzo.com/blog/6077&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECGAQAQ",
+              "displayed_link": "https://www.seiryosyuzo.com › blog",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645794174ef11a727f4132bdb81cae2f3c1c3.png",
+              "date": "2025/06/26",
+              "snippet": "夏おススメ酒 · じわじわと夏の暑さがやってまいりました。これから始まる夏の暑さを避けるのでなく、逆に楽しむべく、おすすめの日本酒をご紹介いたします ...",
+              "snippet_highlighted_words": [
+                "夏おススメ",
+                "夏",
+                "夏",
+                "おすすめ"
+              ],
+              "source": "成龍酒造株式会社"
+            },
+            {
+              "position": 84,
+              "title": "夏におすすめ！お酒をおいしく飲むためのグラス",
+              "link": "https://www.mistore.jp/shopping/feature/living_art_f1/tableware104_l.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mistore.jp/shopping/feature/living_art_f1/tableware104_l.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECGMQAQ",
+              "displayed_link": "https://www.mistore.jp › ... › ホーム・キッチン＆アート",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e8f0b19c063a89886500c4d73d2712ca.png",
+              "date": "2025/05/28",
+              "snippet": "ビール · Sghr/スガハラ 富士山グラス · ZWIESEL GLAS/ツヴィーゼル グラス フォルテ タンブラー13oz ペア · ZWILLING/ツヴィリング 【ZWILLINGおまとめ】 ...",
+              "source": "三越伊勢丹オンラインストア"
+            },
+            {
+              "position": 85,
+              "title": "暑い夏を乗り切ろう！夏にオススメお酒特集2023",
+              "link": "https://odamakiya.jp/event/1154/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://odamakiya.jp/event/1154/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECGQQAQ",
+              "displayed_link": "https://odamakiya.jp › event",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645795e7b23f78198df2631d6aa8fc94fba57.jpeg",
+              "date": "2023/06/28",
+              "snippet": "秋田県の出羽鶴酒造さんの出羽鶴 純米大吟醸です。 大海を高速で泳ぐカジキをイメージさせるような爽快な味わいが特徴。 原料米由来の涼やか ...",
+              "source": "浅五郎の小田巻や 鈴木酒店"
+            },
+            {
+              "position": 86,
+              "title": "夏のリキュールあつめました！｜カクヤス navi ONLINE",
+              "link": "https://kaku-navi.kakuyasu.co.jp/contents/article/natuliqueur.html",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kaku-navi.kakuyasu.co.jp/contents/article/natuliqueur.html&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHMQAQ",
+              "displayed_link": "https://kaku-navi.kakuyasu.co.jp › article › natuliqueur",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579eaf4c028fc96e5ba31485df2added6d3.png",
+              "date": "2020/06/19",
+              "snippet": "愛媛県産の“青みかん”を使用。「果実酒は甘いから苦手」という方にもオススメしたいスッキリした味わいで、食事の邪魔をしません。青みかんの香り ...",
+              "snippet_highlighted_words": [
+                "オススメ"
+              ],
+              "source": "kakuyasu.co.jp"
+            },
+            {
+              "position": 87,
+              "title": "暑い夏にぴったりの夏酒特集！ - 日本酒通販はSAKE Street",
+              "link": "https://store.sakestreet.com/collections/summer-sake",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.sakestreet.com/collections/summer-sake&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHoQAQ",
+              "displayed_link": "https://store.sakestreet.com › collections › summer-sake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579ed43e203e7aaea8f4408df6ba10b46dd.png",
+              "snippet": "暑い夏にぴったりの夏酒特集！ · LIBROM Mint 2024年醸造 · わかむすめ Tropical Bunbun 純米吟醸 うすにごり 無濾過生原酒 · 美涼 特別純米 美山錦 無濾過生原酒 · 舞美人 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏"
+              ],
+              "source": "SAKE Street"
+            },
+            {
+              "position": 88,
+              "title": "夏の暑い日に飲む飲み物は何ですか？オススメのやつを教えて ...",
+              "link": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10301513950",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10301513950&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECHwQAQ",
+              "displayed_link": "https://detail.chiebukuro.yahoo.co.jp › ... › 料理、レシピ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457959b477f47bce6bc25cd682012431fbab.png",
+              "date": "2024/07/23",
+              "snippet": "自分で作る物でしたらレモンを搾って炭酸で割って飲む事があります。 ノンアルコールレモンサワーなのかノンシュガーレモンスカッシュなのか判りませ ...",
+              "source": "Yahoo!知恵袋"
+            },
+            {
+              "position": 89,
+              "title": "夏と言ったらおすすめなジャンル別お酒、アルコールまとめ",
+              "link": "https://news39.hatenablog.com/entry/summerdrink-recommend",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news39.hatenablog.com/entry/summerdrink-recommend&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoECH0QAQ",
+              "displayed_link": "https://news39.hatenablog.com › entry › summerdrink-...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb4936457902bf65148604132aa0859ccbbb0f7c5b.png",
+              "date": "2021/07/23",
+              "snippet": "夏と言ったらおすすめなジャンル別お酒、アルコールまとめ · ビール · リキュール、果実酒、コンク、シロップ · 焼酎 · ワイン · 日本酒 · ウイスキー.",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ",
+                "お酒"
+              ],
+              "source": "はてなブログ"
+            },
+            {
+              "position": 90,
+              "title": "酒のやまや",
+              "link": "https://www.yamaya.jp/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yamaya.jp/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIoBEAE",
+              "displayed_link": "https://www.yamaya.jp",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645791e6eaaddaed0c0a04bf7d95b03cfccad.png",
+              "snippet": "おすすめ. やまやドライブ · やまやアプリ紹介 · 大和蔵酒造株式会社 ... CM. Your browser does not support the video tag. やまや「家族でお買い物」夏ギフト篇15秒 ...",
+              "snippet_highlighted_words": [
+                "おすすめ",
+                "夏"
+              ],
+              "source": "酒のやまや"
+            },
+            {
+              "position": 91,
+              "title": "この時期飲みたい夏酒5選｜日本酒から四季の移ろいを感じ ...",
+              "link": "https://liqlog.com/post/maker/summer_japanese-sake/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://liqlog.com/post/maker/summer_japanese-sake/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCIsBEAE",
+              "displayed_link": "https://liqlog.com › post › maker › summer_japanese-sake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e5b2272d239369a865d757d73931f865.png",
+              "date": "2023/07/07",
+              "snippet": "日本酒の四季とは？ · 夏酒ってどんなお酒？ 夏酒の魅力; 夏酒のタイプ · 夏酒のおすすめ日本酒5選！ 七田 夏純｜天山酒造; 栄光冨士 七星｜冨士酒造; 赤武 純米 ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "お酒",
+                "夏",
+                "夏",
+                "夏",
+                "おすすめ",
+                "夏"
+              ],
+              "source": "LIQLOG"
+            },
+            {
+              "position": 92,
+              "title": "おすすめ5選】ねこと日本酒が選ぶ「夏酒No.1」はコレだ！",
+              "link": "https://neko-to-nihonsyu.jp/summer-sake/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://neko-to-nihonsyu.jp/summer-sake/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJYBEAE",
+              "displayed_link": "https://neko-to-nihonsyu.jp › summer-sake",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579d8b899b1ec3eede88ac317037431a97b.png",
+              "date": "2022/05/16",
+              "snippet": "まとめ · 【夏酒No.1】玉川 Ice Breaker（アイスブレーカー） · 【夏酒No.2】赤武 AKABU 夏霞 Natsu Kasumi · 【夏酒No.3】Beau Michelle（ボーミッシェル）in ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "夏",
+                "夏",
+                "夏"
+              ],
+              "source": "neko-to-nihonsyu.jp"
+            },
+            {
+              "position": 93,
+              "title": "【2023年】この夏に飲みたいおすすめの「夏酒」10選",
+              "link": "https://www.sakemania.com/13386/t11621/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sakemania.com/13386/t11621/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCJoBEAE",
+              "displayed_link": "https://www.sakemania.com › ...",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579b7e8ce74bff06e7f19a7c977902bac71.png",
+              "date": "2021/06/08",
+              "snippet": "まずは、広島県の榎酒造が作る「華鳩」。夏酒は、大胆なスイカ模様のラベルをあしらった特別純米酒です。日本酒のアルコール度数は15～19度が一般的 ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "SAKE Mania"
+            },
+            {
+              "position": 94,
+              "title": "2025年最新版！お取り寄せにおすすめの【お酒】人気 ...",
+              "link": "https://tabiiro.jp/otoriyose/ranking/alcohol/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tabiiro.jp/otoriyose/ranking/alcohol/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKcBEAE",
+              "displayed_link": "https://tabiiro.jp › ... › カテゴリ別ランキング",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645797c95e7e1cb8b3f29f0a22fbb179eaf30.png",
+              "snippet": "お酒人気ランキング · 1位. HYOKA. 沖縄県. [米島酒造] · 2位. 本格焼酎長寿庵720ml. 鹿児島県 · 3位. 長良川 梅酒-プレミアム梅酒-. 岐阜県 · 4位. 梅酒. 和歌山県 · 5位. 残波 ...",
+              "snippet_highlighted_words": [
+                "お酒"
+              ],
+              "rich_snippet": {
+                "bottom": {
+                  "detected_extensions": {
+                    "price": 5500,
+                    "currency": "￥"
+                  },
+                  "extensions": [
+                    "￥5,500"
+                  ]
+                }
+              },
+              "source": "旅色"
+            },
+            {
+              "position": 95,
+              "title": "夏にぴったりな日本酒とはどんな日本酒？夏ならでは ...",
+              "link": "https://www.sawanotsuru.co.jp/site/nihonshu-columm/enjoy/summer-nihonshu/?srsltid=AfmBOoop1zgqawzvEJpFnt3pIy2_Y70CIZSntLDiEhegJmHRuKH9WXIl",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sawanotsuru.co.jp/site/nihonshu-columm/enjoy/summer-nihonshu/%3Fsrsltid%3DAfmBOoop1zgqawzvEJpFnt3pIy2_Y70CIZSntLDiEhegJmHRuKH9WXIl&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCKgBEAE",
+              "displayed_link": "https://www.sawanotsuru.co.jp › ... › 日本酒を楽しもう",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645796609e18ba51d2a920ac55e845e56a090.png",
+              "date": "2019/07/15",
+              "snippet": "まるで白ワインのような酸味の効いたタイプや、フレッシュで爽やかな生酒タイプ、キリッとパンチのある原酒などが代表例です。中でも特におすすめなのが、 ...",
+              "snippet_highlighted_words": [
+                "おすすめ"
+              ],
+              "source": "沢の鶴オンラインショップ"
+            },
+            {
+              "position": 96,
+              "title": "【夏酒おすすめ】熱帯夜も爽やかになるスッキリ淡麗の日本酒4 ...",
+              "link": "https://tokusengai.com/_ct/17471142",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tokusengai.com/_ct/17471142&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLEBEAE",
+              "displayed_link": "https://tokusengai.com › 暮らし・生活・ペット",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb493645795c19147b74fd79821a5b47c9dde69777.png",
+              "date": "2021/08/03",
+              "snippet": "【夏酒おすすめ】熱帯夜も爽やかになるスッキリ淡麗の日本酒4選 ロックやソーダ割が合うお酒も紹介 · 百十郎 純米吟醸 青波(あおなみ)-BLUE Wave-林本店( ...",
+              "snippet_highlighted_words": [
+                "夏",
+                "おすすめ",
+                "お酒"
+              ],
+              "source": "特選街web"
+            },
+            {
+              "position": 97,
+              "title": "おすすめ夏酒 5選！日本酒で暑さを吹き飛ばそう！",
+              "link": "https://jp.sake-times.com/special/recommend/sake_summersakerecomends",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jp.sake-times.com/special/recommend/sake_summersakerecomends&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLIBEAE",
+              "displayed_link": "https://jp.sake-times.com › 特集 › おすすめ",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e94987e9acce46c64edfe30fb25e3872.png",
+              "date": "2015/08/10",
+              "snippet": "おすすめ夏酒 5選！日本酒で暑さを吹き飛ばそう！ · 開運 涼々 特別純米酒(土井酒造場 静岡県掛川市) · 鍋島 SUMMER MOON 吟醸酒 (富 久千代酒造有限会社 ...",
+              "snippet_highlighted_words": [
+                "おすすめ夏"
+              ],
+              "source": "SAKETIMES"
+            },
+            {
+              "position": 98,
+              "title": "はせがわ酒店 オンライン店",
+              "link": "https://www.hasegawasaketen.com/eshop/",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hasegawasaketen.com/eshop/&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCK8BEAE",
+              "displayed_link": "https://www.hasegawasaketen.com › eshop",
+              "snippet": "ハッシュタグ · #都道府県から日本酒を探す · #秋酒 · #予約商品 · #2025受賞酒 · #夏ギフト · # 3,000円～ · # 5,000円～ · # 10,000円～ ...",
+              "snippet_highlighted_words": [
+                "夏"
+              ],
+              "source": "はせがわ酒店"
+            },
+            {
+              "position": 99,
+              "title": "リキュールのおすすめ24選 カクテルにして飲みやすいモノなど ...",
+              "link": "https://www.biccamera.com/bc/i/topics/osusume_liqueur/index.jsp",
+              "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biccamera.com/bc/i/topics/osusume_liqueur/index.jsp&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQFnoFCLYBEAE",
+              "displayed_link": "https://www.biccamera.com › ... › リキュール・梅酒",
+              "favicon": "https://serpapi.com/searches/68ac7ad0998aad203b852c49/images/427824e8645c8dcc050a2cdb49364579e5594d0330dffd29e66fdaf1edd4a2d5.png",
+              "date": "2025/05/28",
+              "snippet": "リキュールとは、蒸留酒に果実やハーブなどのフレーバーや砂糖を加えた混成酒のひとつです。甘みがあって飲みやすく、ブルーやグリーンなどの着色料を使用 ...",
+              "source": "ビックカメラ"
+            }
+          ],
+          "related_searches": [
+            {
+              "block_position": 1,
+              "query": "夏のお酒 カクテル",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F%E3%81%AE%E3%81%8A%E9%85%92+%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjAAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F%E3%81%AE%E3%81%8A%E9%85%92+%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB"
+            },
+            {
+              "block_position": 1,
+              "query": "夏 お酒 飲みたくなる",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E9%A3%B2%E3%81%BF%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjIAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E9%A3%B2%E3%81%BF%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B"
+            },
+            {
+              "block_position": 1,
+              "query": "夏酒 ひやおろし",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F%E9%85%92+%E3%81%B2%E3%82%84%E3%81%8A%E3%82%8D%E3%81%97&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjHAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F%E9%85%92+%E3%81%B2%E3%82%84%E3%81%8A%E3%82%8D%E3%81%97"
+            },
+            {
+              "block_position": 1,
+              "query": "夏酒 読み方",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F%E9%85%92+%E8%AA%AD%E3%81%BF%E6%96%B9&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjGAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F%E9%85%92+%E8%AA%AD%E3%81%BF%E6%96%B9"
+            },
+            {
+              "block_position": 1,
+              "query": "夏酒 日本酒",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F%E9%85%92+%E6%97%A5%E6%9C%AC%E9%85%92&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjEAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F%E9%85%92+%E6%97%A5%E6%9C%AC%E9%85%92"
+            },
+            {
+              "block_position": 1,
+              "query": "夏酒 2025",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F%E9%85%92+2025&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjFAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F%E9%85%92+2025"
+            },
+            {
+              "block_position": 1,
+              "query": "夏 日本酒 飲み方",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E5%A4%8F+%E6%97%A5%E6%9C%AC%E9%85%92+%E9%A3%B2%E3%81%BF%E6%96%B9&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjCAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E6%97%A5%E6%9C%AC%E9%85%92+%E9%A3%B2%E3%81%BF%E6%96%B9"
+            },
+            {
+              "block_position": 1,
+              "query": "日本酒 夏酒 特徴",
+              "link": "https://www.google.com/search?num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&q=%E6%97%A5%E6%9C%AC%E9%85%92+%E5%A4%8F%E9%85%92+%E7%89%B9%E5%BE%B4&sa=X&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ1QJ6BQjBAhAB",
+              "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E6%97%A5%E6%9C%AC%E9%85%92+%E5%A4%8F%E9%85%92+%E7%89%B9%E5%BE%B4"
+            }
+          ],
+          "pagination": {
+            "current": 1,
+            "next": "https://www.google.com/search?q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&ei=0XqsaKucMd7R1sQP792yiAM&start=100&sa=N&sstk=Ac65TH7wmctrhdL3enNZ8C3pfClsJkAQWsTA1Q3-rfwdtrHPX1acHwY-SuVVMbUJtXxQ3e11g_GfR4rIyR9uFcHM-io8L1TIzabKMA&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ8NMDegQIBxAI",
+            "other_pages": {
+              "2": "https://www.google.com/search?q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&ei=0XqsaKucMd7R1sQP792yiAM&start=100&sa=N&sstk=Ac65TH7wmctrhdL3enNZ8C3pfClsJkAQWsTA1Q3-rfwdtrHPX1acHwY-SuVVMbUJtXxQ3e11g_GfR4rIyR9uFcHM-io8L1TIzabKMA&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ8tMDegQIBxAE",
+              "3": "https://www.google.com/search?q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&num=100&sca_esv=8e23599b05dcda53&gl=jp&hl=ja&ei=0XqsaKucMd7R1sQP792yiAM&start=200&sa=N&sstk=Ac65TH7wmctrhdL3enNZ8C3pfClsJkAQWsTA1Q3-rfwdtrHPX1acHwY-SuVVMbUJtXxQ3e11g_GfR4rIyR9uFcHM-io8L1TIzabKMA&ved=2ahUKEwjryM-onaaPAxXeqJUCHe-uDDEQ8tMDegQIBxAG"
+            }
+          },
+          "serpapi_pagination": {
+            "current": 1,
+            "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&start=100",
+            "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&start=100",
+            "other_pages": {
+              "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&start=100",
+              "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=jp&google_domain=google.com&hl=ja&num=100&q=%E5%A4%8F+%E3%81%8A%E9%85%92+%E3%81%8A%E3%81%99%E3%81%99%E3%82%81&start=200"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
